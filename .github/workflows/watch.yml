@@ -12,7 +12,12 @@ name: watch
 on:
   schedule:
     - cron: '17 * * * *'
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      test_fire:
+        description: 'Wake the routine once, to prove the key (it runs and finds nothing to do)'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -36,7 +41,7 @@ jobs:
         env:
           RECIPE_ROUTINE_ID: trig_0117vSndLBokvChbTkj5QmEd
           RECIPE_ROUTINE_TOKEN: ${{ secrets.RECIPE_ROUTINE_TOKEN }}
-        run: npx -y tsx@4.23.1 --tsconfig scripts/recipe-links/tsconfig.json scripts/recipe-links/watch.ts --data .. --state ../watch.json --fire
+        run: npx -y tsx@4.23.1 --tsconfig scripts/recipe-links/tsconfig.json scripts/recipe-links/watch.ts --data .. --state ../watch.json --fire ${{ inputs.test_fire && '--test-fire' || '' }}
 
       - name: Heartbeat when main has been quiet for 30 days
         run: |

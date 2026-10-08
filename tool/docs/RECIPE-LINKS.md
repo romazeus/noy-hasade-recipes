@@ -210,10 +210,12 @@ its own `tsconfig.json` exists because the app's extends `expo/tsconfig.base`. A
 retries once a day later. A guard refuses: publish (the report alone goes out) and stop; never edit
 a guard, a plant or a verdict to get past one. The app keeps its last good file in every case.
 
-**What it costs** (measured 2026-10-08 on the first run): a judge costs roughly 110,000 to 230,000
-tokens, depending on its packet; a run that judges a few changed lines needs one picker and one
-critic. The first full run (the whole dictionary, 24 judges) took about 4.7 million, once. A day
-with no change costs nothing. 🔴 There is no rotation any more (`--rotate`, default 0): every run
+**What it costs** (measured 2026-10-08). The first full run (the whole dictionary, 24
+general-purpose judges, in a session) took about 4.7 million tokens, once. In the cloud, the lean
+`recipe-judge` agent (it can only read and write) judged a packet of 8 items with 10 plants in about
+15,000 tokens, and the whole dry run, start to finish, took 77 seconds. A wake that judges a few
+changed lines costs a small fraction of a day of interactive work; a quiet day costs nothing, and a
+wake that finds nothing commits nothing. 🔴 There is no rotation (`--rotate`, default 0): every run
 proves its judges on planted errors, and a link is judged again whenever what was judged changes.
 
 ## 6. Measured

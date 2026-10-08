@@ -3,7 +3,7 @@
  * decide, and wakes the routine only when there is (Rom, 2026-10-08: only when needed).
  *
  *   npx -y tsx --tsconfig scripts/recipe-links/tsconfig.json scripts/recipe-links/watch.ts \
- *     --data .. --state ../watch.json [--fire]
+ *     --data .. --state ../watch.json [--fire] [--test-fire]
  *
  * Runs in the recipes repo's GitHub Actions (`.github/workflows/watch.yml`), from `tool/`. Reads
  * `<data>/source.json` and the live shop, reads and rewrites the state file, and with `--fire` and a
@@ -29,6 +29,8 @@ const arg = (name: string) => {
 const DATA = resolve(arg('data') ?? '..');
 const STATE = resolve(arg('state') ?? join(DATA, 'watch.json'));
 const FIRE = args.includes('--fire');
+/** Wake the routine once whatever the work, to prove the key and the path (the workflow's manual button). */
+const TEST = args.includes('--test-fire');
 
 function say(line: string) {
   console.log(line);
@@ -65,6 +67,11 @@ async function main() {
   const { catalogSize, recipeCount } = source.meta;
   if ((catalogSize > 0 && byId.size < 0.9 * catalogSize) || (recipeCount > 0 && recipes.length < 0.9 * recipeCount)) {
     say(`not waking: the shop came back short (${byId.size} products, ${recipes.length} recipes; the last run saw ${catalogSize} and ${recipeCount})`);
+    return;
+  }
+  if (TEST) {
+    const url = await fire('A test wake from the watcher, to prove the key and the path. Run the procedure as always; there may be nothing to do.');
+    say(`TEST WAKE accepted → ${url}`);
     return;
   }
   const live = recipes.map((r) => ({ slug: r.slug, postId: r.postId, title: r.title, lines: r.lines }));
