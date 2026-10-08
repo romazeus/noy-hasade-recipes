@@ -243,6 +243,14 @@ proves its judges on planted errors, and a link is judged again whenever what wa
     served              674 of the 680 lines that had a product in season (99.1%); 32 marked
                         substitutes; 57 not sold or not a shop item; 12 lines of fruit out of
                         season (strawberry, fig, cherry, apricot) wait for their products
+    the merchant's lists checked 2026-10-08 (every recipe's products_buy, the app's "מצרכים
+                        שתוכלו לרכוש פה", Rom: no longer needed once stage 2 ships): 513 offered by
+                        the system, 378 no longer in the catalogue, 108 left out, almost all on
+                        purpose (salted butter for baking, crushed-garlic jars, 2.8 kg sacks for one
+                        potato, a dip bowl). One proposer error fixed (the tart's mushroom mix read
+                        as a pack). 🔴 Two recipes LACK a main ingredient in their own list, so no
+                        product can be offered for it until the line exists in WordPress: כרוב ממולא
+                        (no cabbage, no onion), רושטי עם תרד מוקפץ וביצת עין (no egg)
     🔴 a judge was wrong once, and it stands: "פקאן סיני" IS the candied pecan in Israel, and
                         the critic refused it as "not plain pecan". Re-proposing it would be
                         arguing; the line stays plain text. That is the price of the rule.
