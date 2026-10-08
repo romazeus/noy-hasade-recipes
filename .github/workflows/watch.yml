@@ -1,0 +1,59 @@
+# The recipe-links WATCHER: free, hourly, no AI (tool/scripts/recipe-links/watch.ts and
+# tool/src/data/recipeLinks/watchRule.ts). It wakes the routine only when there is work for it
+# (Rom, 2026-10-08: only when needed). A quiet hour costs nothing and commits nothing.
+#
+# Its state is watch.json on main; the routine's publish rebases over it, and the two never touch
+# the same file. A public repo's scheduled workflows stop after 60 days with no activity, so the
+# watcher also commits a heartbeat when main has been quiet for 30 days.
+#
+# Written in the app repo (scripts/recipe-links/repo/) and copied here by sync-tool.mjs.
+name: watch
+
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: watch
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7.1.0
+        with:
+          node-version: 22
+
+      - name: Look for work, and wake the routine if there is
+        working-directory: tool
+        env:
+          RECIPE_ROUTINE_ID: trig_0117vSndLBokvChbTkj5QmEd
+          RECIPE_ROUTINE_TOKEN: ${{ secrets.RECIPE_ROUTINE_TOKEN }}
+        run: npx -y tsx@4.23.1 --tsconfig scripts/recipe-links/tsconfig.json scripts/recipe-links/watch.ts --data .. --state ../watch.json --fire
+
+      - name: Heartbeat when main has been quiet for 30 days
+        run: |
+          last=$(git log -1 --format=%ct)
+          if [ $(( $(date +%s) - last )) -gt $((30 * 24 * 3600)) ]; then
+            node -e "const fs=require('fs');const f='watch.json';const s=fs.existsSync(f)?JSON.parse(fs.readFileSync(f,'utf8')):{};s.heartbeat=new Date().toISOString();fs.writeFileSync(f,JSON.stringify(s,null,1)+'\n')"
+          fi
+
+      - name: Save the state
+        run: |
+          if [ -z "$(git status --porcelain -- watch.json)" ]; then echo "state unchanged"; exit 0; fi
+          git config user.name recipe-links-watch
+          git config user.email recipe-links-watch@users.noreply.github.com
+          git add -- watch.json
+          git commit -q -m "watch: $(date -u +%FT%TZ)" -- watch.json
+          for i in 1 2 3; do
+            if git pull --rebase -q origin main && git push -q origin HEAD:main; then exit 0; fi
+            sleep 5
+          done
+          exit 1
