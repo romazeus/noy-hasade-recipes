@@ -25025,6 +25025,13 @@
    "strikes": 0,
    "picker": true,
    "critic": true
+  },
+  "[\"150 גרם מיקס פטריות טריות\",\"mushrooms-forest\",\"150g\",\"all\",0]#811": {
+   "h": "2cxqn4ucxpa.173vfejbdy0",
+   "at": "2026-10-08T21:28:47.745Z",
+   "strikes": 0,
+   "picker": true,
+   "critic": true
   }
  },
  "plants": [
@@ -25247,7 +25254,7 @@
  "meta": {
   "catalogSize": 1696,
   "recipeCount": 65,
-  "at": "2026-10-08T20:56:58.267Z"
+  "at": "2026-10-08T21:28:47.745Z"
  },
  "skipped": {}
 }
