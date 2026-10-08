@@ -200,9 +200,11 @@ its own `tsconfig.json` exists because the app's extends `expo/tsconfig.base`. A
 4. Optional, once: the pairs judged "no" are listed. Fix the ones the proposer genuinely got wrong,
    then `R packets --data .. --round 2`, judges, `R judge --data ..`. Never argue a "no" by
    re-proposing the same thing.
-5. `R publish --data ..`. It commits `recipe-links.v1.json`, `source.json` and `report.md` to
-   `main` (a refused run commits only the report), rebasing over the watcher's own commits, and
-   refuses if anything else changed. 🔴 Never change any other file, never push anything else.
+5. `R publish --data .. --push`. It commits `recipe-links.v1.json`, `source.json` and `report.md`
+   to `main` (a refused run commits only the report; a run that judged and changed nothing commits
+   nothing), rebasing over the watcher's own commits, and refuses if anything else changed.
+   🔴 Pushing is opt-in: without `--push` it only commits locally, so a rehearsal can never reach
+   GitHub (one did, on 2026-10-08, before this flag). Never change any other file.
 
 **When a step fails:** the shop API or the recipe index fails: stop, publish nothing; the watcher
 retries once a day later. A guard refuses: publish (the report alone goes out) and stop; never edit

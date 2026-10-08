@@ -7,7 +7,7 @@
  *   npx tsx scripts/recipe-links/run.ts packets   --data <dir> [--round 2]
  *   (one judge per packet, as subagents: see the printed instructions)
  *   npx tsx scripts/recipe-links/run.ts judge     --data <dir>
- *   npx tsx scripts/recipe-links/run.ts publish   --data <dir> [--dry-run] [--no-push]
+ *   npx tsx scripts/recipe-links/run.ts publish   --data <dir> [--dry-run] [--push]
  *
  * `--data` is a checkout of `romazeus/noy-hasade-recipes`. The work folder is `--work`, by default
  * `.logs/recipe-links/run` (gitignored). The procedure, step by step, is `docs/RECIPE-LINKS.md`,
@@ -67,6 +67,11 @@ const AUTHOR = { name: 'recipe-links', email: 'recipe-links@users.noreply.github
 const ROTATE = Number(arg('rotate') ?? 0);
 
 const readJson = <T>(p: string): T => JSON.parse(readFileSync(p, 'utf8')) as T;
+/** JSON with every object's keys sorted: two records equal as data compare equal as strings. */
+const canon = (v: unknown): string =>
+  JSON.stringify(v, (_k, x: unknown) =>
+    x && typeof x === 'object' && !Array.isArray(x) ? Object.fromEntries(Object.entries(x as Record<string, unknown>).sort(([a], [b]) => (a < b ? -1 : a > b ? 1 : 0))) : x,
+  );
 const writeJson = (p: string, v: unknown, pretty = true) => writeFileSync(p, JSON.stringify(v, null, pretty ? 1 : undefined) + '\n');
 
 type Live = { at: string; catalog: CatalogProduct[]; recipes: LiveRecipeFull[] };
@@ -384,20 +389,29 @@ function judge() {
 
   rmSync(OUT, { recursive: true, force: true });
   mkdirSync(OUT, { recursive: true });
-  const publish = refusals.length === 0;
+  // A run that judged nothing and changes nothing commits nothing, not even its report: a quiet
+  // wake must not leave a commit behind (Rom, 2026-10-08: only when needed).
+  // Compared as DATA, keys sorted, absent and empty alike: the first version compared strings, and an
+  // absent `skipped` beside an empty one read as a change and committed a quiet run (2026-10-08).
+  const servedBytes = JSON.stringify(stripForServing(built.served)) + '\n';
+  const sameServed = !!previous && canon(previous) === canon(stripForServing(built.served));
+  const record = (x: Source) => ({ file: x.file, verdicts: x.verdicts, plants: x.plants, skipped: x.skipped ?? {} });
+  const sameSource = canon(record(next)) === canon(record(source));
+  const unchanged = refusals.length === 0 && batches.length === 0 && sameServed && sameSource;
+  const publish = refusals.length === 0 && !unchanged;
   writeFileSync(join(OUT, 'report.md'), md);
   if (publish) {
     next.meta = { catalogSize: catalog.size, recipeCount: liveRecipes.length, at: now };
     writeJson(join(OUT, 'source.json'), next);
-    writeJson(join(OUT, 'recipe-links.v1.json'), stripForServing(built.served), false);
+    writeFileSync(join(OUT, 'recipe-links.v1.json'), servedBytes);
   }
-  writeJson(join(OUT, 'status.json'), { publish, refusals, at: now });
+  writeJson(join(OUT, 'status.json'), { publish, unchanged, refusals, at: now });
 
   const failed = scores.filter((s) => !passed(s) && thisRound.has(s.batch));
   const nos = Object.entries(verdicts).filter(([k, v]) => pairs.has(k) && v.h === pairs.get(k)!.h && (v.picker === false || v.critic === false) && v.at === now);
   console.log(`judged: ${fresh.filter(passed).length}/${fresh.length} packets passed this round${failed.length ? `; FAILED: ${failed.map((s) => s.batch).join(', ')} (one more fresh judge each, writing <id>.2.txt)` : ''}`);
   console.log(`this round's "no": ${nos.length} pairs${nos.length && state.round === 1 ? ' (fix once in concepts.json / lines.tsv, then `packets --round 2`, or leave them as plain text)' : ''}`);
-  console.log(publish ? `READY TO PUBLISH: ${join(OUT)}` : `NOT PUBLISHABLE:\n  ${refusals.join('\n  ')}`);
+  console.log(unchanged ? 'NOTHING CHANGED: publish will commit nothing' : publish ? `READY TO PUBLISH: ${join(OUT)}` : `NOT PUBLISHABLE:\n  ${refusals.join('\n  ')}`);
   console.log(`report: ${join(OUT, 'report.md')}`);
   process.exitCode = publish ? 0 : 3;
 }
@@ -421,7 +435,11 @@ function changedPaths(): string[] {
 }
 
 function publish() {
-  const status = readJson<{ publish: boolean; refusals: string[]; at: string }>(join(OUT, 'status.json'));
+  const status = readJson<{ publish: boolean; unchanged?: boolean; refusals: string[]; at: string }>(join(OUT, 'status.json'));
+  if (status.unchanged) {
+    console.log('nothing was judged and nothing changed; no commit');
+    return;
+  }
   const dirty = changedPaths();
   if (dirty.length) throw new Error(`the data checkout has changes of its own; refusing:\n${dirty.join('\n')}`);
   // A refused run still publishes its report, so the refusal is visible where the file lives.
@@ -446,7 +464,9 @@ function publish() {
   // A public repo: the run commits under a no-reply identity, as the status repo's catalog-watch does,
   // never under the e-mail of whoever's machine or account it runs on.
   git('-c', `user.name=${AUTHOR.name}`, '-c', `user.email=${AUTHOR.email}`, 'commit', '-m', msg, '--', ...changed);
-  if (!flag('no-push')) {
+  // 🔴 Pushing is OPT-IN (`--push`): a rehearsal against a clone of the real repo pushed a commit to
+  // it once, because pushing was the default (2026-10-08). The routine's prompt passes `--push`.
+  if (flag('push')) {
     // The hourly watcher commits its own file (`watch.json`) to main; replay this commit on top of
     // whatever it pushed meanwhile, so the two never collide (they never touch the same file).
     git('-c', `user.name=${AUTHOR.name}`, '-c', `user.email=${AUTHOR.email}`, 'pull', '--rebase', '--quiet', 'origin', 'main');

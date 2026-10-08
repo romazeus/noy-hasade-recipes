@@ -15,7 +15,8 @@ there is work. It has NO schedule of its own.
   stored with `pbpaste | gh secret set RECIPE_ROUTINE_TOKEN -R romazeus/noy-hasade-recipes`, never
   pasted anywhere else.
 
-The prompt (the text between the lines, verbatim; the first run's step 5 reads `publish --dry-run`):
+The prompt (the text between the lines, verbatim; the first run was a DRY run: step 2 used
+`--rotate 4` and step 5 `publish --data .. --dry-run`):
 
 ---
 
@@ -33,7 +34,7 @@ stop rather than improvise.
    a judge.
 4. Never change a file outside tool/.logs, except through run.ts publish. Never edit a guard, a
    planted product, a verdict, the tool or the workflow to get past a refusal.
-5. Publish only through `run.ts publish --data ..`. It commits three files to main.
+5. Publish only through `run.ts publish --data .. --push`. It commits three files to main.
 6. If the shop API or the recipe index fails, stop without publishing. If a guard refuses, run
    publish (it commits the report alone) and stop.
 7. End with two lines: whether the run published, and why or why not, with the counts from the
