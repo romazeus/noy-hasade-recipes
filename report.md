@@ -1,4 +1,4 @@
-# Recipe links: run of 2026-10-09T19:00:34.825Z
+# Recipe links: run of 2026-10-09T19:03:10.722Z
 
 **Published.**
 
@@ -8,8 +8,6 @@
 
 ## The judges, proven on planted errors
 
-- r1-picker-01: 11 items, 10 planted; 1 attempt(s); passed
-- r1-critic-01: 15 items, 10 planted; 2 attempt(s); passed
 
 ## Plain text, and why
 
