@@ -9,6 +9,7 @@
  * three letters counts both ways. (Moved from `proposals/gap-candidates.ts`.)
  */
 import { cleanHebrewText, stem } from '@/utils/hebrew';
+import { sharesPrefix } from './rules';
 
 /** Words that say how much or how prepared, never what. */
 const NOISE = new Set(
@@ -34,7 +35,9 @@ export function words(text: string): string[] {
   ];
 }
 
-export const near = (a: string, b: string) => a === b || (a.length >= 3 && b.length >= 3 && (a.startsWith(b) || b.startsWith(a)));
+// A shared opening of five letters counts too: "ברוקומיני" is never offered for "ברוקולי" otherwise.
+export const near = (a: string, b: string) =>
+  a === b || (a.length >= 3 && b.length >= 3 && (a.startsWith(b) || b.startsWith(a))) || sharesPrefix(a, b);
 
 export type Indexed<T> = { item: T; w: string[] };
 

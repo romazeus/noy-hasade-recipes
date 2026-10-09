@@ -133,13 +133,21 @@ export function leadStem(text: string): string {
  * as olive oil, and "חסה קיסר" would pass every lettuce the shop sells; the first word places the
  * product, the rest say WHICH one.
  */
+/**
+ * Two STEMS of five letters or more opening with the same four (ברוקולי, ברוקומיני): a coined name of
+ * the same thing. Four on the stem, because `stem` takes a leading ב as a preposition (רוקול).
+ */
+export const sharesPrefix = (a: string, b: string) => a.length >= 5 && b.length >= 5 && a.slice(0, 4) === b.slice(0, 4);
+
 export function leadsWith(productName: string, concept: Pick<ConceptRecord, 'label' | 'aliases'>): boolean {
   const words = stemsOf(productName);
   if (!words.length) return false;
   const near = (a: string, b: string) => a === b || (a.length >= 4 && b.length >= 4 && (a.startsWith(b) || b.startsWith(a)));
   return [concept.label, ...(concept.aliases ?? [])].some((label) => {
     const want = stemsOf(label);
-    if (!want.length || want[0] !== words[0]) return false;
+    // 🔴 The head word may be a NEAR form, not only the same one (Rom, 2026-10-09: ברוקומיני for
+    // ברוקולי, never offered). This only puts a product in front of the proposer; it serves nothing.
+    if (!want.length || !(near(want[0], words[0]) || sharesPrefix(want[0], words[0]))) return false;
     return want.slice(1).every((w) => words.some((x) => near(x, w)));
   });
 }
