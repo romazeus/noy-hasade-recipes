@@ -1,15 +1,15 @@
-# Recipe links: run of 2026-10-08T21:28:47.745Z
+# Recipe links: run of 2026-10-09T19:00:34.825Z
 
 **Published.**
 
 - live recipes: 65; distinct live lines: 749
 - lines served with products: 675; lines marked not sold or not a shop item: 57
-- verdicts on record: 1162; planted products: 43
+- verdicts on record: 1167; planted products: 43
 
 ## The judges, proven on planted errors
 
-- r1-picker-01: 8 items, 10 planted; 1 attempt(s); passed
-- r1-critic-01: 11 items, 10 planted; 1 attempt(s); passed
+- r1-picker-01: 11 items, 10 planted; 1 attempt(s); passed
+- r1-critic-01: 15 items, 10 planted; 2 attempt(s); passed
 
 ## Plain text, and why
 
@@ -29,6 +29,16 @@
 - מרנג תותים וקצפת: "1 ק"ג תותים" strawberry (no members)
 - פירות מקורמלים עם גלידה וניל: "3 תאנים" fig (no members)
 
+### the picker did not name the product (7)
+
+- greek-yogurt product 900083 (critic: לא ברור מהו יוגורט "גולדן", אולי גרסה מיוחדת ולא יוגורט יווני רגיל)
+- yogurt-plain product 432505 (critic: לא ברור ש"יוגורט מולטי" הוא יוגורט טבעי)
+- chickpeas-canned product 951381 (critic: השורה מבקשת חומוס מקופסת שימורים, לא ברור שהמוצר משומר ולא גרגירים יבשים)
+- spinach product 803 (picker: not named (fresh spinach leaves; borekas are dishes, New Zealand spinach is another plant, Turkish and Gulliver unclear))
+- broccoli product 857 (critic: ברוקומיני אינו ברוקולי)
+- tomato product 694 (critic: 1 ק"ג מכוסה במארז אחד, היה צריך להיכנס לכפתור)
+- celery-stalks product 2478 (critic: השורה מבקשת סלרי אמריקאי, לא ברור שזה הסוג, לא מסומן כתחליף)
+
 ### the critic refused the order (7)
 
 - tomatoes-crushed product 1002157 (for "קופסא עגבניות מרוסקות": critic: עגבניות חתוכות דק במקום מרוסקות, לא מסומן תחליף)
@@ -38,15 +48,6 @@
 - סלט גזרים צבעונים: "רוטב דבש" honey product 1380 (critic: רוטב דבש אינו דבש)
 - סלט כרובית עם חמוציות ושקדים: "שליש כוס פקאן סיני" pecans-candied product 719830 (critic: השורה מבקשת פקאן רגיל, המוצר פקאן מקורמל (גרסה מתובלת) בלי סימון תחליף)
 - סלט ירוקים ופיצוחים: "1 בקבוק של רוטב רימונים ודבש" pomegranate-concentrate product 659219 (critic: רכז רימונים אינו רוטב רימונים ודבש)
-
-### the picker did not name the product (6)
-
-- greek-yogurt product 900083 (critic: לא ברור מהו יוגורט "גולדן", אולי גרסה מיוחדת ולא יוגורט יווני רגיל)
-- yogurt-plain product 432505 (critic: לא ברור ש"יוגורט מולטי" הוא יוגורט טבעי)
-- chickpeas-canned product 951381 (critic: השורה מבקשת חומוס מקופסת שימורים, לא ברור שהמוצר משומר ולא גרגירים יבשים)
-- spinach product 803 (picker: not named (fresh spinach leaves; borekas are dishes, New Zealand spinach is another plant, Turkish and Gulliver unclear))
-- tomato product 694 (critic: 1 ק"ג מכוסה במארז אחד, היה צריך להיכנס לכפתור)
-- celery-stalks product 2478 (critic: השורה מבקשת סלרי אמריקאי, לא ברור שזה הסוג, לא מסומן כתחליף)
 
 ### the product is not in the catalogue (1)
 

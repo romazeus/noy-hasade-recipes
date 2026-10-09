@@ -6018,6 +6018,24 @@
       "override": {
        "provides": "מחיר ליחידה: ראש אחד"
       }
+     },
+     {
+      "id": "857",
+      "name": "ברוקומיני",
+      "sale": {
+       "pricingType": "unit",
+       "isPack": true,
+       "isHalf": false,
+       "showPriceBy": ""
+      },
+      "variant": "ברוקומיני",
+      "provides": {
+       "amount": 0.6,
+       "unit": "count"
+      },
+      "override": {
+       "provides": "מארז של כ-300 גרם; ראש ברוקולי שוקל כ-500 גרם, אז מארז הוא כ-0.6 ראש"
+      }
      }
     ],
     "rejected": [
@@ -7349,6 +7367,26 @@
       "id": "248405",
       "name": "פרחי כרובית \"נוי השדה\"",
       "reason": "פרחי כרובית"
+     },
+     {
+      "id": "639",
+      "name": "כרוב לבן",
+      "reason": "כרוב, לא כרובית"
+     },
+     {
+      "id": "641",
+      "name": "כרוב אדום",
+      "reason": "כרוב, לא כרובית"
+     },
+     {
+      "id": "2470",
+      "name": "כרוב לבן מהדרין",
+      "reason": "כרוב, לא כרובית"
+     },
+     {
+      "id": "2472",
+      "name": "כרוב אדום מהדרין",
+      "reason": "כרוב, לא כרובית"
      }
     ]
    },
@@ -8479,7 +8517,13 @@
       }
      }
     ],
-    "rejected": []
+    "rejected": [
+     {
+      "id": "549",
+      "name": "אפרסמון",
+      "reason": "אפרסמון, פרי אחר"
+     }
+    ]
    },
    "strawberry": {
     "label": "תות שדה",
@@ -17266,7 +17310,7 @@
   },
   "[\"1 חבילה של ברוקולי טרי\",\"broccoli\",\"1count\",\"all\",0]#720": {
    "h": "1rxgt4rz7yq.1e3jthjcrza",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-09T19:00:34.825Z",
    "strikes": 0,
    "picker": true,
    "critic": true
@@ -17451,7 +17495,7 @@
   },
   "[\"2 ראשי ברוקולי שלמים\",\"broccoli\",\"2count\",\"all\",0]#720": {
    "h": "oscn1pstz1.1sl46s2do4k",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-09T19:00:34.825Z",
    "strikes": 0,
    "picker": true,
    "critic": true
@@ -18538,7 +18582,7 @@
   },
   "[\"כ-300 גרם ברוקולי טרי (גזע אחד בינוני)\",\"broccoli\",\"1count\",\"all\",0]#720": {
    "h": "1tx8i3rav7k.101jtiljpxe",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-09T19:00:34.825Z",
    "strikes": 0,
    "picker": true,
    "critic": true
@@ -19790,7 +19834,7 @@
   },
   "[\"חצי ברוקולי\",\"broccoli\",\"1count\",\"all\",0]#720": {
    "h": "bpnje6pzg6.17we3p34v3y",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-09T19:00:34.825Z",
    "strikes": 0,
    "picker": true,
    "critic": true
@@ -22000,7 +22044,7 @@
   },
   "[\"ברוקולי מפורק לפרחים קטנים\",\"broccoli\",\"1count\",\"all\",0]#720": {
    "h": "1wjt02sqzsd.pws0nhn3wz",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-09T19:00:34.825Z",
    "strikes": 0,
    "picker": true,
    "critic": true
@@ -25032,6 +25076,46 @@
    "strikes": 0,
    "picker": true,
    "critic": true
+  },
+  "[\"1 חבילה של ברוקולי טרי\",\"broccoli\",\"1count\",\"all\",0]#857": {
+   "h": "papaan5szu.19rzvw04mv2",
+   "at": "2026-10-09T19:00:34.825Z",
+   "strikes": 1,
+   "picker": false,
+   "why": "critic: ברוקומיני אינו ברוקולי",
+   "critic": false
+  },
+  "[\"כ-300 גרם ברוקולי טרי (גזע אחד בינוני)\",\"broccoli\",\"1count\",\"all\",0]#857": {
+   "h": "wrillh6jvx.1yxr4n4xw5g",
+   "at": "2026-10-09T19:00:34.825Z",
+   "strikes": 1,
+   "picker": false,
+   "why": "critic: ברוקומיני אינו ברוקולי, ו-300 גרם נקרא כיחידה",
+   "critic": false
+  },
+  "[\"חצי ברוקולי\",\"broccoli\",\"1count\",\"all\",0]#857": {
+   "h": "283m1qs778n.1itna6tg6gi",
+   "at": "2026-10-09T19:00:34.825Z",
+   "strikes": 1,
+   "picker": false,
+   "why": "critic: ברוקומיני אינו ברוקולי",
+   "critic": false
+  },
+  "[\"ברוקולי מפורק לפרחים קטנים\",\"broccoli\",\"1count\",\"all\",0]#857": {
+   "h": "1b6bcc3bs7h.24wbzahhqk7",
+   "at": "2026-10-09T19:00:34.825Z",
+   "strikes": 1,
+   "picker": false,
+   "why": "critic: ברוקומיני אינו ברוקולי",
+   "critic": false
+  },
+  "[\"2 ראשי ברוקולי שלמים\",\"broccoli\",\"2count\",\"all\",0]#857": {
+   "h": "2aqswxiq1di.1zxd6si5qar",
+   "at": "2026-10-09T19:00:34.825Z",
+   "strikes": 1,
+   "picker": false,
+   "why": "critic: ברוקומיני אינו ראש ברוקולי, וגם 4 יחידות",
+   "critic": false
   }
  },
  "plants": [
@@ -25254,7 +25338,7 @@
  "meta": {
   "catalogSize": 1696,
   "recipeCount": 65,
-  "at": "2026-10-08T21:28:47.745Z"
+  "at": "2026-10-09T19:00:34.825Z"
  },
  "skipped": {}
 }
