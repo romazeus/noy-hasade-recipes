@@ -133,6 +133,11 @@ export function leadStem(text: string): string {
  * as olive oil, and "חסה קיסר" would pass every lettuce the shop sells; the first word places the
  * product, the rest say WHICH one.
  */
+/** Words a name may OPEN with that say how it is packed or counted, never what it is. */
+const PACKED_IN = new Set(
+  ['סלסלת', 'סלסלה', 'מארז', 'מארזי', 'חבילת', 'חבילה', 'שקית', 'קופסת', 'קופסא', 'מגש', 'ארגז', 'צרור', 'גביע', 'רביעיית', 'שישיית', 'שלישיית', 'זוג', 'גרם', 'קג', 'קילו', 'יחידות'].map(stem),
+);
+
 /**
  * Two STEMS of five letters or more opening with the same four (ברוקולי, ברוקומיני): a coined name of
  * the same thing. Four on the stem, because `stem` takes a leading ב as a preposition (רוקול).
@@ -140,7 +145,13 @@ export function leadStem(text: string): string {
 export const sharesPrefix = (a: string, b: string) => a.length >= 5 && b.length >= 5 && a.slice(0, 4) === b.slice(0, 4);
 
 export function leadsWith(productName: string, concept: Pick<ConceptRecord, 'label' | 'aliases'>): boolean {
-  const words = stemsOf(productName);
+  // 🔴 A name may open with how it is PACKED ("סלסלת תות שדה", "מארז ביצים"): the head word is the
+  // first one after those (Rom, 2026-10-09). Without this, strawberries back in season as "סלסלת תות
+  // שדה של נוי" would never reach the proposer.
+  const all = stemsOf(productName);
+  let lead = 0;
+  while (lead < all.length - 1 && (PACKED_IN.has(all[lead]) || /^\d/.test(all[lead]))) lead++;
+  const words = all.slice(lead);
   if (!words.length) return false;
   const near = (a: string, b: string) => a === b || (a.length >= 4 && b.length >= 4 && (a.startsWith(b) || b.startsWith(a)));
   return [concept.label, ...(concept.aliases ?? [])].some((label) => {
