@@ -57,6 +57,16 @@ as THIS ingredient.
    frozen chopped onion, fried onion, a jar of crushed garlic, ready-cut pineapple in syrup.
 4. **Brand, producer, pack size, organic, mehadrin, loose or packaged, the size of the fruit:**
    all fine. Name every candidate that is the ingredient; the shopper chooses among them.
+5. **A VARIETY of the ingredient IS the ingredient** (the shop owner, 2026-10-11: every product we
+   sell that is this ingredient is offered, and the shopper picks). Meyer lemon is lemon; round or
+   baby zucchini is zucchini; Gulliver or baby spinach is spinach; salted, French or Italian butter
+   is butter; a sack of potatoes is potatoes; challah or pizza flour is white wheat flour; goat
+   yogurt is yogurt. Leave a variety out ONLY when the line itself names a different one (unsalted
+   butter, 16% cream cheese, fine salt, an orange sweet potato), or when it is a different plant
+   or fruit (lime, New Zealand spinach, black raspberry). 🔴 A VARIETY is never a different FORM:
+   dried, sun-dried or semi-dried (עגבניות לחות), pickled, canned, frozen, cooked or ready-chopped is
+   rule 2 and rule 3, not this one, and a fresh line does not take it. Doubt about a variety is not
+   a reason to leave it out; doubt about whether it is the ingredient at all still is.
 
 ## Answer format
 

@@ -30,7 +30,13 @@ network. Write your answers to the answer file you were given, and nothing else.
    lemon, quail eggs for eggs, parsley root for parsley); not a different kind when the line names
    one (15% cream is not 9%; fresh is not dried or pickled when the dish needs fresh). Brand,
    organic, mehadrin and pack size do not matter. Chopping, grating or squeezing at home does not
-   make it a different product.
+   make it a different product. 🔴 **A variety of the ingredient IS the ingredient** (the shop
+   owner, 2026-10-11): Meyer lemon, round or baby zucchini, salted or French butter, a sack of
+   potatoes, challah or pizza flour, goat yogurt. It is wrong only when the line names a different
+   variety (unsalted, a fat percentage, fine salt) or it is a different plant or fruit. 🔴 A variety
+   is never a different FORM: dried, sun-dried or semi-dried (עגבניות לחות), pickled, canned, frozen or
+   cooked is not a variety of the fresh ingredient. Doubt about a variety is not a reason to answer
+   no; doubt about the quantity still is.
 2. **The amount was read right from the line.** "כמות" must match what the line asks for: "2 ביצים"
    is 2 eggs, "200 גרם גבינה" is 200 grams, "קורט מלח" is to taste.
 3. **The order is right for THIS product.** The button buys the smallest number of units of this

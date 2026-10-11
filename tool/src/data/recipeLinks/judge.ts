@@ -42,7 +42,18 @@ export type Verdict = {
   at: string;
   /** Judgings that ended "no". Two block the pair for good. */
   strikes: number;
+  /** The judges' standard this verdict was given under (`JUDGE_STANDARD`); absent = 1. */
+  std?: number;
 };
+
+/**
+ * 🔴 THE STANDARD THE JUDGES APPLY, AND A "NO" IS ONLY AS GOOD AS ITS STANDARD. 2 = 2026-10-11, the
+ * shop owner: a variety of the ingredient IS the ingredient (`judges/PICKER.md` rule 5). A "no" given
+ * under an older standard is asked again and does not count toward the block; a "yes" stands, because
+ * a newer standard only ever widens what is offered.
+ */
+export const JUDGE_STANDARD = 2;
+const staleNo = (v: Verdict | undefined) => !!v && (v.picker === false || v.critic === false) && (v.std ?? 1) < JUDGE_STANDARD;
 
 /** A product that is certainly NOT the concept's ingredient: the picker's planted errors. */
 export type Plant = { concept: string; id: string; why: string };
@@ -151,7 +162,7 @@ export function pairsOf(file: ApprovedFile, live: readonly LiveRecipe[]): { link
   return { links, pairs };
 }
 
-const judged = (v: Verdict | undefined, p: Pair) => !!v && v.h === p.h && v.picker !== undefined && v.critic !== undefined;
+const judged = (v: Verdict | undefined, p: Pair) => !!v && v.h === p.h && v.picker !== undefined && v.critic !== undefined && !staleNo(v);
 
 /**
  * What this run must judge: every pair never judged as it is now, plus `rotate` of the oldest judged
@@ -170,7 +181,7 @@ export function toJudge(
   for (const p of pairs.values()) {
     const v = verdicts[p.key];
     if (!isLive(p.member.id)) continue;
-    if (v && v.strikes >= MAX_STRIKES) blocked.push(p);
+    if (v && v.strikes >= MAX_STRIKES && !staleNo(v)) blocked.push(p);
     else if (!judged(v, p)) fresh.push(p);
     else if (v!.picker && v!.critic) ok.push({ p, at: v!.at });
   }
@@ -513,7 +524,8 @@ export function applyScores(
   for (const p of pairs.values()) byLink.set(p.link.key, [...(byLink.get(p.link.key) ?? []), p]);
   const start = (p: Pair): Verdict => {
     const prev = next[p.key];
-    return prev && prev.h === p.h ? { ...prev } : { h: p.h, at: now, strikes: prev?.strikes ?? 0 };
+    if (prev && staleNo(prev)) return { h: p.h, at: now, strikes: 0, std: JUDGE_STANDARD };
+    return prev && prev.h === p.h ? { ...prev, std: JUDGE_STANDARD } : { h: p.h, at: now, strikes: prev?.strikes ?? 0, std: JUDGE_STANDARD };
   };
   for (const s of scores) {
     if (!passed(s)) continue;
