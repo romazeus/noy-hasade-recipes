@@ -83,7 +83,17 @@ export type Concept = {
  * what a line names but sells what a cook would use instead (grana padano for parmesan), the row
  * offers it AND says it is a substitute. Never set on a link to the ingredient itself.
  */
-export type LineLink = { concept: string; need: Need; substitute?: true };
+export type LineLink = {
+  concept: string;
+  need: Need;
+  substitute?: true;
+  /**
+   * 🔴 THE PRODUCTS OF THE CONCEPT THAT PASSED FOR THIS LINE (Rom, 2026-10-11: one line's refusal had
+   * removed a product from the ingredient everywhere, and the rows lost their options). Absent means
+   * every member of the concept. Served only; the dictionary never writes it.
+   */
+  members?: string[];
+};
 
 /**
  * One ingredient line's decision.
@@ -202,7 +212,12 @@ export function stripForServing(approved: ApprovedFile): RecipeLinksFile {
             ? { notSold: l.notSold }
             : {
                 mode: l.mode,
-                links: l.links.map((k) => ({ concept: k.concept, need: k.need, ...(k.substitute ? { substitute: true as const } : {}) })),
+                links: l.links.map((k) => ({
+                  concept: k.concept,
+                  need: k.need,
+                  ...(k.substitute ? { substitute: true as const } : {}),
+                  ...(k.members ? { members: [...k.members] } : {}),
+                })),
               },
         ]),
       );
@@ -278,6 +293,12 @@ export function parseRecipeLinksFile(json: unknown): { file: RecipeLinksFile } |
         }
         if (!(k.need === 'to-taste' || isAmount(k.need))) return { error: `recipe ${slug}: line "${text}" need` };
         if (k.substitute !== undefined && k.substitute !== true) return { error: `recipe ${slug}: line "${text}" substitute` };
+        if (k.members !== undefined) {
+          const ids = new Set(((json.concepts as Record<string, { members?: { id?: unknown }[] }>)[k.concept].members ?? []).map((m) => m.id));
+          if (!Array.isArray(k.members) || !k.members.length || !k.members.every((id) => typeof id === 'string' && ids.has(id))) {
+            return { error: `recipe ${slug}: line "${text}" members` };
+          }
+        }
       }
     }
   }

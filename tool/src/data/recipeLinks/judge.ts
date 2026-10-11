@@ -586,12 +586,9 @@ export function buildServed(source: Source, catalog: ReadonlyMap<string, Catalog
   const mk = (c: string, m: string) => `${c}#${m}`;
   const lk = (s: string, t: string) => `${s}\n${t}`;
 
-  // Member status, once: the picker's word on a product holds for its concept everywhere.
-  const byMember = new Map<string, Pair[]>();
-  for (const p of pairs.values()) {
-    const k = mk(p.link.concept, p.member.id);
-    byMember.set(k, [...(byMember.get(k) ?? []), p]);
-  }
+  // Member status, once: only what is true of a product everywhere (gone, or changed since it was
+  // judged). 🔴 A picker's or a critic's "no" is about ONE LINE and is applied there, below (Rom,
+  // 2026-10-11: "a teaspoon of salt" refusing coarse salt had taken coarse salt off every recipe).
   for (const [cid, c] of Object.entries(file.concepts)) {
     for (const m of c.members) {
       const k = mk(cid, m.id);
@@ -602,35 +599,7 @@ export function buildServed(source: Source, catalog: ReadonlyMap<string, Catalog
       }
       if (live.name !== m.name || !sameSale(m.sale, live)) {
         outMembers.set(k, { reason: 'not-judged', concept: cid, member: m.id, detail: 'changed in the catalogue since it was judged' });
-        continue;
       }
-      const ps = byMember.get(k) ?? [];
-      const refused = ps.find((p) => {
-        const v = source.verdicts[p.key];
-        return v && v.h === p.h && v.picker === false;
-      });
-      if (refused) outMembers.set(k, { reason: 'picker-no', concept: cid, member: m.id, detail: source.verdicts[refused.key].why });
-    }
-  }
-  // 🔴 A critic "no" for ONE product of a line, beside a "yes" for another product of the same line,
-  // is a doubt about that PRODUCT (first run: "גולדן יוגורט בסגנון יווני" for Greek yogurt), not
-  // about the line's amount: the product leaves its concept and the line keeps the rest. When the
-  // critic refused EVERY product of a line, the amount is what is wrong, and the line goes
-  // (below). Either way a refused pair is never served.
-  const byLineOfConcept = new Map<string, Pair[]>();
-  for (const p of pairs.values()) {
-    const v = source.verdicts[p.key];
-    if (!v || v.h !== p.h || v.critic === undefined) continue;
-    const k = `${p.link.key}`;
-    byLineOfConcept.set(k, [...(byLineOfConcept.get(k) ?? []), p]);
-  }
-  for (const ps of byLineOfConcept.values()) {
-    const yes = ps.some((p) => source.verdicts[p.key].critic === true);
-    if (!yes) continue;
-    for (const p of ps) {
-      const v = source.verdicts[p.key];
-      const k = mk(p.link.concept, p.member.id);
-      if (v.critic === false && !outMembers.has(k)) outMembers.set(k, { reason: 'critic-no', concept: p.link.concept, member: p.member.id, detail: `for "${p.link.text}": ${v.why ?? ''}` });
     }
   }
 
@@ -679,21 +648,34 @@ export function buildServed(source: Source, catalog: ReadonlyMap<string, Catalog
             failure ??= { reason: 'no-member', ...line, concept: k.concept, detail: first ? `${first.member}: ${first.reason}` : 'no members' };
             continue;
           }
-          let linkFailure: Exclusion | null = null;
+          // Per member, for THIS line: served when both judges said yes to this exact pair.
+          const passing: MemberRecord[] = [];
+          let firstNo: Exclusion | null = null;
           for (const m of members) {
             const p = pairs.get(pairKey(key, m.id));
             const v = p && source.verdicts[p.key];
+            let no: Exclusion | null = null;
             if (!p || !v || v.h !== p.h || v.critic === undefined || v.picker === undefined) {
-              if (v && v.strikes >= MAX_STRIKES) linkFailure ??= { reason: 'blocked', ...line, concept: k.concept, member: m.id, detail: v.why };
-              else linkFailure ??= { reason: 'not-judged', ...line, concept: k.concept, member: m.id };
+              no = v && v.strikes >= MAX_STRIKES
+                ? { reason: 'blocked', ...line, concept: k.concept, member: m.id, detail: v.why }
+                : { reason: 'not-judged', ...line, concept: k.concept, member: m.id };
             } else if (v.strikes >= MAX_STRIKES && !(v.picker && v.critic)) {
-              linkFailure ??= { reason: 'blocked', ...line, concept: k.concept, member: m.id, detail: v.why };
+              no = { reason: 'blocked', ...line, concept: k.concept, member: m.id, detail: v.why };
+            } else if (!v.picker) {
+              no = { reason: 'picker-no', ...line, concept: k.concept, member: m.id, detail: v.why };
             } else if (!v.critic) {
-              linkFailure ??= { reason: 'critic-no', ...line, concept: k.concept, member: m.id, detail: v.why };
+              no = { reason: 'critic-no', ...line, concept: k.concept, member: m.id, detail: v.why };
             }
+            if (no) {
+              exclusions.push(no);
+              firstNo ??= no;
+            } else passing.push(m);
           }
-          if (linkFailure) failure ??= linkFailure;
-          else ok.push({ link: k, members });
+          if (!passing.length) failure ??= firstNo ?? { reason: 'no-member', ...line, concept: k.concept };
+          else {
+            const subset = passing.length < c.members.length;
+            ok.push({ link: subset ? { ...k, members: passing.map((m) => m.id) } : k, members: passing });
+          }
         }
         const keep = d.mode === 'all' ? (failure ? [] : ok) : ok;
         if (!keep.length) {
@@ -701,7 +683,15 @@ export function buildServed(source: Source, catalog: ReadonlyMap<string, Catalog
           continue;
         }
         if (d.mode === 'any' && failure) exclusions.push({ ...failure, detail: `one option of an "any" line: ${failure.detail ?? failure.reason}` });
-        lines[text] = { mode: d.mode, links: keep.map((x) => ({ concept: x.link.concept, need: x.link.need, ...(x.link.substitute ? { substitute: true as const } : {}) })) };
+        lines[text] = {
+          mode: d.mode,
+          links: keep.map((x) => ({
+            concept: x.link.concept,
+            need: x.link.need,
+            ...(x.link.substitute ? { substitute: true as const } : {}),
+            ...(x.link.members ? { members: [...x.link.members] } : {}),
+          })),
+        };
         for (const x of keep) {
           const set = usedMembers.get(x.link.concept) ?? new Set<string>();
           for (const m of x.members) set.add(m.id);
@@ -762,7 +752,12 @@ function triples(f: RecipeLinksFile | ApprovedFile): Triple[] {
   for (const [slug, r] of Object.entries(f.recipes)) {
     for (const [text, l] of Object.entries(r.lines)) {
       if ('notSold' in l) continue;
-      for (const k of l.links) for (const m of f.concepts[k.concept]?.members ?? []) out.push({ slug, text, concept: k.concept, member: m.id });
+      for (const k of l.links) {
+        for (const m of f.concepts[k.concept]?.members ?? []) {
+          if (k.members && !k.members.includes(m.id)) continue;
+          out.push({ slug, text, concept: k.concept, member: m.id });
+        }
+      }
     }
   }
   return out;
@@ -809,7 +804,9 @@ export function guards(input: {
     const liveLines = new Map(input.live.map((r) => [r.slug, new Set(r.lines)]));
     const byLine = new Map<string, Exclusion>();
     const byMember = new Map<string, Exclusion>();
+    const byLineMember = new Map<string, Exclusion>();
     for (const e of input.exclusions) {
+      if (e.slug !== undefined && e.text !== undefined && e.member) byLineMember.set(`${e.slug}\n${e.text}\n${e.member}`, e);
       if (e.slug !== undefined && e.text !== undefined) byLine.set(`${e.slug}\n${e.text}`, byLine.get(`${e.slug}\n${e.text}`) ?? e);
       if (e.concept && e.member && e.slug === undefined) byMember.set(`${e.concept}#${e.member}`, e);
     }
@@ -821,8 +818,10 @@ export function guards(input: {
       if (member && ALLOWED_REMOVAL.has(member.reason)) continue;
       const rejected = input.source.file.concepts[t.concept]?.rejected?.some((r) => r.id === t.member);
       if (rejected) continue;
+      const pair = byLineMember.get(`${t.slug}\n${t.text}\n${t.member}`);
+      if (pair && ALLOWED_REMOVAL.has(pair.reason)) continue;
       const line = byLine.get(`${t.slug}\n${t.text}`);
-      if (line && ALLOWED_REMOVAL.has(line.reason)) continue;
+      if (line && ALLOWED_REMOVAL.has(line.reason) && !line.member) continue;
       const servedLine = input.served.recipes[t.slug]?.lines[t.text];
       if (servedLine && !('notSold' in servedLine)) continue; // the line was decided anew and judged
       unexplained.push(`${t.slug} "${t.text}" ${t.concept}/${t.member}: ${line?.reason ?? member?.reason ?? 'no recorded reason'}`);
