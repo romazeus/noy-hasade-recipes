@@ -17560,10 +17560,11 @@
   },
   "[\"100 גרם חמאה ללא מלח מומסת\",\"butter\",\"100g\",\"all\",0]#752724": {
    "h": "1d97tgs03sv.17ls4290mh5",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"חופן של עלי רוקט\",\"arugula\",\"0.5bunch\",\"all\",0]#751": {
    "h": "1is6q5skshw.sxghvws8d3",
@@ -17644,31 +17645,35 @@
   },
   "[\"מלח ופלפל לפי הטעם\",\"salt\",\"to-taste\",\"all\",0]#1221563": {
    "h": "ujnp0oucr8.1rn096ey9y3",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"מלח ופלפל לפי הטעם\",\"salt\",\"to-taste\",\"all\",0]#1012987": {
    "h": "lpdrrf52w9.1llvrn4b40m",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"מלח ופלפל לפי הטעם\",\"salt\",\"to-taste\",\"all\",0]#827508": {
    "h": "1s5ujbfscj8.10jze8un6zv",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"מלח ופלפל לפי הטעם\",\"salt\",\"to-taste\",\"all\",0]#1221553": {
    "h": "24nzxo3wo3v.2bhnie0bilg",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"חצי כוס גבינת מוצרלה מגוררת\",\"mozzarella-grated\",\"50g\",\"all\",0]#690899": {
    "h": "1zferz90xw3.w6g8nuu2w0",
@@ -17693,10 +17698,11 @@
   },
   "[\"150 גרם אפונה\",\"peas-frozen\",\"150g\",\"all\",0]#830759": {
    "h": "6mf2cu713a.1qobuj2s29n",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 חבילות גזרים צבעוניים\",\"carrot-colored\",\"2package\",\"all\",0]#885": {
    "h": "htezpufa56.12x5xddu3o3",
@@ -17791,18 +17797,19 @@
   },
   "[\"3 גבעולי סלרי\",\"celery-stalks\",\"3count\",\"all\",0]#710": {
    "h": "16jlgofabr6.f0nl9agtqv",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"3 גבעולי סלרי\",\"celery-stalks\",\"3count\",\"all\",0]#2478": {
    "h": "26ej0g1rm3m.d9swuyc9c5",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "critic": true,
-   "why": "picker: not named (סלרי אמריקאי שלם; 1 לא ודאי שהוא אמריקאי, 4 קצוץ)"
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
   },
   "[\"חופן עלי פטרוזיליה קצוצים\",\"parsley\",\"0.5bunch\",\"all\",0]#2370": {
    "h": "1epgkid3erx.zs91jy58n",
@@ -17862,31 +17869,35 @@
   },
   "[\"210 גרם קמח לבן (1.5 כוס)\",\"flour\",\"210g\",\"all\",0]#18812": {
    "h": "fa7s3hjldo.1zt83wgk7bp",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"210 גרם קמח לבן (1.5 כוס)\",\"flour\",\"210g\",\"all\",0]#351722": {
    "h": "jl7jsuw6o0.1c96zqpkd2j",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"210 גרם קמח לבן (1.5 כוס)\",\"flour\",\"210g\",\"all\",0]#695397": {
    "h": "vpjqhkpxaf.25iz04ilh1w",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"לימון חתוך לרבעים\",\"lemon\",\"1count\",\"all\",0]#448": {
    "h": "s5nua6layy.3t6ulh4yh9",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"סלסלת עגבניות שרי\",\"cherry-tomato\",\"1package\",\"all\",0]#2574": {
    "h": "2dz9507wgag.4tbl2qu0li",
@@ -17932,10 +17943,11 @@
   },
   "[\"1 חבילה של ברוקולי טרי\",\"broccoli\",\"1count\",\"all\",0]#720": {
    "h": "1rxgt4rz7yq.1e3jthjcrza",
-   "at": "2026-10-09T19:00:34.825Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"6-7 כפות שמן זית\",\"olive-oil\",\"to-taste\",\"all\",0]#581483": {
    "h": "2byeat9npph.1qm5xbibug6",
@@ -17988,18 +18000,20 @@
   },
   "[\"2 גבעולים של סלרי אמריקאי (גבעול + עלים)\",\"celery-stalks\",\"2count\",\"all\",0]#710": {
    "h": "1iuxxm1ck59.1j6ue62z0yj",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 גבעולים של סלרי אמריקאי (גבעול + עלים)\",\"celery-stalks\",\"2count\",\"all\",0]#2478": {
    "h": "21lhz8x9o2o.7xnciduo8q",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 2,
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "picker: not named (סלרי אמריקאי עם עלים; 19 קצוץ, 6 לא ודאי)",
-   "critic": false
+   "why": "picker: not named (סלרי אמריקאי)",
+   "critic": true
   },
   "[\"מעט פלפל שחור\",\"black-pepper\",\"to-taste\",\"all\",0]#1102540": {
    "h": "8d8chgdxow.11ljwh1sty2",
@@ -18073,24 +18087,27 @@
   },
   "[\"4-5 כפות קמח\",\"flour\",\"to-taste\",\"all\",0]#18812": {
    "h": "h0sqxayjb4.rjim01n8ea",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"4-5 כפות קמח\",\"flour\",\"to-taste\",\"all\",0]#351722": {
    "h": "27vzipl5jge.c5vk2h16ln",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"4-5 כפות קמח\",\"flour\",\"to-taste\",\"all\",0]#695397": {
    "h": "gug4i7ows8.1f7u5lzbde9",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"500 מ\\\"ל שמנת להקצפה 38%\",\"cream-whipping\",\"500ml\",\"all\",1]#1679": {
    "h": "2f3mq7ql5jm.ks1cca38g1",
@@ -18101,33 +18118,37 @@
   },
   "[\"2 כפיות רוטב בלסמי\",\"balsamic-vinegar\",\"to-taste\",\"any\",0]#1386": {
    "h": "2oh168hxh0.1w3x5dxrede",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": true,
    "critic": false,
-   "why": "critic: רוטב בלסמי אינו חומץ בלסמי, לא מסומן תחליף"
+   "why": "critic: רוטב בלסמי אינו חומץ בלסמי, צריך סימון תחליף"
   },
   "[\"2 כפיות רוטב בלסמי\",\"balsamic-vinegar\",\"to-taste\",\"any\",0]#1136437": {
    "h": "sf44ihjxz8.639ilmv07w",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": true,
    "critic": false,
-   "why": "critic: רוטב בלסמי (מצומצם) אינו חומץ בלסמי, ולא מסומן תחליף"
+   "why": "critic: רוטב בלסמי אינו חומץ בלסמי, ולא מסומן תחליף"
   },
   "[\"2 ראשי ברוקולי שלמים\",\"broccoli\",\"2count\",\"all\",0]#720": {
    "h": "oscn1pstz1.1sl46s2do4k",
-   "at": "2026-10-09T19:00:34.825Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 בטטה מתוקה גדולה\",\"sweet-potato\",\"1count\",\"all\",0]#607": {
    "h": "1y5svyu39pc.232bex6iuo0",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 עגבנייה קלופה וקצוצה\",\"tomato\",\"1count\",\"all\",0]#589": {
    "h": "1bpiybkua7n.1bex6judc8o",
@@ -18152,24 +18173,27 @@
   },
   "[\"210 גרם קמח חיטה 70%\",\"flour\",\"210g\",\"all\",0]#18812": {
    "h": "1q4mp9fx2k2.emsge2p6ou",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"210 גרם קמח חיטה 70%\",\"flour\",\"210g\",\"all\",0]#351722": {
    "h": "ou4lybom5q.upitusniou",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"210 גרם קמח חיטה 70%\",\"flour\",\"210g\",\"all\",0]#695397": {
    "h": "200m8ybzp4m.pupypzo3b",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 ראשי כרובית\",\"cauliflower\",\"2count\",\"all\",0]#270839": {
    "h": "1lk4fr0n6jg.v4u582ehfl",
@@ -18397,10 +18421,11 @@
   },
   "[\"1 בטטה בינונית\",\"sweet-potato\",\"1count\",\"all\",0]#607": {
    "h": "1iqyfsz7r00.uia73e7r2p",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 ביצה\",\"egg\",\"1count\",\"all\",0]#926": {
    "h": "17u92dtt4nm.89c9m6vodd",
@@ -18439,53 +18464,59 @@
   },
   "[\"חצי כוס טחינה גולמית\",\"tahini\",\"120g\",\"all\",0]#1398": {
    "h": "5ps2y90u65.18mqncxyfwc",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"חצי כוס טחינה גולמית\",\"tahini\",\"120g\",\"all\",0]#2074": {
    "h": "1da0hi6p925.10ay3gywcc7",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"חצי כוס טחינה גולמית\",\"tahini\",\"120g\",\"all\",0]#2072": {
    "h": "1yj3hxtgvzq.1yd47ucinnb",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"חצי כוס טחינה גולמית\",\"tahini\",\"120g\",\"all\",0]#1204072": {
    "h": "1xyz8dzynxl.z8l6hc5fxm",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 כפית חומץ בן יין לבן\",\"vinegar-white\",\"to-taste\",\"all\",1]#1183079": {
    "h": "mzrywkeqpe.gpq111gn8d",
-   "at": "2026-10-08T19:31:08.750Z",
-   "strikes": 1,
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
    "picker": true,
-   "critic": false,
-   "why": "critic: חומץ 5% רגיל אינו חומץ יין לבן, סוג אחר"
+   "critic": true
   },
   "[\"1 אבוקדו בשל\",\"avocado-ripe\",\"1count\",\"all\",0]#3778": {
    "h": "1k93iem41kh.6kqugptcbs",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 אבוקדו בשל\",\"avocado-ripe\",\"1count\",\"all\",0]#708034": {
    "h": "yovsl0j891.4prjkw53ys",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 בצל גדול\",\"onion\",\"1count\",\"all\",0]#605": {
    "h": "2balapafttf.1s96we1eysl",
@@ -18573,17 +18604,19 @@
   },
   "[\"1.5 סלרי אמריקאי קצוץ (עלים + גבעול)\",\"celery-stalks\",\"2count\",\"all\",0]#710": {
    "h": "yelafmd15u.29uie5w3520",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1.5 סלרי אמריקאי קצוץ (עלים + גבעול)\",\"celery-stalks\",\"2count\",\"all\",0]#2478": {
    "h": "lnq401dh6t.sasn1yvzhe",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 2,
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "picker: not named (סלרי אמריקאי שלם (עלים וגבעול))",
+   "why": "picker: not named (סלרי אמריקאי; 2 קצוץ מוכן, 1 שורש)",
    "critic": true
   },
   "[\"מלח ופלפל לפי הטעם\",\"black-pepper\",\"to-taste\",\"all\",0]#1102540": {
@@ -18644,10 +18677,11 @@
   },
   "[\"כ-50 גרם חמאה\",\"butter\",\"50g\",\"all\",0]#752724": {
    "h": "58s2urir9q.1xb60tcywo6",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 כף אבקת סוכר\",\"powdered-sugar\",\"to-taste\",\"all\",0]#1090025": {
    "h": "z8hj2g5wxn.1xkjrv8ml9q",
@@ -18742,31 +18776,35 @@
   },
   "[\"2 גרם מלח דק\",\"salt\",\"to-taste\",\"all\",0]#1221563": {
    "h": "1ljevfnvniy.m3memztje7",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 גרם מלח דק\",\"salt\",\"to-taste\",\"all\",0]#1012987": {
    "h": "1af60olg38e.2kn6vpvhaw",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 גרם מלח דק\",\"salt\",\"to-taste\",\"all\",0]#827508": {
    "h": "2bcrrjro15j.437aqvbpnf",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 גרם מלח דק\",\"salt\",\"to-taste\",\"all\",0]#1221553": {
    "h": "1zb726kcnq9.nnuns2cd5o",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"עלי מיקרו פאק צ'וי\",\"pakchoi-micro\",\"1package\",\"all\",0]#2324": {
    "h": "7z4mgf55y1.21h5yno5tdw",
@@ -18896,17 +18934,19 @@
   },
   "[\"1 כוס (240 מ״ל) לימון סחוט\",\"lemon\",\"6count\",\"all\",0]#448": {
    "h": "2gasadb5x3h.su5f3oz6eo",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 לימונים\",\"lemon\",\"2count\",\"all\",0]#448": {
    "h": "2dqe8hwqd.28k0dm0yzi0",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 כפית מיץ לימון טרי\",\"lemon\",\"0.25count\",\"all\",0]#448": {
    "h": "18fklxwlhxk.pqb1108pt",
@@ -19071,42 +19111,43 @@
   },
   "[\"חצי כרובית לבנה\",\"cauliflower\",\"1count\",\"all\",0]#270839": {
    "h": "1auigrvb2d6.wc8ruadkhp",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 כפית שטוחה מלחבצל יבש\",\"salt\",\"to-taste\",\"all\",0]#1221563": {
    "h": "34r6ncaqim.up2wyihc67",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "critic": true,
-   "why": "picker: not named (השורה משובשת, ייתכן מלח בצל ולא מלח)"
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
   },
   "[\"1 כפית שטוחה מלחבצל יבש\",\"salt\",\"to-taste\",\"all\",0]#1012987": {
    "h": "tvo1umt3v1.1fq21tlpvps",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "critic": true,
-   "why": "picker: not named (השורה משובשת, ייתכן מלח בצל ולא מלח)"
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
   },
   "[\"1 כפית שטוחה מלחבצל יבש\",\"salt\",\"to-taste\",\"all\",0]#827508": {
    "h": "19yx042eqqo.bazk9mhctv",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "critic": true,
-   "why": "picker: not named (השורה משובשת, ייתכן מלח בצל ולא מלח)"
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
   },
   "[\"1 כפית שטוחה מלחבצל יבש\",\"salt\",\"to-taste\",\"all\",0]#1221553": {
    "h": "28vlrb9vay3.1wrx79jt0ri",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "critic": true,
-   "why": "picker: not named (השורה משובשת, ייתכן מלח בצל ולא מלח)"
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
   },
   "[\"2-3 כפות אבקת סוכר (לפי הטעם)\",\"powdered-sugar\",\"to-taste\",\"all\",0]#1090025": {
    "h": "rk0z4lm0q6.2glv9oyewt2",
@@ -19194,10 +19235,11 @@
   },
   "[\"5 כפות מיץ לימון טרי\",\"lemon\",\"2count\",\"all\",0]#448": {
    "h": "rzui5a4wfl.e3guk7ocd9",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"20 עגבניות שרי מיקס\",\"cherry-tomato-mix\",\"1package\",\"all\",0]#2574": {
    "h": "tu9pmvicb1.wmrtiplfr9",
@@ -19208,17 +19250,19 @@
   },
   "[\"כ-300 גרם ברוקולי טרי (גזע אחד בינוני)\",\"broccoli\",\"1count\",\"all\",0]#720": {
    "h": "1tx8i3rav7k.101jtiljpxe",
-   "at": "2026-10-09T19:00:34.825Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"שליש כוס חמוציות מסוכרות\",\"cranberries-sweet\",\"50g\",\"all\",0]#719708": {
    "h": "lixt45pfv2.2avey3ihd4c",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"חצי צרור כוסברה קצוצה דק עם הגבעולים\",\"coriander\",\"0.5bunch\",\"all\",0]#2258": {
    "h": "1fxertc6p97.vkvpfqolyj",
@@ -19250,10 +19294,11 @@
   },
   "[\"3 גזרים\",\"carrot\",\"3count\",\"all\",0]#587": {
    "h": "14vw7fl96kf.vgfgbrauww",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 כף סוכר חום\",\"sugar-brown\",\"15g\",\"all\",0]#828249": {
    "h": "1q9zsxylkaq.12pun45q8j3",
@@ -19421,10 +19466,11 @@
   },
   "[\"מיץ מחצי לימון טרי\",\"lemon\",\"0.5count\",\"all\",0]#448": {
    "h": "24ovbos4eho.13s1ze2bxlz",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"חצי כוס דבש\",\"honey\",\"170g\",\"all\",0]#1380": {
    "h": "3jvllsuqre.2cyifwq5m7p",
@@ -19526,11 +19572,12 @@
   },
   "[\"250 גרם מיקס פירות יער\",\"raspberry-red\",\"85g\",\"all\",0]#2588": {
    "h": "26vtys9bk7t.33hmquo62w",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": true,
    "critic": false,
-   "why": "critic: מיקס פירות יער פוצל לפטל 85 גרם; לא מה שהשורה מבקשת, הכמות לא מהשורה ולא מסומן כתחליף"
+   "why": "critic: השורה מבקשת מיקס פירות יער, פטל טרי לבד אינו המצרך ולא מסומן תחליף"
   },
   "[\"100 גרם אבקת סוכר (1 כוס פחות 2 כפות)\",\"powdered-sugar\",\"100g\",\"all\",0]#1090025": {
    "h": "1md4brqhmfl.f1gt4c21oe",
@@ -19569,18 +19616,19 @@
   },
   "[\"2 גבעולי סלרי קצוצים\",\"celery-stalks\",\"2count\",\"all\",0]#710": {
    "h": "1uhussntj9t.11umvaoga6l",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 גבעולי סלרי קצוצים\",\"celery-stalks\",\"2count\",\"all\",0]#2478": {
    "h": "865v11wmug.1vmj1fh8xko",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "critic": true,
-   "why": "picker: not named (סלרי אמריקאי, וקצוץ כבשורה)"
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
   },
   "[\"30 עלי גפן טריים\",\"vine-leaves-fresh\",\"1package\",\"all\",0]#1152727": {
    "h": "15f7pu64nzp.19o9puyarlo",
@@ -19717,10 +19765,11 @@
   },
   "[\"1 גזר\",\"carrot\",\"1count\",\"all\",0]#587": {
    "h": "2c6o0iev5uq.18goa5ez8zw",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"500 גרם סוכר\",\"sugar\",\"500g\",\"all\",0]#828274": {
    "h": "6m3ajfrc8f.p2vj7zxgqv",
@@ -19829,17 +19878,19 @@
   },
   "[\"8 תפוח אדמה קלופים\",\"potato\",\"8count\",\"all\",0]#629": {
    "h": "tnstwhfdxc.27usy0dhjm8",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"8 תפוח אדמה קלופים\",\"potato\",\"8count\",\"all\",0]#631": {
    "h": "1z4jndwxa2p.ozatcvhg1u",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"500 גרם כדורי מוצרלה בייבי\",\"mozzarella-baby\",\"500g\",\"all\",0]#690896": {
    "h": "qfex9ebv4j.13cd65ak4cc",
@@ -19948,10 +19999,11 @@
   },
   "[\"95 גרם חמאה רכה\",\"butter\",\"95g\",\"all\",0]#752724": {
    "h": "157eyccxt51.2dpan9wbqk8",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"בצל סגול\",\"red-onion\",\"1count\",\"all\",0]#603": {
    "h": "f2hsfjb8k5.brlnbnhd29",
@@ -19984,53 +20036,59 @@
   },
   "[\"3 כפות יוגורט יווני\",\"greek-yogurt\",\"45g\",\"all\",0]#1104018": {
    "h": "6wx480lwey.nb17ay8gq7",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"3 כפות יוגורט יווני\",\"greek-yogurt\",\"45g\",\"all\",0]#1104044": {
    "h": "7s53u34z78.1h5uwjcg4qn",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"3 כפות יוגורט יווני\",\"greek-yogurt\",\"45g\",\"all\",0]#1228038": {
    "h": "u6wulrymu8.1jw1vbheaac",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"3 כפות יוגורט יווני\",\"greek-yogurt\",\"45g\",\"all\",0]#900083": {
    "h": "4zh59wfaeg.1spgo4tgln",
-   "at": "2026-10-08T19:31:08.750Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "critic: לא ברור מהו יוגורט \"גולדן\", אולי גרסה מיוחדת ולא יוגורט יווני רגיל",
-   "critic": false
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
   },
   "[\"3 כפות יוגורט יווני\",\"greek-yogurt\",\"45g\",\"all\",0]#375216": {
    "h": "zyqzorrw6o.1cc409h9j8",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"3 כפות יוגורט יווני\",\"greek-yogurt\",\"45g\",\"all\",0]#1052727": {
    "h": "1yal5qbjs0c.2a4ae0g9asj",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"3 כפות יוגורט יווני\",\"greek-yogurt\",\"45g\",\"all\",0]#1176319": {
    "h": "1pwy9jaloq5.5hrvcygwq1",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"חצי כוס עדשים כתומות\",\"red-lentils\",\"100g\",\"all\",0]#2426": {
    "h": "frjonuc98s.8u6a2fj9l8",
@@ -20041,10 +20099,11 @@
   },
   "[\"מיץ לימון שלם\",\"lemon\",\"1count\",\"all\",0]#448": {
    "h": "1hswecjditk.203g21ifflu",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 כפית כורכום\",\"turmeric\",\"to-taste\",\"all\",0]#1102546": {
    "h": "zb0db4j43j.i1segj98uu",
@@ -20146,10 +20205,11 @@
   },
   "[\"2 קישואים צהוב\",\"zucchini\",\"2count\",\"all\",1]#583": {
    "h": "2crcomhk8q6.s95pllte49",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 ארטישוק ירושלמי (600 גרם)\",\"jerusalem-artichoke\",\"600g\",\"all\",0]#625": {
    "h": "1s3zjko7pfe.26ejwyxst11",
@@ -20272,17 +20332,19 @@
   },
   "[\"2 תפוחי אדמה בינוניים קלופים מגורד גס\",\"potato\",\"2count\",\"all\",0]#629": {
    "h": "1tq35wfe518.me1n9vi30j",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 תפוחי אדמה בינוניים קלופים מגורד גס\",\"potato\",\"2count\",\"all\",0]#631": {
    "h": "20s7chx15wj.1vu5xxjpe45",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"מעט קינמון\",\"cinnamon\",\"to-taste\",\"all\",0]#1182467": {
    "h": "20dwjuohxte.2gb4qysw6m",
@@ -20328,10 +20390,11 @@
   },
   "[\"מיץ סחוט מלימון אחד\",\"lemon\",\"1count\",\"all\",0]#448": {
    "h": "1x5s6r22fpu.175jtkstw64",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"חצי חבילה של בצל ירוק\",\"green-onion\",\"0.5bunch\",\"all\",0]#722": {
    "h": "21qx9m88egf.1tkxw42i9lc",
@@ -20412,31 +20475,35 @@
   },
   "[\"1 כוס טחינה גולמית\",\"tahini\",\"240g\",\"all\",0]#1398": {
    "h": "1q0mf6obgbd.1xxuxqlo4ra",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 כוס טחינה גולמית\",\"tahini\",\"240g\",\"all\",0]#2074": {
    "h": "w9cdwit01r.23zkkk1u6jf",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 כוס טחינה גולמית\",\"tahini\",\"240g\",\"all\",0]#2072": {
    "h": "1v39n3s589n.1l4k6u70f8o",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 כוס טחינה גולמית\",\"tahini\",\"240g\",\"all\",0]#1204072": {
    "h": "29ofcpr9iu2.1di6ea3nyqe",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"חצי כוס קמח תופח או קוואקר או קמח שקדים\",\"oats\",\"to-taste\",\"any\",0]#1372": {
    "h": "18v1dlz5zeu.17e0i4q28x8",
@@ -20461,38 +20528,43 @@
   },
   "[\"חצי ברוקולי\",\"broccoli\",\"1count\",\"all\",0]#720": {
    "h": "bpnje6pzg6.17we3p34v3y",
-   "at": "2026-10-09T19:00:34.825Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"חצי כפית מלח דק\",\"salt\",\"to-taste\",\"all\",0]#1221563": {
    "h": "1lro33iblxs.12j344dxmy",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"חצי כפית מלח דק\",\"salt\",\"to-taste\",\"all\",0]#1012987": {
    "h": "208tr7bqg22.1263fftzzc4",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"חצי כפית מלח דק\",\"salt\",\"to-taste\",\"all\",0]#827508": {
    "h": "179hlk0azjo.20u9ggrkaf0",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"חצי כפית מלח דק\",\"salt\",\"to-taste\",\"all\",0]#1221553": {
    "h": "1mqpofuljky.cjxsoplfa2",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 בצלים גדולים קצוצים\",\"onion\",\"2count\",\"all\",0]#605": {
    "h": "hfdnv1m92k.1p1c7wq9ccn",
@@ -20532,10 +20604,11 @@
   },
   "[\"100 גרם חמאה מומסת\",\"butter\",\"100g\",\"all\",0]#752724": {
    "h": "t11ly7o8e6.ewjhh6qx97",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 חבילות כוסברה\",\"coriander\",\"2bunch\",\"all\",0]#2258": {
    "h": "2evphlh2xzr.1c4rtzkpvrt",
@@ -20819,10 +20892,11 @@
   },
   "[\"120 גרם חמאה קרה חתוכה לקוביות\",\"butter\",\"120g\",\"all\",0]#752724": {
    "h": "235uvnobv06.1rltcmmyb49",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 שמנת מתוקה להקצפה\",\"cream-whipping\",\"500ml\",\"all\",0]#1679": {
    "h": "5qf3iyzqvo.26n42tg4xaq",
@@ -20889,31 +20963,35 @@
   },
   "[\"חצי כוס טחינה גולמית איכותית\",\"tahini\",\"120g\",\"all\",0]#1398": {
    "h": "11unzyrhmz9.19miy0huykz",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"חצי כוס טחינה גולמית איכותית\",\"tahini\",\"120g\",\"all\",0]#2074": {
    "h": "lgb0x73uca.1dqdu5z6em7",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"חצי כוס טחינה גולמית איכותית\",\"tahini\",\"120g\",\"all\",0]#2072": {
    "h": "153rhdhflxh.1wvr9p3dxev",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"חצי כוס טחינה גולמית איכותית\",\"tahini\",\"120g\",\"all\",0]#1204072": {
    "h": "1d2uy0blhi7.25dppbhi9rg",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"סלנובה\",\"salanova\",\"1package\",\"all\",0]#767": {
    "h": "4hy559ve6d.3q6avumgpt",
@@ -21022,31 +21100,35 @@
   },
   "[\"1 כפית מלח שטוחה\",\"salt\",\"to-taste\",\"all\",0]#1221563": {
    "h": "1hpld4xswkm.dmw55hfsmk",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 כפית מלח שטוחה\",\"salt\",\"to-taste\",\"all\",0]#1012987": {
    "h": "214medpi8nk.7pxlzs9qa3",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 כפית מלח שטוחה\",\"salt\",\"to-taste\",\"all\",0]#827508": {
    "h": "4qqgfo9hsk.1jyktyltnrq",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 כפית מלח שטוחה\",\"salt\",\"to-taste\",\"all\",0]#1221553": {
    "h": "2d77jxddgvp.1enuuujgz5z",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 בצלים ירוקים קצוצים דק\",\"green-onion\",\"0.3bunch\",\"all\",0]#722": {
    "h": "20b8c2ck293.1i5ae7zbrwu",
@@ -21071,39 +21153,43 @@
   },
   "[\"1 כפית מלח דק\",\"salt\",\"to-taste\",\"all\",0]#1221563": {
    "h": "1c6naxejgn2.1ls2haw7yr3",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 כפית מלח דק\",\"salt\",\"to-taste\",\"all\",0]#1012987": {
    "h": "13n4sf7ks50.lig18trz0h",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 כפית מלח דק\",\"salt\",\"to-taste\",\"all\",0]#827508": {
    "h": "9xyf4fo5ax.1yoe3j26ybp",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 כפית מלח דק\",\"salt\",\"to-taste\",\"all\",0]#1221553": {
    "h": "1rwfznvwz68.1wbzr782wlb",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"שליש כוס פקאן סיני\",\"pecans-candied\",\"40g\",\"all\",0]#719830": {
    "h": "4rjnk79az7.mwamf3569o",
-   "at": "2026-10-08T19:31:08.750Z",
-   "strikes": 1,
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
    "picker": true,
-   "critic": false,
-   "why": "critic: השורה מבקשת פקאן רגיל, המוצר פקאן מקורמל (גרסה מתובלת) בלי סימון תחליף"
+   "critic": true
   },
   "[\"1 כף מלח\",\"salt\",\"to-taste\",\"all\",0]#1221563": {
    "h": "g9b7qi0vri.2alfmtxupi0",
@@ -21142,24 +21228,27 @@
   },
   "[\"1 כף קמח\",\"flour\",\"to-taste\",\"all\",0]#18812": {
    "h": "10a3ux37hs5.7ebj9a86b",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 כף קמח\",\"flour\",\"to-taste\",\"all\",0]#351722": {
    "h": "vspzruda89.1i931p32290",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 כף קמח\",\"flour\",\"to-taste\",\"all\",0]#695397": {
    "h": "1vfeupcpr4a.1fzjwum6sdc",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"4 שיני שום\",\"garlic\",\"to-taste\",\"all\",0]#591": {
    "h": "23ip6jm7o2g.1s62stk0123",
@@ -21198,25 +21287,28 @@
   },
   "[\"1 ק\\\"ג עגבניות בשלות\",\"tomato\",\"1000g\",\"all\",0]#589": {
    "h": "19kvksh6j18.263pqm0zo7p",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 ק\\\"ג עגבניות בשלות\",\"tomato\",\"1000g\",\"all\",0]#682": {
    "h": "da1on275yy.176ofyavfpa",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 ק\\\"ג עגבניות בשלות\",\"tomato\",\"1000g\",\"all\",0]#694": {
    "h": "8uj1fkdzu4.q1p9fch4rr",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
-   "picker": false,
-   "why": "critic: 1 ק\"ג מכוסה במארז אחד, היה צריך להיכנס לכפתור",
-   "critic": false
+   "std": 2,
+   "picker": true,
+   "critic": false,
+   "why": "critic: קילו מכוסה במארז אחד, היה צריך להיכנס לכפתור"
   },
   "[\"1 פלפל ירוק חריף קצוץ\",\"chili-green\",\"1count\",\"all\",0]#643": {
    "h": "1nms4j658ws.1ejd2rvwaiv",
@@ -21248,31 +21340,35 @@
   },
   "[\"קורט מלח ופלפל\",\"salt\",\"to-taste\",\"all\",0]#1221563": {
    "h": "1lbc1cu4ve9.njyh6s50dh",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"קורט מלח ופלפל\",\"salt\",\"to-taste\",\"all\",0]#1012987": {
    "h": "24ilvquqtq9.2bxrnkc3u7v",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"קורט מלח ופלפל\",\"salt\",\"to-taste\",\"all\",0]#827508": {
    "h": "16xikns0r52.ics94yden3",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"קורט מלח ופלפל\",\"salt\",\"to-taste\",\"all\",0]#1221553": {
    "h": "3lr4r4mtwc.1tw0h0l4t1v",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"3/4 כוס חלב\",\"milk\",\"180ml\",\"all\",0]#1322": {
    "h": "2cw7vy77jzk.21rzo46m90z",
@@ -21304,10 +21400,11 @@
   },
   "[\"1 בטטה מתוקה בינונית\",\"sweet-potato\",\"1count\",\"all\",0]#607": {
    "h": "yjt4zisqfa.21r2icobie8",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"שליש כוס סוכר\",\"sugar\",\"70g\",\"all\",0]#828274": {
    "h": "qfo1071uz7.9nj0foflo3",
@@ -21367,17 +21464,19 @@
   },
   "[\"2 תפוחי אדמה בינוניים\",\"potato\",\"2count\",\"all\",0]#629": {
    "h": "11w2ozgymo6.1927tbm5uog",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 תפוחי אדמה בינוניים\",\"potato\",\"2count\",\"all\",0]#631": {
    "h": "2d5i0ms3r8k.1xr7t45m2pa",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"4 צנונית\",\"radish\",\"1package\",\"all\",0]#692": {
    "h": "x76tjudu84.h8iekwqfee",
@@ -21430,10 +21529,11 @@
   },
   "[\"4 גזרים\",\"carrot\",\"4count\",\"all\",0]#587": {
    "h": "bo64tedgcl.1h2267ndsx9",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"100 גרם שמן קנולה / חמניות (1 כוס)\",\"canola-oil\",\"110ml\",\"all\",0]#732768": {
    "h": "1eyq5ebllei.2c1eavu01b7",
@@ -21584,31 +21684,35 @@
   },
   "[\"חצי כפית מלח\",\"salt\",\"to-taste\",\"all\",0]#1221563": {
    "h": "6bcptrks04.16zn47cwf54",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"חצי כפית מלח\",\"salt\",\"to-taste\",\"all\",0]#1012987": {
    "h": "d8zxlwq32x.1areqwwnk0a",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"חצי כפית מלח\",\"salt\",\"to-taste\",\"all\",0]#827508": {
    "h": "2ee0xqk2baj.10qy32wpq0w",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"חצי כפית מלח\",\"salt\",\"to-taste\",\"all\",0]#1221553": {
    "h": "1es6xyrqbcl.e5skmiarea",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"צרור פטרוזיליה קצוצה\",\"parsley\",\"1bunch\",\"all\",0]#2370": {
    "h": "5kwvgz0sty.17evadl014w",
@@ -21718,17 +21822,19 @@
   },
   "[\"1 גזר קצוץ\",\"carrot\",\"1count\",\"all\",0]#587": {
    "h": "1391bvgtyf3.4x9uo8md61",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"20 גרם חמאה\",\"butter\",\"20g\",\"all\",0]#752724": {
    "h": "1z25wpgmtwb.11c9a172a94",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 תפוחי אדמה\",\"potato\",\"2count\",\"all\",0]#629": {
    "h": "1w7prlb3ru7.1n1kxnxb1xl",
@@ -21746,10 +21852,11 @@
   },
   "[\"גרידת לימון\",\"lemon\",\"to-taste\",\"all\",0]#448": {
    "h": "244dtzy0q1i.i8d1gw585d",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 כפית תמצית וניל איכותית\",\"vanilla-extract\",\"to-taste\",\"all\",0]#1138063": {
    "h": "1arfr8ydr86.21zeo0hw12c",
@@ -21858,18 +21965,20 @@
   },
   "[\"3 גבעולי סלרי אמריקאי\",\"celery-stalks\",\"3count\",\"all\",0]#710": {
    "h": "k8ugx1so6g.2256qq0um2y",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"3 גבעולי סלרי אמריקאי\",\"celery-stalks\",\"3count\",\"all\",0]#2478": {
    "h": "iinnwl5yg1.xm37ylqyng",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 2,
-   "picker": true,
-   "why": "critic: סלרי מהדרין אינו בהכרח סלרי אמריקאי שהשורה מבקשת, ואינו מסומן כתחליף",
-   "critic": false
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 1,
+   "std": 2,
+   "picker": false,
+   "why": "picker: not named (סלרי אמריקאי שלם; קצוץ מוכן ונשנושים בחוץ)",
+   "critic": true
   },
   "[\"שמן לטיגון\",\"canola-oil\",\"to-taste\",\"all\",0]#732768": {
    "h": "y6lb4xnywo.1ay69446k81",
@@ -21964,58 +22073,63 @@
   },
   "[\"1 בקבוק של רוטב רימונים ודבש\",\"honey\",\"to-taste\",\"all\",1]#1380": {
    "h": "132kxkhlzp6.11p8n98hnkh",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": true,
    "critic": false,
-   "why": "critic: דבש אינו תחליף לבקבוק רוטב רימונים ודבש"
+   "why": "critic: דבש אינו תחליף לרוטב רימונים ודבש"
   },
   "[\"1 בקבוק של רוטב רימונים ודבש\",\"honey\",\"to-taste\",\"all\",1]#1219228": {
    "h": "1lg6kddxvec.184tiveaie5",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": true,
    "critic": false,
-   "why": "critic: plain honey is not a substitute for a pomegranate and honey dressing"
+   "why": "critic: דבש אינו תחליף לרוטב רימונים ודבש"
   },
   "[\"1 בקבוק של רוטב רימונים ודבש\",\"honey\",\"to-taste\",\"all\",1]#858719": {
    "h": "k64bu3ht77.1c2yuubm54t",
-   "at": "2026-10-08T19:31:08.750Z",
-   "strikes": 1,
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
    "picker": true,
-   "critic": false,
-   "why": "critic: דבש אינו רוטב רימונים ודבש"
+   "critic": true
   },
   "[\"1 בקבוק של רוטב רימונים ודבש\",\"honey\",\"to-taste\",\"all\",1]#1204967": {
    "h": "1lrs7ea98i6.196z4mu9i13",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": true,
    "critic": false,
-   "why": "critic: דבש לבד אינו תחליף לבקבוק רוטב רימונים ודבש"
+   "why": "critic: דבש אינו תחליף לרוטב רימונים ודבש"
   },
   "[\"1 בקבוק של רוטב רימונים ודבש\",\"honey\",\"to-taste\",\"all\",1]#814712": {
    "h": "1f89757xlyi.1xpoteqxu4y",
-   "at": "2026-10-08T19:31:08.750Z",
-   "strikes": 1,
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
    "picker": true,
-   "critic": false,
-   "why": "critic: דבש לבד אינו תחליף לבקבוק רוטב רימונים ודבש"
+   "critic": true
   },
   "[\"1 בקבוק של רוטב רימונים ודבש\",\"honey\",\"to-taste\",\"all\",1]#814706": {
    "h": "oeir154es5.282blfu066t",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": true,
    "critic": false,
-   "why": "critic: דבש לבד אינו תחליף לרוטב רימונים ודבש"
+   "why": "critic: דבש אינו תחליף לרוטב רימונים ודבש"
   },
   "[\"1 לימון סחוט\",\"lemon\",\"1count\",\"all\",0]#448": {
    "h": "1ga8gehhw1h.12yyx6yyic8",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"חבילת ניוקי\",\"gnocchi\",\"1package\",\"all\",0]#2382": {
    "h": "1i1alfmvjmb.2477iloyyye",
@@ -22026,10 +22140,11 @@
   },
   "[\"100 גרם חמוציות מסוכרות\",\"cranberries-sweet\",\"100g\",\"all\",0]#719708": {
    "h": "23bybqr78o.23sm9xwhbyi",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 כפות סוכר דמררה (אפשר גם סוכר לבן)\",\"sugar-demerara\",\"to-taste\",\"any\",0]#828249": {
    "h": "1yiulk0fmuk.1z1j1fhypt7",
@@ -22040,59 +22155,67 @@
   },
   "[\"קורט מלח\",\"salt\",\"to-taste\",\"all\",0]#1221563": {
    "h": "hyy7r1tcyw.2ctfuly2s6u",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"קורט מלח\",\"salt\",\"to-taste\",\"all\",0]#1012987": {
    "h": "1a2hev399g.186z0wv93e",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"קורט מלח\",\"salt\",\"to-taste\",\"all\",0]#827508": {
    "h": "1g7wq55g099.242w2ppezoq",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"קורט מלח\",\"salt\",\"to-taste\",\"all\",0]#1221553": {
    "h": "15gi2ka2wnl.16kc39z4m5r",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 כפית שטוחה מלח (לפי טעם אישי)\",\"salt\",\"to-taste\",\"all\",0]#1221563": {
    "h": "1xdwq2t8bhh.2b2yjxul4i2",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 כפית שטוחה מלח (לפי טעם אישי)\",\"salt\",\"to-taste\",\"all\",0]#1012987": {
    "h": "29dhn00uwzc.1fb10r8vxiy",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 כפית שטוחה מלח (לפי טעם אישי)\",\"salt\",\"to-taste\",\"all\",0]#827508": {
    "h": "16c4ix4uivl.260n05h7n7h",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 כפית שטוחה מלח (לפי טעם אישי)\",\"salt\",\"to-taste\",\"all\",0]#1221553": {
    "h": "1wp7hm59rj3.ba3r8xsdf8",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"מלח, פלפל שחור, קורט אגוז מוסקט\",\"salt\",\"to-taste\",\"all\",0]#1221563": {
    "h": "nmkd3h8ibm.icse6qsewy",
@@ -22124,24 +22247,27 @@
   },
   "[\"2 כפות גדושות קמח\",\"flour\",\"to-taste\",\"all\",0]#18812": {
    "h": "211nc5m16yr.z5gqx3mkx0",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 כפות גדושות קמח\",\"flour\",\"to-taste\",\"all\",0]#351722": {
    "h": "15o5ctxj8fk.1yn3pculpy1",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 כפות גדושות קמח\",\"flour\",\"to-taste\",\"all\",0]#695397": {
    "h": "29eppnh62as.23rx49b4l2a",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 כפית פפריקה מתוקה\",\"paprika-sweet\",\"to-taste\",\"all\",0]#1102458": {
    "h": "16aexl6pz22.6o9l1owc9m",
@@ -22152,38 +22278,43 @@
   },
   "[\"2 כפות מיץ לימון\",\"lemon\",\"1count\",\"all\",0]#448": {
    "h": "1eh1hflqgtl.1b60ashktf1",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 מלח כפית (לפי הטעם)\",\"salt\",\"to-taste\",\"all\",0]#1221563": {
    "h": "3hku8gkpq6.2cqy7lv9833",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 מלח כפית (לפי הטעם)\",\"salt\",\"to-taste\",\"all\",0]#1012987": {
    "h": "19xgi086kqx.1mwh4jk6iqs",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 מלח כפית (לפי הטעם)\",\"salt\",\"to-taste\",\"all\",0]#827508": {
    "h": "ncjoemz2w0.yoslmtaes7",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 מלח כפית (לפי הטעם)\",\"salt\",\"to-taste\",\"all\",0]#1221553": {
    "h": "omxdfu7qy7.1oavfsnhq4n",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 כפות שמן קנולה\",\"canola-oil\",\"to-taste\",\"all\",0]#732768": {
    "h": "10tci8a25fh.1pvugxf1h0g",
@@ -22194,38 +22325,43 @@
   },
   "[\"1-2 חצילים יפים ומוצקים של נוי השדה\",\"eggplant\",\"2count\",\"all\",0]#585": {
    "h": "2ebxfkxoe58.4sarrey0sr",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1-2 חצילים יפים ומוצקים של נוי השדה\",\"eggplant\",\"2count\",\"all\",0]#662": {
    "h": "g9bm5eyiw3.1wr0gqadn6n",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1/2 כוס קמח\",\"flour\",\"70g\",\"all\",0]#18812": {
    "h": "1qm57ndfejp.1u7f3xyaltt",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1/2 כוס קמח\",\"flour\",\"70g\",\"all\",0]#351722": {
    "h": "12xvltd4eb6.c9atemhz0e",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1/2 כוס קמח\",\"flour\",\"70g\",\"all\",0]#695397": {
    "h": "59ce7bqw80.25f1f21kl9i",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 חבילה של בצל ירוק\",\"green-onion\",\"1bunch\",\"all\",0]#722": {
    "h": "250k77z4min.15g93qtcvjo",
@@ -22383,18 +22519,20 @@
   },
   "[\"3 ענפי סלרי אמריקאי\",\"celery-stalks\",\"3count\",\"all\",0]#710": {
    "h": "3o5fltm8rh.vegbvbp8n7",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"3 ענפי סלרי אמריקאי\",\"celery-stalks\",\"3count\",\"all\",0]#2478": {
    "h": "4saitq39x6.tslxo16jru",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 2,
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "picker: not named (סלרי אמריקאי שלם; 8 קצוץ מוכן, 7 שורש סלרי, 4 נשנוש)",
-   "critic": false
+   "why": "picker: not named (סלרי אמריקאי)",
+   "critic": true
   },
   "[\"1 כפית סוכר\",\"sugar\",\"to-taste\",\"all\",0]#828274": {
    "h": "1or12ilg6wy.i504ndnmqa",
@@ -22531,24 +22669,27 @@
   },
   "[\"3 כפות קמח\",\"flour\",\"to-taste\",\"all\",0]#18812": {
    "h": "10cthfwh75t.1drkwn1g6lt",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"3 כפות קמח\",\"flour\",\"to-taste\",\"all\",0]#351722": {
    "h": "28s7f2lk5zt.10ibggxxezc",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"3 כפות קמח\",\"flour\",\"to-taste\",\"all\",0]#695397": {
    "h": "26wl9um5lyx.2725j8b992r",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 כף שמן זית\",\"olive-oil\",\"to-taste\",\"all\",0]#581483": {
    "h": "1ewvr3ykhaq.o73gmqngpp",
@@ -22629,17 +22770,19 @@
   },
   "[\"2 חצילים בינוניים\",\"eggplant\",\"2count\",\"all\",0]#585": {
    "h": "23y18e95nsf.vss8twoj8r",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 חצילים בינוניים\",\"eggplant\",\"2count\",\"all\",0]#662": {
    "h": "b5qikr2byj.waxddgcvdo",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"קורט פלפל שחור / פלפל לבן\",\"black-pepper\",\"to-taste\",\"all\",0]#1102540": {
    "h": "wsmfvskenx.1mu2k8zckv9",
@@ -22671,10 +22814,11 @@
   },
   "[\"ברוקולי מפורק לפרחים קטנים\",\"broccoli\",\"1count\",\"all\",0]#720": {
    "h": "1wjt02sqzsd.pws0nhn3wz",
-   "at": "2026-10-09T19:00:34.825Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"3 כפות רכז רימונים\",\"pomegranate-concentrate\",\"45ml\",\"all\",0]#659219": {
    "h": "1ck46xlnbgk.a28jne4eb1",
@@ -22713,31 +22857,35 @@
   },
   "[\"5 כפות קמח\",\"flour\",\"to-taste\",\"all\",0]#18812": {
    "h": "k1nweiacrh.1lpzf5i291q",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"5 כפות קמח\",\"flour\",\"to-taste\",\"all\",0]#351722": {
    "h": "152qk8b6s7h.ikt92zhsyg",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"5 כפות קמח\",\"flour\",\"to-taste\",\"all\",0]#695397": {
    "h": "2g2s8t1bff7.265a0gzs9j6",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"120 גרם חמאה מומסת\",\"butter\",\"120g\",\"all\",0]#752724": {
    "h": "1tp2wcjon4p.2cr4yj7igbx",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"3/4 כוס גבינת פרמז'ן מגוררת\",\"grana\",\"60g\",\"all\",1]#691031": {
    "h": "18awqopla3a.12iooyurup1",
@@ -22783,10 +22931,11 @@
   },
   "[\"100 גרם חמאה\",\"butter\",\"100g\",\"all\",0]#752724": {
    "h": "na4zk6lz0p.210n90m26xr",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 כפות דבש איכותי\",\"honey\",\"40g\",\"all\",0]#1380": {
    "h": "nbpc10wi2i.up62natoxx",
@@ -22853,24 +23002,27 @@
   },
   "[\"1 קילו קמח\",\"flour\",\"1000g\",\"all\",0]#18812": {
    "h": "ymcqln1f13.25a8edcqgs2",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 קילו קמח\",\"flour\",\"1000g\",\"all\",0]#351722": {
    "h": "14kgtuiu6vq.29qszyqvidd",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 קילו קמח\",\"flour\",\"1000g\",\"all\",0]#695397": {
    "h": "7luosrfua7.ay8qsrjyyc",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 מיכל שמנת מתוקה להקצפה\",\"cream-whipping\",\"250ml\",\"all\",0]#1679": {
    "h": "21cs65u4sm1.110598reexo",
@@ -22881,53 +23033,59 @@
   },
   "[\"200 גרם יוגורט יווני\",\"greek-yogurt\",\"200g\",\"all\",0]#1104018": {
    "h": "1og7zl5lnxt.26qe89lakbf",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"200 גרם יוגורט יווני\",\"greek-yogurt\",\"200g\",\"all\",0]#1104044": {
    "h": "89t5gmjugn.1i3xij8m767",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"200 גרם יוגורט יווני\",\"greek-yogurt\",\"200g\",\"all\",0]#1228038": {
    "h": "12u5jyac9a3.fybxfi7rxc",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"200 גרם יוגורט יווני\",\"greek-yogurt\",\"200g\",\"all\",0]#900083": {
    "h": "1h8mmlvnn5l.vvdrj0bkla",
-   "at": "2026-10-08T19:31:08.750Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "critic: לא ברור מהו יוגורט \"גולדן\", אולי גרסה מיוחדת ולא יוגורט יווני רגיל",
-   "critic": false
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
   },
   "[\"200 גרם יוגורט יווני\",\"greek-yogurt\",\"200g\",\"all\",0]#375216": {
    "h": "2a17phulxut.18sffxkpsw4",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"200 גרם יוגורט יווני\",\"greek-yogurt\",\"200g\",\"all\",0]#1052727": {
    "h": "oyf96fxm6e.dkhvs4p9ec",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"200 גרם יוגורט יווני\",\"greek-yogurt\",\"200g\",\"all\",0]#1176319": {
    "h": "1ct76f43k6.1v29oed5bhj",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"3 תפוחי עץ ירוקים גרנד סמיט\",\"apple-granny\",\"3count\",\"all\",0]#446": {
    "h": "1qeah7wlo5t.5000xfk2t3",
@@ -22952,25 +23110,28 @@
   },
   "[\"קופסא עגבניות מרוסקות\",\"tomatoes-crushed\",\"1count\",\"all\",0]#1002157": {
    "h": "10uugk4036e.isi9w2vgfu",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": true,
    "critic": false,
-   "why": "critic: עגבניות חתוכות דק במקום מרוסקות, לא מסומן תחליף"
+   "why": "critic: עגבניות חתוכות דק (פולפה) במקום מרוסקות בלי סימון תחליף"
   },
   "[\"קופסא עגבניות מרוסקות\",\"tomatoes-crushed\",\"1count\",\"all\",0]#1129": {
    "h": "icr2h325pg.y55g157ta3",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"קופסא עגבניות מרוסקות\",\"tomatoes-crushed\",\"1count\",\"all\",0]#951792": {
    "h": "1sfc5jzjwq4.25atwduysvt",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 כפית דבש\",\"honey\",\"to-taste\",\"all\",0]#1380": {
    "h": "226jvu9hlyj.mxa71cb930",
@@ -23142,10 +23303,11 @@
   },
   "[\"50 גרם חמאה\",\"butter\",\"50g\",\"all\",0]#752724": {
    "h": "28r7pflxvu8.vhcj5oj69r",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"חצי צרור פטרוזליה קצוץ\",\"parsley\",\"0.5bunch\",\"all\",0]#2370": {
    "h": "1ksozziq0kw.1jcgh8k0nuf",
@@ -23492,18 +23654,20 @@
   },
   "[\"2 גבעולי סלרי אמריקאי\",\"celery-stalks\",\"2count\",\"all\",0]#710": {
    "h": "1tsj0y6qurq.14t0pup9nq9",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 גבעולי סלרי אמריקאי\",\"celery-stalks\",\"2count\",\"all\",0]#2478": {
    "h": "aqhj8rjac8.26g89ucr3p2",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 2,
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "picker: not named (סלרי אמריקאי שלם)",
-   "critic": false
+   "why": "picker: not named (סלרי אמריקאי; 14 קצוץ מוכן, 1 שורש, 11 אולי זן אחר)",
+   "critic": true
   },
   "[\"חצי צרור כוסברה\",\"coriander\",\"0.5bunch\",\"all\",0]#2258": {
    "h": "141jwvb70bv.183ojv5o5ai",
@@ -23570,51 +23734,56 @@
   },
   "[\"רוטב דבש\",\"honey\",\"to-taste\",\"all\",0]#1380": {
    "h": "jasnmdz3xw.1jjaa641uvv",
-   "at": "2026-10-08T19:31:08.750Z",
-   "strikes": 1,
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
    "picker": true,
-   "critic": false,
-   "why": "critic: רוטב דבש אינו דבש"
+   "critic": true
   },
   "[\"רוטב דבש\",\"honey\",\"to-taste\",\"all\",0]#1219228": {
    "h": "pxi7dtj7p8.smrdfmbzjm",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": true,
    "critic": false,
-   "why": "critic: השורה היא רוטב דבש, דבש לבדו אינו הרוטב"
+   "why": "critic: רוטב דבש אינו דבש, צריך סימון תחליף"
   },
   "[\"רוטב דבש\",\"honey\",\"to-taste\",\"all\",0]#858719": {
    "h": "1ppefvzq5hp.12k5wixfzq2",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": true,
    "critic": false,
-   "why": "critic: השורה היא רוטב דבש, לא דבש; ולא סומן כתחליף"
+   "why": "critic: השורה היא רוטב דבש, לא דבש"
   },
   "[\"רוטב דבש\",\"honey\",\"to-taste\",\"all\",0]#1204967": {
    "h": "khqtrw5h8x.2rr8jrjhkj",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": true,
    "critic": false,
-   "why": "critic: השורה מבקשת רוטב דבש; דבש לבד אינו הרוטב ולא מסומן כתחליף"
+   "why": "critic: השורה היא רוטב דבש, לא דבש; אין כמות"
   },
   "[\"רוטב דבש\",\"honey\",\"to-taste\",\"all\",0]#814712": {
    "h": "7n0hk4iyoq.1irj3y6cg13",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": true,
    "critic": false,
-   "why": "critic: השורה היא רוטב דבש, לא דבש; ולא סומן כתחליף"
+   "why": "critic: השורה היא רוטב דבש, לא דבש"
   },
   "[\"רוטב דבש\",\"honey\",\"to-taste\",\"all\",0]#814706": {
    "h": "22tzig9u213.vujggcld2p",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": true,
    "critic": false,
-   "why": "critic: the line is a honey dressing, not honey"
+   "why": "critic: רוטב דבש אינו דבש, צריך סימון תחליף"
   },
   "[\"2 ראשי סלרי (שורש סלרי)\",\"celery-root\",\"2count\",\"all\",0]#712": {
    "h": "d6u3aisq37.1smlq58uydm",
@@ -23653,10 +23822,11 @@
   },
   "[\"1 כף מיץ לימון (לפי הטעם)\",\"lemon\",\"0.5count\",\"all\",0]#448": {
    "h": "d4kdjphhhm.4cr11m667h",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"3 אגסים\",\"pear\",\"3count\",\"all\",0]#456": {
    "h": "qrk7u7ptmr.1ltrw5n78ec",
@@ -23723,18 +23893,20 @@
   },
   "[\"1 גבעול סלרי אמריקאי קצוץ\",\"celery-stalks\",\"1count\",\"all\",0]#710": {
    "h": "2afdos686ii.10u567pz140",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 גבעול סלרי אמריקאי קצוץ\",\"celery-stalks\",\"1count\",\"all\",0]#2478": {
    "h": "9nfn0w4a11.ae20o6hs9g",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 2,
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "picker: not named (סלרי אמריקאי, וקצוץ כפי שהשורה מבקשת; 13 לא ודאי שהוא אמריקאי)",
-   "critic": false
+   "why": "picker: not named (סלרי אמריקאי שלם; קצוץ מוכן ונשנושים הם מוצר מוכן, סלרי מהדרין אינו אמריקאי, שורש סלרי בחוץ)",
+   "critic": true
   },
   "[\"3 שיני שום כתושות\",\"garlic\",\"to-taste\",\"all\",0]#591": {
    "h": "11tyuo35k1w.1rdmvpj4iy7",
@@ -23906,10 +24078,11 @@
   },
   "[\"קליפה מגוררת מחצי לימון\",\"lemon\",\"0.5count\",\"all\",0]#448": {
    "h": "2au6gcgtl89.1kcokd4nu8w",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"פלפל\",\"black-pepper\",\"to-taste\",\"all\",0]#1102540": {
    "h": "gctgvpwtr3.g52qflfsph",
@@ -24018,31 +24191,35 @@
   },
   "[\"1 כפית גדושה מלח (לפי הטעם)\",\"salt\",\"to-taste\",\"all\",0]#1221563": {
    "h": "1u2qzoxgyoc.1p9hspixel9",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 כפית גדושה מלח (לפי הטעם)\",\"salt\",\"to-taste\",\"all\",0]#1012987": {
    "h": "efjriqaod4.ar2zrbnm11",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 כפית גדושה מלח (לפי הטעם)\",\"salt\",\"to-taste\",\"all\",0]#827508": {
    "h": "asnakoonb1.33x2gfajd2",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 כפית גדושה מלח (לפי הטעם)\",\"salt\",\"to-taste\",\"all\",0]#1221553": {
    "h": "fejn6bvo69.1mxtesvu288",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"רבע כוס שמן זית \\\"נוי השדה\\\"\",\"olive-oil-noy\",\"to-taste\",\"all\",0]#581483": {
    "h": "196kd6k96so.lzcje6gmgv",
@@ -24053,11 +24230,11 @@
   },
   "[\"1 בקבוק של רוטב רימונים ודבש\",\"pomegranate-concentrate\",\"to-taste\",\"all\",1]#659219": {
    "h": "1b2g574u6f2.kaskr67n5j",
-   "at": "2026-10-08T19:31:08.750Z",
-   "strikes": 1,
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
    "picker": true,
-   "critic": false,
-   "why": "critic: רכז רימונים אינו רוטב רימונים ודבש"
+   "critic": true
   },
   "[\"בצל קצוץ דק\",\"onion\",\"1count\",\"all\",0]#605": {
    "h": "52m77yvelb.23zp1j8t1aq",
@@ -24230,31 +24407,35 @@
   },
   "[\"1 כפית מלח (לפי טעם אישי)\",\"salt\",\"to-taste\",\"all\",0]#1221563": {
    "h": "83y8ndoabx.174keqba3pl",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 כפית מלח (לפי טעם אישי)\",\"salt\",\"to-taste\",\"all\",0]#1012987": {
    "h": "kvu2wrbfc6.y9vbmcabd1",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 כפית מלח (לפי טעם אישי)\",\"salt\",\"to-taste\",\"all\",0]#827508": {
    "h": "15vpp3zi4a3.1l07jzj4bzy",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 כפית מלח (לפי טעם אישי)\",\"salt\",\"to-taste\",\"all\",0]#1221553": {
    "h": "zvv540zugc.156d8r331rf",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"מלח, פלפל שחור, קורט אגוז מוסקט\",\"black-pepper\",\"to-taste\",\"all\",0]#1102540": {
    "h": "1zbtdghkm9.12alabnpj6l",
@@ -24328,60 +24509,68 @@
   },
   "[\"חומוס מקופסת שימורים 380 גרם\",\"chickpeas-canned\",\"1package\",\"all\",0]#951381": {
    "h": "19020cxqlzh.xlm1ko9fkr",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 2,
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "picker: not named (חומוס מבושל בקופסה; 1 יבש, 5 קפוא)",
+   "why": "critic: גרגירי חומוס יבשים מול שימורים, צורה אחרת בלי סימון תחליף",
    "critic": false
   },
   "[\"חומוס מקופסת שימורים 380 גרם\",\"chickpeas-canned\",\"1package\",\"all\",0]#1183485": {
    "h": "2cq5d60nwx6.asitwwk328",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"חומוס מקופסת שימורים 380 גרם\",\"chickpeas-canned\",\"1package\",\"all\",0]#1779": {
    "h": "vhqr8c7ep3.1uu1ruaz21l",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"חומוס מקופסת שימורים 380 גרם\",\"chickpeas-canned\",\"1package\",\"all\",0]#1183478": {
    "h": "2ff7tc9qx2s.hfc4e7upxh",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 כפית מלח\",\"salt\",\"to-taste\",\"all\",0]#1221563": {
    "h": "1xeyrralnk3.15o2ztpy1lf",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 כפית מלח\",\"salt\",\"to-taste\",\"all\",0]#1012987": {
    "h": "2d9ct8w8zj6.1rxoyj3ewsa",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 כפית מלח\",\"salt\",\"to-taste\",\"all\",0]#827508": {
    "h": "ffpcy76mvv.ekw9nq4nw",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 כפית מלח\",\"salt\",\"to-taste\",\"all\",0]#1221553": {
    "h": "29bvut8xc99.708tytauha",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"צנוברים קלויים\",\"pine-nuts\",\"to-taste\",\"all\",0]#719840": {
    "h": "1q5i4f48z7a.2f8r33sy9qs",
@@ -24399,17 +24588,19 @@
   },
   "[\"1 תפוח אדמה\",\"potato\",\"1count\",\"all\",0]#629": {
    "h": "qu7igu9e9b.v4csbszeky",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 תפוח אדמה\",\"potato\",\"1count\",\"all\",0]#631": {
    "h": "204pj8ys4cs.ld6pxnkavp",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"4 כפות מיונז\",\"mayonnaise\",\"1package\",\"all\",0]#35162": {
    "h": "2bsmvvbz7cs.19tfxdesow1",
@@ -24490,10 +24681,11 @@
   },
   "[\"2 קישואים מגורדים גס\",\"zucchini\",\"2count\",\"all\",0]#583": {
    "h": "12w51mh8xwi.5t61ts9eef",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"חצי כפית כורכום\",\"turmeric\",\"to-taste\",\"all\",0]#1102546": {
    "h": "24ro53liis5.2dflcaufci1",
@@ -24609,25 +24801,27 @@
   },
   "[\"חופן תרד טרי\",\"spinach\",\"100g\",\"all\",0]#803": {
    "h": "15ovcgh2cra.1qxjrjfhzyx",
-   "at": "2026-10-08T19:31:08.750Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (fresh spinach leaves; borekas are dishes, New Zealand spinach is another plant, Turkish and Gulliver unclear)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"חופן תרד טרי\",\"spinach\",\"100g\",\"all\",0]#284476": {
    "h": "27ckl3ou452.10j3fo17l6u",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"חופן תרד טרי\",\"spinach\",\"100g\",\"all\",0]#879": {
    "h": "8je4cz2k32.1tz3d3hsmuh",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"פלפל שחור לפי הטעם\",\"black-pepper\",\"to-taste\",\"all\",0]#1102540": {
    "h": "uaj4dgpupb.2c2oty8i9w7",
@@ -24750,10 +24944,11 @@
   },
   "[\"מיץ מחצי לימון\",\"lemon\",\"0.5count\",\"all\",0]#448": {
    "h": "13xxbeh3w3j.1i3vczul828",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"3 כפות גדושות של דבש\",\"honey\",\"60g\",\"all\",0]#1380": {
    "h": "121zigl8fav.2jkumam9fl",
@@ -24968,18 +25163,19 @@
   },
   "[\"250 גרם מיקס פירות יער\",\"blueberries\",\"85g\",\"all\",0]#480": {
    "h": "27l04yr9pci.25g2nop4i2o",
-   "at": "2026-10-08T19:31:08.750Z",
-   "strikes": 1,
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
    "picker": true,
-   "critic": false,
-   "why": "critic: מיקס פירות יער פוצל לאוכמניות 85 גרם; לא מה שהשורה מבקשת, הכמות לא מהשורה ולא מסומן כתחליף"
+   "critic": true
   },
   "[\"בטטה מתוקה\",\"sweet-potato\",\"1count\",\"all\",0]#607": {
    "h": "n3su1iur0o.2f1hqssw6ij",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"10 שיני שום\",\"garlic\",\"2count\",\"all\",0]#591": {
    "h": "1n8kdswalgv.puzjwxflqo",
@@ -25032,32 +25228,36 @@
   },
   "[\"2 גזרים בינוניים\",\"carrot\",\"2count\",\"all\",0]#587": {
    "h": "163qvj6a08z.2g988a976h7",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 כפות גדושות יוגורט\",\"yogurt-plain\",\"40g\",\"all\",0]#432505": {
    "h": "1sthy7h9vqb.1hthlslsvc3",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 2,
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "picker: not named (יוגורט טבעי לא ממותק; טעמים לא)",
-   "critic": false
+   "why": "picker: not named (יוגורט טבעי; בטעמים ולשתייה בחוץ)",
+   "critic": true
   },
   "[\"2 כפות גדושות יוגורט\",\"yogurt-plain\",\"40g\",\"all\",0]#2872": {
    "h": "86v3i8uj4i.127pjn1bwic",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 כפות גדושות יוגורט\",\"yogurt-plain\",\"40g\",\"all\",0]#1941": {
    "h": "1n2x0uf71tm.216lsmimpqs",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 כף שמן שומשום\",\"sesame-oil\",\"to-taste\",\"all\",0]#725145": {
    "h": "o7eceukejw.1h59iodk47l",
@@ -25138,10 +25338,11 @@
   },
   "[\"2 קישואים ירוק\",\"zucchini\",\"2count\",\"all\",0]#583": {
    "h": "v9cwo7sd80.2ec6zx3i1bq",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"50 גרם גבינה צהובה מגוררת\",\"yellow-cheese-grated\",\"50g\",\"all\",0]#714313": {
    "h": "2ct31ss42ul.fo8gjb4fm5",
@@ -25243,10 +25444,11 @@
   },
   "[\"1 קישוא\",\"zucchini\",\"1count\",\"all\",0]#583": {
    "h": "r2vudncjna.zg80lcd3iw",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"חצי אננס\",\"pineapple\",\"1count\",\"all\",0]#458": {
    "h": "sjeganlzkh.g47iuyzfr4",
@@ -25272,10 +25474,11 @@
   },
   "[\"1 לימון גדול סחוט / 2 לימונים קטנים\",\"lemon\",\"2count\",\"all\",0]#448": {
    "h": "2bgvnxk0u41.15xq1gw669j",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"500 מ\\\"ל שמנת צמחית\",\"cream-plant\",\"500ml\",\"all\",0]#1182437": {
    "h": "2a15w8jv6zc.5p83aknrt0",
@@ -25293,10 +25496,11 @@
   },
   "[\"3 קישואים מגוררים גס\",\"zucchini\",\"3count\",\"all\",0]#583": {
    "h": "hv3q50vlnx.17gkywro3e1",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"רבע צרור כוסברה קצוץ\",\"coriander\",\"0.25bunch\",\"all\",0]#2258": {
    "h": "14vzcds39y8.14ytlbnutsr",
@@ -25356,10 +25560,11 @@
   },
   "[\"60 גרם חמאה רכה\",\"butter\",\"60g\",\"all\",0]#752724": {
    "h": "n7h693zeiz.25pzpmrjwtv",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"40 גרם דבש (2 כפות)\",\"honey\",\"40g\",\"all\",0]#1380": {
    "h": "eeviigpzef.mrbdaeakm8",
@@ -25405,10 +25610,11 @@
   },
   "[\"4-3 קישואים פרוסים\",\"zucchini\",\"4count\",\"all\",0]#583": {
    "h": "26tml62xzwe.1nyeae9nxzt",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"חבילת פטריות שי-מג'י\",\"mushrooms-shimeji\",\"1package\",\"all\",0]#833": {
    "h": "od0bcwbkwf.2dvh61l4r0q",
@@ -25447,10 +25653,11 @@
   },
   "[\"1 שמנת לבישול 15%\",\"cream-cooking-15\",\"250ml\",\"all\",0]#1969": {
    "h": "19pg0r6go0t.1ogve6xjgg3",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"חסה קיסר\",\"lettuce-caesar\",\"1package\",\"all\",0]#730": {
    "h": "157tmy1d4zj.r0ox9wy4qd",
@@ -25566,17 +25773,19 @@
   },
   "[\"3 תפוחי אדמה\",\"potato\",\"3count\",\"all\",0]#629": {
    "h": "296t25kbudb.1vo5n6zecs3",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"3 תפוחי אדמה\",\"potato\",\"3count\",\"all\",0]#631": {
    "h": "1gugh2bi71t.1gibagmehdg",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 תפוזים\",\"orange\",\"2count\",\"all\",0]#450": {
    "h": "1w5ch3izy9j.jfzjr2768o",
@@ -25622,10 +25831,11 @@
   },
   "[\"1 וחצי גבינת סימפוניה שמנת טבעית 16%\",\"cream-cheese-16\",\"300g\",\"all\",0]#948478": {
    "h": "27uctvhsi4l.28o631cxm4h",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 כף רסק עגבניות\",\"tomato-paste\",\"to-taste\",\"all\",0]#1183074": {
    "h": "1pyrx4b1uwm.1v1l27a08f3",
@@ -25706,42 +25916,47 @@
   },
   "[\"1 חבילה של ברוקולי טרי\",\"broccoli\",\"1count\",\"all\",0]#857": {
    "h": "papaan5szu.19rzvw04mv2",
-   "at": "2026-10-09T19:00:34.825Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: ברוקומיני אינו ברוקולי",
+   "why": "critic: ברוקומיני אינו ברוקולי, 2 מארזים לחבילה אחת, ואזל",
    "critic": false
   },
   "[\"כ-300 גרם ברוקולי טרי (גזע אחד בינוני)\",\"broccoli\",\"1count\",\"all\",0]#857": {
    "h": "wrillh6jvx.1yxr4n4xw5g",
-   "at": "2026-10-09T19:00:34.825Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: ברוקומיני אינו ברוקולי, ו-300 גרם נקרא כיחידה",
+   "why": "critic: ברוקומיני אינו ברוקולי",
    "critic": false
   },
   "[\"חצי ברוקולי\",\"broccoli\",\"1count\",\"all\",0]#857": {
    "h": "283m1qs778n.1itna6tg6gi",
-   "at": "2026-10-09T19:00:34.825Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: ברוקומיני אינו ברוקולי",
+   "why": "critic: ברוקומיני אינו ברוקולי, 2 מארזים, ואזל",
    "critic": false
   },
   "[\"ברוקולי מפורק לפרחים קטנים\",\"broccoli\",\"1count\",\"all\",0]#857": {
    "h": "1b6bcc3bs7h.24wbzahhqk7",
-   "at": "2026-10-09T19:00:34.825Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: ברוקומיני אינו ברוקולי",
+   "why": "critic: ברוקומיני אינו ברוקולי, ו-2 יחידות",
    "critic": false
   },
   "[\"2 ראשי ברוקולי שלמים\",\"broccoli\",\"2count\",\"all\",0]#857": {
    "h": "2aqswxiq1di.1zxd6si5qar",
-   "at": "2026-10-09T19:00:34.825Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: ברוקומיני אינו ראש ברוקולי, וגם 4 יחידות",
+   "why": "critic: ברוקומיני אינו ראש ברוקולי, ו-4 מארזים",
    "critic": false
   },
   "[\"3 שיני שום פרוסות\",\"garlic\",\"to-taste\",\"all\",0]#3517": {
@@ -25760,41 +25975,46 @@
   },
   "[\"1 גבעול סלרי אמריקאי קצוץ\",\"celery-stalks\",\"1count\",\"all\",0]#74113": {
    "h": "f4fzwxt53w.r4zg8eqpfc",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 0,
-   "picker": true,
-   "critic": true
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 1,
+   "picker": false,
+   "critic": true,
+   "std": 2,
+   "why": "picker: not named (סלרי אמריקאי שלם; קצוץ מוכן ונשנושים הם מוצר מוכן, סלרי מהדרין אינו אמריקאי, שורש סלרי בחוץ)"
   },
   "[\"95 גרם חמאה רכה\",\"butter\",\"95g\",\"all\",0]#752734": {
    "h": "1qcz76dkff2.1140wtvwfw",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"95 גרם חמאה רכה\",\"butter\",\"95g\",\"all\",0]#1077488": {
    "h": "oo91yhc1n4.1sc9jxalgfi",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: חמאה חצי שמנה",
-   "critic": false
+   "why": "picker: not named (חמאה אמיתית; לורפק הם ממרחים, Elle&Vire חצי שמנה מוטלת בספק, השאר חמאות אגוזים/מוצרים)",
+   "critic": true
   },
   "[\"95 גרם חמאה רכה\",\"butter\",\"95g\",\"all\",0]#1077497": {
    "h": "203kmskwrnf.wkoznrasec",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: חמאה מלוחה לבצק מתוק בלי סימון תחליף",
-   "critic": false
+   "why": "picker: not named (חמאה אמיתית; לורפק הם ממרחים, Elle&Vire חצי שמנה מוטלת בספק, השאר חמאות אגוזים/מוצרים)",
+   "critic": true
   },
   "[\"95 גרם חמאה רכה\",\"butter\",\"95g\",\"all\",0]#274987": {
    "h": "e5ns2276fv.9o3jdg0l9z",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "critic: חמאה רכה למריחה אינה בהכרח חמאה רגילה",
-   "critic": false
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
   },
   "[\"רבע כפית מלח\",\"salt\",\"to-taste\",\"all\",0]#1013023": {
    "h": "27oi2xb8nx8.8o0l3o1txa",
@@ -25819,10 +26039,11 @@
   },
   "[\"3 גבעולי סלרי\",\"celery-stalks\",\"3count\",\"all\",0]#74113": {
    "h": "1uipbkcek8c.1d2wmv20omq",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "picker: not named (סלרי אמריקאי שלם; 1 לא ודאי שהוא אמריקאי, 4 קצוץ)",
+   "why": "picker: not named (גבעולי סלרי; 1 קצוץ, 2 שורש, 4 נשנושים)",
    "critic": true
   },
   "[\"מלח לפי הטעם\",\"salt\",\"to-taste\",\"all\",0]#1013023": {
@@ -25848,34 +26069,37 @@
   },
   "[\"1 שמנת לבישול 15%\",\"cream-cooking-15\",\"250ml\",\"all\",0]#1971": {
    "h": "9m5hbf6qej.gcogxlhdtt",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: שמנת 9% במקום 15%",
+   "why": "critic: השורה מבקשת 15%, המוצר 9%",
    "critic": false
   },
   "[\"מיץ מחצי לימון\",\"lemon\",\"0.5count\",\"all\",0]#222974": {
    "h": "23j2xziq4es.174px00lvt5",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
    "picker": true,
-   "critic": false,
-   "why": "critic: לימון מאייר, זן אחר מלימון"
+   "critic": true
   },
   "[\"4 גזרים\",\"carrot\",\"4count\",\"all\",0]#915": {
    "h": "89c07yr6ew.ca9hvxi09m",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "picker: not named (גזר שלם; מגורד/נשנושים/שימורים לא)",
+   "why": "picker: not named (גזר שלם; 2/5/7 מוכנים חתוכים)",
    "critic": true
   },
   "[\"4 גזרים\",\"carrot\",\"4count\",\"all\",0]#885": {
    "h": "1tlmy9994ka.214b2edo03b",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 רימונים\",\"pomegranate\",\"2count\",\"all\",0]#34477": {
    "h": "u63ax4ydem.jz4ajh4y4q",
@@ -25886,49 +26110,51 @@
   },
   "[\"210 גרם קמח לבן (1.5 כוס)\",\"flour\",\"210g\",\"all\",0]#18789": {
    "h": "s92v2jgxk.nwy18m2mwz",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (קמח חיטה לבן; פיצה/חלה/תופח/מלא אחרים)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"210 גרם קמח לבן (1.5 כוס)\",\"flour\",\"210g\",\"all\",0]#351732": {
    "h": "16zefvb20bk.kdzzd8231y",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (קמח חיטה לבן; פיצה/חלה/תופח/מלא אחרים)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"210 גרם קמח לבן (1.5 כוס)\",\"flour\",\"210g\",\"all\",0]#695362": {
    "h": "8nfizxngr8.1bs411xhtwa",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (קמח חיטה לבן; פיצה/חלה/תופח/מלא אחרים)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"210 גרם קמח לבן (1.5 כוס)\",\"flour\",\"210g\",\"all\",0]#1198234": {
    "h": "1e9th5lwak1.vsi2bqsskj",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (קמח חיטה לבן; פיצה/חלה/תופח/מלא אחרים)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"210 גרם קמח לבן (1.5 כוס)\",\"flour\",\"210g\",\"all\",0]#1198262": {
    "h": "24l5v0t4v6g.1k7xrctmxyh",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"210 גרם קמח לבן (1.5 כוס)\",\"flour\",\"210g\",\"all\",0]#1198268": {
    "h": "13la0xqjpd1.1zhv2bnotc1",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: קמח טיפו 1 אינו קמח לבן",
+   "why": "critic: השורה מבקשת קמח לבן, טיפו 1 אינו קמח לבן",
    "critic": false
   },
   "[\"6 שיני שום\",\"garlic\",\"to-taste\",\"all\",0]#3517": {
@@ -25940,51 +26166,55 @@
   },
   "[\"חומוס מקופסת שימורים 380 גרם\",\"chickpeas-canned\",\"1package\",\"all\",0]#830753": {
    "h": "154p0fa1xui.f365yyemx4",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: חומוס מוקפא מוצע כחומוס משימורים בלי סימון תחליף",
+   "why": "critic: שימורים מול מוקפא, צורה אחרת בלי סימון תחליף",
    "critic": false
   },
   "[\"1 כפית שטוחה מלחבצל יבש\",\"salt\",\"to-taste\",\"all\",0]#1013023": {
    "h": "26221v3uw5d.1z9ind8rf0x",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (השורה משובשת, ייתכן מלח בצל ולא מלח)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"1 כפית שטוחה מלחבצל יבש\",\"salt\",\"to-taste\",\"all\",0]#1221575": {
    "h": "1s1mzietqja.2dtkrj93558",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (השורה משובשת, ייתכן מלח בצל ולא מלח)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"2 קישואים ירוק\",\"zucchini\",\"2count\",\"all\",0]#613": {
    "h": "7db7pfgtum.1cvq8iblsk1",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
-   "picker": false,
-   "why": "critic: קישוא עגול לשורה של קישואים ירוקים",
-   "critic": false
+   "std": 2,
+   "picker": true,
+   "critic": false,
+   "why": "critic: השורה מבקשת קישוא ירוק, המוצר קישוא עגול"
   },
   "[\"2 קישואים ירוק\",\"zucchini\",\"2count\",\"all\",0]#869": {
    "h": "27p6oie4m3z.2d3msvfvfj4",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": true,
    "critic": false,
-   "why": "critic: בייבי זוקיני, 2 מארזים ב-55.80 לשני קישואים"
+   "why": "critic: 2 מארזי בייבי זוקיני ב-55 ש\"ח ל-2 קישואים, כמות מוטלת בספק"
   },
   "[\"2 חצילים בינוניים\",\"eggplant\",\"2count\",\"all\",0]#867": {
    "h": "i03snxyj1q.1gex534xdj1",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
-   "picker": false,
-   "why": "critic: השורה מבקשת חצילים בינוניים, המוצר חצילונים",
-   "critic": false
+   "std": 2,
+   "picker": true,
+   "critic": false,
+   "why": "critic: 2 מארזי חצילונים במקום 2 חצילים, כמות לא ברורה"
   },
   "[\"מלח\",\"salt\",\"to-taste\",\"all\",0]#1013023": {
    "h": "2fpji6gsi15.1rueygjzygc",
@@ -26002,95 +26232,102 @@
   },
   "[\"1/2 כוס קמח\",\"flour\",\"70g\",\"all\",0]#18789": {
    "h": "p4mwxj9jnx.1cp39p4guoq",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (קמח חיטה לבן רגיל)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"1/2 כוס קמח\",\"flour\",\"70g\",\"all\",0]#351732": {
    "h": "2f0o31ob0v.1fmxup7nkb4",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (קמח חיטה לבן רגיל)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"1/2 כוס קמח\",\"flour\",\"70g\",\"all\",0]#695362": {
    "h": "mbqkmya8i7.1tnc6odxmx4",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (קמח חיטה לבן רגיל)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"1/2 כוס קמח\",\"flour\",\"70g\",\"all\",0]#1198234": {
    "h": "26r31f3uld.6qsmx752bs",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "critic: קמח לפסטה טרייה, סוג מיוחד לקמח רגיל",
-   "critic": false
-  },
-  "[\"1/2 כוס קמח\",\"flour\",\"70g\",\"all\",0]#1198262": {
-   "h": "1ppls8gcjq8.149v50g3g1x",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
+   "std": 2,
    "picker": true,
    "critic": true
   },
+  "[\"1/2 כוס קמח\",\"flour\",\"70g\",\"all\",0]#1198262": {
+   "h": "1ppls8gcjq8.149v50g3g1x",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "picker": true,
+   "critic": true,
+   "std": 2
+  },
   "[\"1/2 כוס קמח\",\"flour\",\"70g\",\"all\",0]#1198268": {
    "h": "2792okdboq8.1cdgucqwzcg",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "picker: not named (קמח חיטה לבן רגיל)",
+   "why": "picker: not named (קמח חיטה לבן)",
    "critic": true
   },
   "[\"3 גזרים\",\"carrot\",\"3count\",\"all\",0]#915": {
    "h": "28qzv71y24u.22lecv4i1lc",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
    "why": "picker: not named (גזר שלם)",
    "critic": true
   },
   "[\"3 גזרים\",\"carrot\",\"3count\",\"all\",0]#885": {
    "h": "i4wek8rxz3.1mubhoa2ukb",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"50 גרם חמאה\",\"butter\",\"50g\",\"all\",0]#752734": {
    "h": "qty0w7cov.1dm2gt0q4gz",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"50 גרם חמאה\",\"butter\",\"50g\",\"all\",0]#1077488": {
    "h": "1ppgvabf3ik.g5tuafaqg3",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: \"חצי שמנה\" לא בטוח שזו חמאה רגילה",
-   "critic": false
+   "why": "picker: not named (חמאה; חצי שמנה וממרחי לורפק בחוץ)",
+   "critic": true
   },
   "[\"50 גרם חמאה\",\"butter\",\"50g\",\"all\",0]#1077497": {
    "h": "1kt84mnz7g6.1zq5xlnz47r",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: חמאה מלוחה בלי סימון תחליף",
-   "critic": false
+   "why": "picker: not named (חמאה; חצי שמנה וממרחי לורפק בחוץ)",
+   "critic": true
   },
   "[\"50 גרם חמאה\",\"butter\",\"50g\",\"all\",0]#274987": {
    "h": "1lqk1w50s4m.23xwp6ktghv",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (חמאה רגילה; ממרחים וחצי שמנה לא)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"רבע כוס מיץ לימון\",\"lemon\",\"1.5count\",\"all\",0]#222974": {
@@ -26109,33 +26346,35 @@
   },
   "[\"1 בטטה מתוקה בינונית\",\"sweet-potato\",\"1count\",\"all\",0]#609": {
    "h": "1kjr49ppk21.12b55zweoea",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (בטטה רגילה; יפנית וסגולה זנים אחרים)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"1 בטטה מתוקה בינונית\",\"sweet-potato\",\"1count\",\"all\",0]#355920": {
    "h": "ftjkcj58fa.24yzpmmdu1w",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (בטטה רגילה; יפנית וסגולה זנים אחרים)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"1 בטטה מתוקה בינונית\",\"sweet-potato\",\"1count\",\"all\",0]#822478": {
    "h": "2dpqmkc20we.16ea2fru57f",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 בטטה מתוקה בינונית\",\"sweet-potato\",\"1count\",\"all\",0]#1111973": {
    "h": "et6qsyd8or.48zluit2mr",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"מלח, פלפל שחור, קורט אגוז מוסקט\",\"salt\",\"to-taste\",\"all\",0]#1013023": {
    "h": "1z6on5jrjq0.1b85rz1ggvi",
@@ -26160,11 +26399,11 @@
   },
   "[\"1 כף מיץ לימון (לפי הטעם)\",\"lemon\",\"0.5count\",\"all\",0]#222974": {
    "h": "2706zhxaw3u.27oimpp1lxy",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
    "picker": true,
-   "critic": false,
-   "why": "critic: לימון מאייר, זן אחר"
+   "critic": true
   },
   "[\"2 שיני שום פרוסות\",\"garlic\",\"to-taste\",\"all\",0]#3517": {
    "h": "o544mm352j.1e1p4qa8ea1",
@@ -26182,34 +26421,35 @@
   },
   "[\"2 כפות גדושות יוגורט\",\"yogurt-plain\",\"40g\",\"all\",0]#3584": {
    "h": "kiezqbs6i2.1jky1iby77n",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "critic: יוגורט עיזים, סוג אחר",
-   "critic": false
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
   },
   "[\"2 כפות גדושות יוגורט\",\"yogurt-plain\",\"40g\",\"all\",0]#690345": {
    "h": "29jn61zg6ej.g94bq2jke9",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "critic: יוגורט עיזים, סוג אחר מיוגורט רגיל",
-   "critic": false
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
   },
   "[\"2 כפות גדושות יוגורט\",\"yogurt-plain\",\"40g\",\"all\",0]#1052582": {
    "h": "qnvj5k2d8f.2abto3rwsv7",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "critic: יוגורט כבשים, סוג אחר",
-   "critic": false
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
   },
   "[\"2 כפות גדושות יוגורט\",\"yogurt-plain\",\"40g\",\"all\",0]#936686": {
    "h": "1o346sg647w.1ez6bjakcm6",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: יוגורט עם קולגן, לא יוגורט רגיל",
+   "why": "critic: יוגורט מולטי קולגן הוא מוצר מועשר, לא יוגורט רגיל",
    "critic": false
   },
   "[\"חצי מיכל גבינה לבנה\",\"white-cheese\",\"125g\",\"all\",0]#1320": {
@@ -26277,129 +26517,138 @@
   },
   "[\"שליש כוס חמוציות מסוכרות\",\"cranberries-sweet\",\"50g\",\"all\",0]#719694": {
    "h": "5lc8zwm7nm.226cybyirzs",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: חמוציות ללא סוכר במקום מסוכרות, בלי סימון תחליף",
+   "why": "critic: השורה מבקשת חמוציות מסוכרות, המוצר ללא תוספת סוכר",
    "critic": false
   },
   "[\"2 גבעולים של סלרי אמריקאי (גבעול + עלים)\",\"celery-stalks\",\"2count\",\"all\",0]#74113": {
    "h": "1y0cbs5rse6.166nvjey49v",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: סלרי קצוץ בלי העלים שהשורה מבקשת",
-   "critic": false
+   "why": "picker: not named (סלרי אמריקאי)",
+   "critic": true
   },
   "[\"2 כפות גדושות קמח\",\"flour\",\"to-taste\",\"all\",0]#18789": {
    "h": "1ohxraif8if.hubnchfhdf",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (קמח חיטה לבן רגיל)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"2 כפות גדושות קמח\",\"flour\",\"to-taste\",\"all\",0]#351732": {
    "h": "1mf3y7wqu3q.1gzsiojrhuo",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (קמח חיטה לבן רגיל)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"2 כפות גדושות קמח\",\"flour\",\"to-taste\",\"all\",0]#695362": {
    "h": "1j39e7gxffx.1sozd6ypcn9",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (קמח חיטה לבן רגיל)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"2 כפות גדושות קמח\",\"flour\",\"to-taste\",\"all\",0]#1198234": {
    "h": "ns0na7i22b.1nouxfxs17c",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (קמח חיטה לבן רגיל)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"2 כפות גדושות קמח\",\"flour\",\"to-taste\",\"all\",0]#1198262": {
    "h": "265mqtrsjef.unkrabxv5x",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 כפות גדושות קמח\",\"flour\",\"to-taste\",\"all\",0]#1198268": {
    "h": "1xbjd0ly6hz.uk1xq1c0bz",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "picker: not named (קמח חיטה לבן רגיל)",
+   "why": "picker: not named (קמח חיטה לבן)",
    "critic": true
   },
   "[\"120 גרם חמאה מומסת\",\"butter\",\"120g\",\"all\",0]#752734": {
    "h": "9yozfd9np1.jnf7dbdqn7",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"120 גרם חמאה מומסת\",\"butter\",\"120g\",\"all\",0]#1077488": {
    "h": "1spefd91u6l.5xhydsm480",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: חמאה חצי שמנה",
-   "critic": false
+   "why": "picker: not named (חמאה; חצי שמנה וממרחי לורפק בחוץ)",
+   "critic": true
   },
   "[\"120 גרם חמאה מומסת\",\"butter\",\"120g\",\"all\",0]#1077497": {
    "h": "10axr90jjpd.1wjgwzksc8n",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: חמאה חצי שמנה",
-   "critic": false
+   "why": "picker: not named (חמאה; חצי שמנה וממרחי לורפק בחוץ)",
+   "critic": true
   },
   "[\"120 גרם חמאה מומסת\",\"butter\",\"120g\",\"all\",0]#274987": {
    "h": "2cu8c7fbp9m.a4vkzsis8a",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "critic: חמאה למריחה",
-   "critic": false
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
   },
   "[\"60 גרם חמאה רכה\",\"butter\",\"60g\",\"all\",0]#752734": {
    "h": "xbq45a97re.vq2z15soy0",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
    "picker": true,
-   "critic": false,
-   "why": "critic: חמאה מלוחה לטארט בלי סימון תחליף"
+   "critic": true
   },
   "[\"60 גרם חמאה רכה\",\"butter\",\"60g\",\"all\",0]#1077488": {
    "h": "1o1bu6ouzx8.1smyu17wjwy",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: חמאה \"חצי שמנה\", סוג אחר מחמאה",
-   "critic": false
+   "why": "picker: not named (חמאה אמיתית; ממרחים וחצי שמנה בחוץ)",
+   "critic": true
   },
   "[\"60 גרם חמאה רכה\",\"butter\",\"60g\",\"all\",0]#1077497": {
    "h": "cr1cxmra4r.1vmn3tsoo2",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: חמאה חצי שמנה, לא חמאה רגילה",
-   "critic": false
+   "why": "picker: not named (חמאה אמיתית; ממרחים וחצי שמנה בחוץ)",
+   "critic": true
   },
   "[\"60 גרם חמאה רכה\",\"butter\",\"60g\",\"all\",0]#274987": {
    "h": "dlr47lw7xl.2cjcufcdgj7",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "critic: חמאה למריחה",
-   "critic": false
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
   },
   "[\"4 שיני שום\",\"garlic\",\"to-taste\",\"all\",0]#3517": {
    "h": "or297bw5k4.1ftd9anvpri",
@@ -26417,57 +26666,60 @@
   },
   "[\"2 קישואים צהוב\",\"zucchini\",\"2count\",\"all\",1]#613": {
    "h": "nazzpoz3x1.256drgsr4md",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (קישוא ירוק כתחליף סביר לצהוב)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"2 קישואים צהוב\",\"zucchini\",\"2count\",\"all\",1]#869": {
    "h": "aw4bk746xi.1kvwseqd34n",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": true,
    "critic": false,
-   "why": "critic: בייבי זוקיני ב-27.9 ל\"יחידה\" כנראה מארז; 2 מארזים (55.80) ל-2 קישואים"
+   "why": "critic: ספק בכמות: יחידת בייבי זוקיני ב-27.9 היא כנראה מארז, 2 מארזים ל-2 קישואים"
   },
   "[\"בטטה מתוקה\",\"sweet-potato\",\"1count\",\"all\",0]#609": {
    "h": "11dcciz1nvn.1bimj1h1cmt",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "critic: בטטה סגולה, סוג אחר",
-   "critic": false
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
   },
   "[\"בטטה מתוקה\",\"sweet-potato\",\"1count\",\"all\",0]#355920": {
    "h": "22ca4emhb75.q133hb8rmm",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (בטטה רגילה)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"בטטה מתוקה\",\"sweet-potato\",\"1count\",\"all\",0]#822478": {
    "h": "iyb4tequmw.2bibo5b46ut",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"בטטה מתוקה\",\"sweet-potato\",\"1count\",\"all\",0]#1111973": {
    "h": "1j3ui25q4g2.2dxjwlex97t",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 לימון גדול סחוט / 2 לימונים קטנים\",\"lemon\",\"2count\",\"all\",0]#222974": {
    "h": "239v374ce45.x7ps8zw0eu",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
    "picker": true,
-   "critic": false,
-   "why": "critic: לימון מאייר, זן אחר"
+   "critic": true
   },
   "[\"לימון\",\"lemon\",\"1count\",\"all\",0]#222974": {
    "h": "24u4vabvkr2.kejz1wmpqg",
@@ -26534,10 +26786,12 @@
   },
   "[\"2 גבעולי סלרי קצוצים\",\"celery-stalks\",\"2count\",\"all\",0]#74113": {
    "h": "nthshtjvjm.jc0tm80gpb",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 0,
-   "picker": true,
-   "critic": true
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 1,
+   "picker": false,
+   "critic": true,
+   "std": 2,
+   "why": "picker: not named (גבעולי סלרי; קצוץ מוכן, נשנושים ושורש בחוץ)"
   },
   "[\"1 תפוח אדמה בינוני\",\"potato\",\"1count\",\"all\",0]#633": {
    "h": "pzs18s98v5.23wsfj2nz6e",
@@ -26583,57 +26837,59 @@
   },
   "[\"1 קישוא\",\"zucchini\",\"1count\",\"all\",0]#613": {
    "h": "14z837gsaez.ao6vgi3eji",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (קישוא; פרח וסלט לא, עגול זן אחר)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"1 קישוא\",\"zucchini\",\"1count\",\"all\",0]#869": {
    "h": "otme31jjy4.1no0ms6p6jl",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
    "picker": true,
-   "critic": false,
-   "why": "critic: בייבי זוקיני אינו קישוא, ללא סימון תחליף"
+   "critic": true
   },
   "[\"1 בטטה בינונית\",\"sweet-potato\",\"1count\",\"all\",0]#609": {
    "h": "h6x5i24ehd.cec8c6jozg",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "critic: בטטה סגולה משנה את המרק, ללא סימון תחליף",
-   "critic": false
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
   },
   "[\"1 בטטה בינונית\",\"sweet-potato\",\"1count\",\"all\",0]#355920": {
    "h": "13uibzre4ds.26v63kbtt8a",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (בטטה רגילה)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"1 בטטה בינונית\",\"sweet-potato\",\"1count\",\"all\",0]#822478": {
    "h": "1nnutqvlgnb.vjm4a0hyo0",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 בטטה בינונית\",\"sweet-potato\",\"1count\",\"all\",0]#1111973": {
    "h": "1332tomo4l1.oi3q7nrce0",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 לימונים\",\"lemon\",\"2count\",\"all\",0]#222974": {
    "h": "6jxsognhdq.19rdm0fay0m",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
    "picker": true,
-   "critic": false,
-   "why": "critic: לימון מאייר, זן אחר"
+   "critic": true
   },
   "[\"2 ראשי כרובית\",\"cauliflower\",\"2count\",\"all\",0]#248405": {
    "h": "97go0k6tdo.8kg8eedm6t",
@@ -26651,49 +26907,51 @@
   },
   "[\"3 כפות קמח\",\"flour\",\"to-taste\",\"all\",0]#18789": {
    "h": "2esxhm3ru8q.15a1jfxvj77",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (קמח חיטה לבן רגיל)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"3 כפות קמח\",\"flour\",\"to-taste\",\"all\",0]#351732": {
    "h": "1womm3hcru3.hpr164q74t",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (קמח חיטה לבן רגיל)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"3 כפות קמח\",\"flour\",\"to-taste\",\"all\",0]#695362": {
    "h": "eg7l2ecup8.l859zfdum6",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (קמח חיטה לבן רגיל)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"3 כפות קמח\",\"flour\",\"to-taste\",\"all\",0]#1198234": {
    "h": "ub3h9jxtft.2avrmphlrdc",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (קמח חיטה לבן רגיל)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"3 כפות קמח\",\"flour\",\"to-taste\",\"all\",0]#1198262": {
    "h": "12g2r3famx4.rkpjqgc09t",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"3 כפות קמח\",\"flour\",\"to-taste\",\"all\",0]#1198268": {
    "h": "1hk85pv73ty.1xfllithqas",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "picker: not named (קמח חיטה לבן רגיל)",
+   "why": "picker: not named (קמח חיטה לבן)",
    "critic": true
   },
   "[\"1 בצל סגול קטן\",\"red-onion\",\"1count\",\"all\",0]#1259127": {
@@ -26705,34 +26963,37 @@
   },
   "[\"כ-50 גרם חמאה\",\"butter\",\"50g\",\"all\",0]#752734": {
    "h": "1uyq00zzstg.cj31r35nct",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"כ-50 גרם חמאה\",\"butter\",\"50g\",\"all\",0]#1077488": {
    "h": "18lgdfx1z2y.2aobosaweh9",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: חמאה \"חצי שמנה\", סוג אחר מחמאה",
-   "critic": false
+   "why": "picker: not named (חמאה אמיתית)",
+   "critic": true
   },
   "[\"כ-50 גרם חמאה\",\"butter\",\"50g\",\"all\",0]#1077497": {
    "h": "1e7vhvi78vn.4yonh9o86m",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: חמאה מלוחה בלי סימון תחליף",
-   "critic": false
+   "why": "picker: not named (חמאה אמיתית)",
+   "critic": true
   },
   "[\"כ-50 גרם חמאה\",\"butter\",\"50g\",\"all\",0]#274987": {
    "h": "o6gkewoen4.227d8cnvqq",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "critic: חמאה רכה למריחה אינה בהכרח חמאה רגילה",
-   "critic": false
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
   },
   "[\"טחינה גולמית\",\"tahini\",\"to-taste\",\"all\",0]#1400": {
    "h": "7v7a3p9tf8.1kpmvmolsod",
@@ -26743,64 +27004,68 @@
   },
   "[\"1 גזר קצוץ\",\"carrot\",\"1count\",\"all\",0]#915": {
    "h": "fuww323cnl.27pdgvrcy8n",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "picker: not named (גזר טרי; 3 משומר, 7 חתוך מוכן, 4-5 תערובות, 6 נשנוש)",
+   "why": "picker: not named (גזר טרי)",
    "critic": true
   },
   "[\"1 גזר קצוץ\",\"carrot\",\"1count\",\"all\",0]#885": {
    "h": "xui7sqf84r.5pnqggdbh2",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"210 גרם קמח חיטה 70%\",\"flour\",\"210g\",\"all\",0]#18789": {
    "h": "1wwdera1rbk.1h2vmkisyox",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "critic: קמח לחלה אינו קמח 70% לבצק טארט",
-   "critic": false
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
   },
   "[\"210 גרם קמח חיטה 70%\",\"flour\",\"210g\",\"all\",0]#351732": {
    "h": "pos4zeuoo1.18btgwrefii",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (קמח חיטה לבן; טיפו 1, מלא, תופח, פיצה, סמולינה ומוצרי מאפה לא)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"210 גרם קמח חיטה 70%\",\"flour\",\"210g\",\"all\",0]#695362": {
    "h": "20lbl5khvpq.xbew57q3id",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (קמח חיטה לבן; טיפו 1, מלא, תופח, פיצה, סמולינה ומוצרי מאפה לא)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"210 גרם קמח חיטה 70%\",\"flour\",\"210g\",\"all\",0]#1198234": {
    "h": "ywc81bqdeb.ydoehihphc",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (קמח חיטה לבן; טיפו 1, מלא, תופח, פיצה, סמולינה ומוצרי מאפה לא)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"210 גרם קמח חיטה 70%\",\"flour\",\"210g\",\"all\",0]#1198262": {
    "h": "1b9z8mb48bj.tbyr3nqx3w",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"210 גרם קמח חיטה 70%\",\"flour\",\"210g\",\"all\",0]#1198268": {
    "h": "14zcpav9sv8.zyr5hfbsz0",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: קמח טיפו 1 אינו קמח חיטה 70%",
+   "why": "critic: השורה מבקשת קמח 70%, טיפו 1 אינו כזה",
    "critic": false
   },
   "[\"3 שיני שום כתושות\",\"garlic\",\"to-taste\",\"all\",0]#3517": {
@@ -26812,214 +27077,229 @@
   },
   "[\"1-2 חצילים יפים ומוצקים של נוי השדה\",\"eggplant\",\"2count\",\"all\",0]#867": {
    "h": "1sjrcrlzd1o.1pshsg5ub92",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
-   "picker": false,
-   "why": "critic: חצילונים לא מתאימים למגולגלות מחצילים גדולים",
-   "critic": false
+   "std": 2,
+   "picker": true,
+   "critic": false,
+   "why": "critic: חצילונים קטנים למגולגלות של חצילים יפים, וכמות מוטלת בספק"
   },
   "[\"20 גרם חמאה\",\"butter\",\"20g\",\"all\",0]#752734": {
    "h": "tmmni2kmoq.21bdh1wk2se",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (חמאה רגילה לא מלוחה; ממרחים, חמאה מלוחה/חצי שמנה ושאר חמאות אגוזים לא)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"20 גרם חמאה\",\"butter\",\"20g\",\"all\",0]#1077488": {
    "h": "23tjzv2mt8y.117l4s2a9yl",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: חמאה חצי שמנה",
-   "critic": false
+   "why": "picker: not named (חמאה אמיתית)",
+   "critic": true
   },
   "[\"20 גרם חמאה\",\"butter\",\"20g\",\"all\",0]#1077497": {
    "h": "13o0vwa5yv0.1p5oldxmzyc",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: חמאה מלוחה לשורה של חמאה רגילה בלי סימון תחליף",
-   "critic": false
+   "why": "picker: not named (חמאה אמיתית)",
+   "critic": true
   },
   "[\"20 גרם חמאה\",\"butter\",\"20g\",\"all\",0]#274987": {
    "h": "1ggcpi0eaz1.d9dm8nwjxe",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "critic: חמאה רכה למריחה אינה בהכרח חמאה רגילה",
-   "critic": false
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
   },
   "[\"1 כפית מלח שטוחה\",\"salt\",\"to-taste\",\"all\",0]#1013023": {
    "h": "1pllwnuvdr9.vhokzg216c",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (מלח דק; השאר חטיפים או מוצרים עם מלח)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"1 כפית מלח שטוחה\",\"salt\",\"to-taste\",\"all\",0]#1221575": {
    "h": "d81bso3ksz.ksmge19gdc",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (מלח דק; השאר חטיפים או מוצרים עם מלח)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"2 קישואים מגורדים גס\",\"zucchini\",\"2count\",\"all\",0]#613": {
    "h": "mjfx1n2z5v.22l4o5t4sww",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 קישואים מגורדים גס\",\"zucchini\",\"2count\",\"all\",0]#869": {
    "h": "1vfahzo40nw.f9u1f3b7es",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": true,
    "critic": false,
-   "why": "critic: בייבי זוקיני אינו קישוא, ללא סימון תחליף"
+   "why": "critic: 2 מארזי בייבי זוקיני ב-55 ש\"ח, כמות מוטלת בספק"
   },
   "[\"1 קילו קמח\",\"flour\",\"1000g\",\"all\",0]#18789": {
    "h": "3w2btm9zde.1ab6z9br306",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 קילו קמח\",\"flour\",\"1000g\",\"all\",0]#351732": {
    "h": "hziss7c6z0.11l0md4am3",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (קמח חיטה לבן לבצק שמרים)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"1 קילו קמח\",\"flour\",\"1000g\",\"all\",0]#695362": {
    "h": "1p77pcnwhfe.1xl10npkskw",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (קמח חיטה לבן לבצק שמרים)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"1 קילו קמח\",\"flour\",\"1000g\",\"all\",0]#1198234": {
    "h": "32x9ikztao.1sk4mfcixg3",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (קמח חיטה לבן לבצק שמרים)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"1 קילו קמח\",\"flour\",\"1000g\",\"all\",0]#1198262": {
    "h": "s67vyxcjfp.2bqakmppgvj",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 קילו קמח\",\"flour\",\"1000g\",\"all\",0]#1198268": {
    "h": "1zyivby805s.2c208eocofh",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: קילו קמח לסופגניות מקמח טיפו 1 מלא למחצה, לא קמח רגיל",
-   "critic": false
+   "why": "picker: not named (קמח חיטה לבן)",
+   "critic": true
   },
   "[\"3 ענפי סלרי אמריקאי\",\"celery-stalks\",\"3count\",\"all\",0]#74113": {
    "h": "239m65gr9wu.xf11dv2s66",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "picker: not named (סלרי אמריקאי שלם; 8 קצוץ מוכן, 7 שורש סלרי, 4 נשנוש)",
+   "why": "picker: not named (סלרי אמריקאי)",
    "critic": true
   },
   "[\"5 כפות מיץ לימון טרי\",\"lemon\",\"2count\",\"all\",0]#222974": {
    "h": "ibqec8914v.lvzdgh99d",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "critic: לימון מאייר, זן אחר",
-   "critic": false
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
   },
   "[\"2 גרם מלח דק\",\"salt\",\"to-taste\",\"all\",0]#1013023": {
    "h": "emky534dpk.19ccsbv29pg",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: השורה מבקשת מלח דק, המוצר מלח גבישי",
+   "why": "critic: השורה מבקשת מלח דק, המוצר גבישי",
    "critic": false
   },
   "[\"2 גרם מלח דק\",\"salt\",\"to-taste\",\"all\",0]#1221575": {
    "h": "1sih9otp60e.pbjrkni13u",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: השורה מבקשת מלח דק, המוצר מלח גס",
+   "why": "critic: השורה מבקשת מלח דק, המוצר גס",
    "critic": false
   },
   "[\"1 כפית מלח (לפי טעם אישי)\",\"salt\",\"to-taste\",\"all\",0]#1013023": {
    "h": "1tu7hbrqcnu.t5zj20m2bv",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (מלח דק)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"1 כפית מלח (לפי טעם אישי)\",\"salt\",\"to-taste\",\"all\",0]#1221575": {
    "h": "zm4owuw86v.1g2ko1469g6",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (מלח דק)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"חצי כרובית לבנה\",\"cauliflower\",\"1count\",\"all\",0]#248405": {
    "h": "1fy8juxx94r.v6ts1q48r7",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: חצי כרובית, הוזמנו 2 מארזים במקום 1",
+   "why": "critic: חצי כרובית נקרא כ-1 ו-2 מארזים, מארז אחד מספיק",
    "critic": false
   },
   "[\"מיץ סחוט מלימון אחד\",\"lemon\",\"1count\",\"all\",0]#222974": {
    "h": "1l8169vfwfb.oc6gb4qvu9",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (לימון טרי)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"100 גרם חמאה\",\"butter\",\"100g\",\"all\",0]#752734": {
    "h": "o9lgwsz6he.14hx2pwnmga",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"100 גרם חמאה\",\"butter\",\"100g\",\"all\",0]#1077488": {
    "h": "1ayahqowfhi.28duj1uj14h",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: חמאה חצי שמנה",
-   "critic": false
+   "why": "picker: not named (חמאה אמיתית)",
+   "critic": true
   },
   "[\"100 גרם חמאה\",\"butter\",\"100g\",\"all\",0]#1077497": {
    "h": "tx8ci90zj6.161atizl2t1",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: חמאה חצי שמנה",
-   "critic": false
+   "why": "picker: not named (חמאה אמיתית)",
+   "critic": true
   },
   "[\"100 גרם חמאה\",\"butter\",\"100g\",\"all\",0]#274987": {
    "h": "vw3nfm9xya.m1ymorkmnp",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (חמאה איטלקית רגילה/מלוחה; ממרחים וחצי שמנה לא)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"10 שיני שום\",\"garlic\",\"2count\",\"all\",0]#3517": {
@@ -27031,75 +27311,79 @@
   },
   "[\"1 כפית גדושה מלח (לפי הטעם)\",\"salt\",\"to-taste\",\"all\",0]#1013023": {
    "h": "7jfnjw7hfe.1z34a7ixmzt",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (מלח דק)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"1 כפית גדושה מלח (לפי הטעם)\",\"salt\",\"to-taste\",\"all\",0]#1221575": {
    "h": "mpzvpqzksl.izahvbhsm3",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (מלח דק)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"120 גרם חמאה קרה חתוכה לקוביות\",\"butter\",\"120g\",\"all\",0]#752734": {
    "h": "16vgnxso77f.27olf9vpxu",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
    "picker": true,
-   "critic": false,
-   "why": "critic: חמאה מלוחה לבצק בלי סימון תחליף"
+   "critic": true
   },
   "[\"120 גרם חמאה קרה חתוכה לקוביות\",\"butter\",\"120g\",\"all\",0]#1077488": {
    "h": "llvotbfapd.ehg09lspua",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: חמאה חצי שמנה",
-   "critic": false
+   "why": "picker: not named (חמאה; חצי שמנה וממרחי לורפק בחוץ)",
+   "critic": true
   },
   "[\"120 גרם חמאה קרה חתוכה לקוביות\",\"butter\",\"120g\",\"all\",0]#1077497": {
    "h": "1rmrmetgt9c.10s3tz6y3sx",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: חמאה \"חצי שמנה\" לבצק פריך, סוג אחר מחמאה רגילה",
-   "critic": false
+   "why": "picker: not named (חמאה; חצי שמנה וממרחי לורפק בחוץ)",
+   "critic": true
   },
   "[\"120 גרם חמאה קרה חתוכה לקוביות\",\"butter\",\"120g\",\"all\",0]#274987": {
    "h": "1o8e0qiuf4x.1393pt7iqzj",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
-   "picker": false,
-   "why": "critic: חמאה למריחה לבצק עם חמאה קרה",
-   "critic": false
+   "std": 2,
+   "picker": true,
+   "critic": false,
+   "why": "critic: חמאה קרה לקוביות, חמאה רכה למריחה לא מתאימה"
   },
   "[\"1 גזר\",\"carrot\",\"1count\",\"all\",0]#915": {
    "h": "kzjv2zsf7c.1tkka0efjhf",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
    "why": "picker: not named (גזר טרי)",
    "critic": true
   },
   "[\"1 גזר\",\"carrot\",\"1count\",\"all\",0]#885": {
    "h": "1llwxcgpabv.26t4p298hg4",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
    "picker": true,
-   "critic": false,
-   "why": "critic: גזר צבעוני, סוג אחר מגזר"
+   "critic": true
   },
   "[\"גרידת לימון\",\"lemon\",\"to-taste\",\"all\",0]#222974": {
    "h": "1vnumaxz4ri.1s8j0x6a6qf",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "critic: לימון מאייר, זן אחר",
-   "critic": false
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
   },
   "[\"2 שיני שום קצוצות\",\"garlic\",\"to-taste\",\"all\",0]#3517": {
    "h": "i4a1tsgvff.28l7ts304q2",
@@ -27124,101 +27408,108 @@
   },
   "[\"חצי כוס טחינה גולמית איכותית\",\"tahini\",\"120g\",\"all\",0]#1400": {
    "h": "qblcnbzj9l.1pln4yjnlsy",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (טחינה גולמית; 12 טחינה מלאה סוג אחר, 5 ממרח, השאר סלטים)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"1 לימון סחוט\",\"lemon\",\"1count\",\"all\",0]#222974": {
    "h": "b1m4yi05od.1nnhek8zkkn",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (לימון טרי לסחיטה)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"קליפה מגוררת מחצי לימון\",\"lemon\",\"0.5count\",\"all\",0]#222974": {
    "h": "2ghexzel5gm.1d46nvxyvl2",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (לימון טרי לקליפה)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"1 כפית מלח דק\",\"salt\",\"to-taste\",\"all\",0]#1013023": {
    "h": "7s524badxn.1ozk8212tb8",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: השורה מבקשת מלח דק, המוצר מלח גבישי",
+   "why": "critic: השורה מבקשת מלח דק, המוצר גבישי",
    "critic": false
   },
   "[\"1 כפית מלח דק\",\"salt\",\"to-taste\",\"all\",0]#1221575": {
    "h": "853b4kbfxs.1tt32n8nr50",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: השורה מבקשת מלח דק, המוצר מלח גס",
+   "why": "critic: השורה מבקשת מלח דק, המוצר גס",
    "critic": false
   },
   "[\"1 כוס (240 מ״ל) לימון סחוט\",\"lemon\",\"6count\",\"all\",0]#222974": {
    "h": "sg6kmx4ju6.ro23pxm9zo",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "critic: לימון מאייר, זן אחר",
-   "critic": false
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
   },
   "[\"1 כוס טחינה גולמית\",\"tahini\",\"240g\",\"all\",0]#1400": {
    "h": "wxvma05j7q.s9mub4ufh2",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (טחינה גולמית; 9 טחינה מלאה, השאר סלטים וממרחים)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"2 תפוחי אדמה בינוניים קלופים מגורד גס\",\"potato\",\"2count\",\"all\",0]#633": {
    "h": "q9nn2b90a1.1my4m0emhu",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 תפוחי אדמה בינוניים קלופים מגורד גס\",\"potato\",\"2count\",\"all\",0]#635": {
    "h": "1z3lfn09yhu.x7f14oqz74",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 תפוחי אדמה בינוניים קלופים מגורד גס\",\"potato\",\"2count\",\"all\",0]#637": {
    "h": "1xy8aabdp5x.1i1fp6ws286",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 תפוחי אדמה בינוניים קלופים מגורד גס\",\"potato\",\"2count\",\"all\",0]#274404": {
    "h": "1iah4dk1guw.2dwvulckiv1",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 תפוחי אדמה בינוניים קלופים מגורד גס\",\"potato\",\"2count\",\"all\",0]#274406": {
    "h": "1ggxb5ydgdp.bads4janfp",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 תפוחי אדמה בינוניים קלופים מגורד גס\",\"potato\",\"2count\",\"all\",0]#2296": {
    "h": "25yee6veh1s.29gzcb3j6dq",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (תפוחי אדמה בינוניים; בייבי, קטנים ולמיקרו לא)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"2 שיני שום כתושות\",\"garlic\",\"to-taste\",\"all\",0]#3517": {
@@ -27230,73 +27521,81 @@
   },
   "[\"לימון חתוך לרבעים\",\"lemon\",\"1count\",\"all\",0]#222974": {
    "h": "28ttgsz33su.20gclkxtq6n",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (לימון טרי)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"3 קישואים מגוררים גס\",\"zucchini\",\"3count\",\"all\",0]#613": {
    "h": "msk4o09u3l.1cw8iddpdas",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"3 קישואים מגוררים גס\",\"zucchini\",\"3count\",\"all\",0]#869": {
    "h": "2adbz1z3gpo.2ei2gu4i23d",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": true,
    "critic": false,
-   "why": "critic: בייבי זוקיני אינו קישוא, 3 מארזים"
+   "why": "critic: 3 מארזי בייבי זוקיני ב-83 ש\"ח ל-3 קישואים, כמות מוטלת בספק"
   },
   "[\"100 גרם חמאה ללא מלח מומסת\",\"butter\",\"100g\",\"all\",0]#752734": {
    "h": "itmm4z3l1w.vhymm50x5q",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: השורה מבקשת חמאה ללא מלח, המוצר מלוח",
+   "why": "critic: השורה מבקשת חמאה ללא מלח, המוצר מלוחה",
    "critic": false
   },
   "[\"100 גרם חמאה ללא מלח מומסת\",\"butter\",\"100g\",\"all\",0]#1077488": {
    "h": "1v161ea2lmh.25l2gd5jags",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: \"חצי שמנה\" לא בטוח שזו חמאה ללא מלח רגילה",
-   "critic": false
+   "why": "picker: not named (חמאה ללא מלח; מלוחות, חצי שמנה וממרח לורפק בחוץ)",
+   "critic": true
   },
   "[\"100 גרם חמאה ללא מלח מומסת\",\"butter\",\"100g\",\"all\",0]#1077497": {
    "h": "mg06xs1jmx.hf3oelmyfx",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
    "why": "critic: השורה מבקשת חמאה ללא מלח, המוצר מלוח",
    "critic": false
   },
   "[\"100 גרם חמאה ללא מלח מומסת\",\"butter\",\"100g\",\"all\",0]#274987": {
    "h": "h31zijzmtf.anx376jl6y",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
-   "picker": false,
-   "why": "critic: חמאה למריחה, והשורה מבקשת ללא מלח",
-   "critic": false
+   "std": 2,
+   "picker": true,
+   "critic": false,
+   "why": "critic: השורה מבקשת חמאה ללא מלח, חמאה רכה למריחה לא מוכחת ללא מלח"
   },
   "[\"חצי כפית מלח דק\",\"salt\",\"to-taste\",\"all\",0]#1013023": {
    "h": "zmkjsaei5p.oylrkei279",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "picker: not named (מלח דק)",
-   "critic": true
+   "why": "critic: השורה מבקשת מלח דק, המוצר גבישי",
+   "critic": false
   },
   "[\"חצי כפית מלח דק\",\"salt\",\"to-taste\",\"all\",0]#1221575": {
    "h": "1931sto1lzq.19xpzat7kly",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: השורה מבקשת מלח דק, המוצר מלח ים גס",
+   "why": "critic: השורה מבקשת מלח דק, המוצר גס",
    "critic": false
   },
   "[\"250 גרם גבינת מסקרפונה בטמפרטורת החדר (אפשר גם גבינת שמנת פשוטה)\",\"cream-cheese\",\"250g\",\"any\",0]#948478": {
@@ -27315,18 +27614,18 @@
   },
   "[\"1 אבוקדו בשל\",\"avocado-ripe\",\"1count\",\"all\",0]#503": {
    "h": "13qh3bo5sat.cmhxd1pe70",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (אבוקדו בשל; 3 ו-7 לא בהכרח בשלים, שמן וגוואקמולה לא)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"1 אבוקדו בשל\",\"avocado-ripe\",\"1count\",\"all\",0]#2984": {
    "h": "267dad8d3ai.1q7gelxcdg1",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (אבוקדו בשל; 3 ו-7 לא בהכרח בשלים, שמן וגוואקמולה לא)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"מלפפון\",\"cucumber\",\"1count\",\"all\",0]#746": {
@@ -27345,160 +27644,175 @@
   },
   "[\"1.5 סלרי אמריקאי קצוץ (עלים + גבעול)\",\"celery-stalks\",\"2count\",\"all\",0]#74113": {
    "h": "bimwtu3xfe.tybv8rsp4h",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "picker: not named (סלרי אמריקאי שלם (עלים וגבעול))",
+   "why": "picker: not named (סלרי אמריקאי; 2 קצוץ מוכן, 1 שורש)",
    "critic": true
   },
   "[\"2 גבעולי סלרי אמריקאי\",\"celery-stalks\",\"2count\",\"all\",0]#74113": {
    "h": "27oym1yd0xl.1z5aayxknzv",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "picker: not named (סלרי אמריקאי שלם)",
+   "why": "picker: not named (סלרי אמריקאי; 14 קצוץ מוכן, 1 שורש, 11 אולי זן אחר)",
    "critic": true
   },
   "[\"1 בטטה מתוקה גדולה\",\"sweet-potato\",\"1count\",\"all\",0]#609": {
    "h": "hg5g5v71r8.g2h3omtrxu",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: בטטה סגולה למרק כתום, סוג אחר",
-   "critic": false
+   "why": "picker: not named (בטטה כתומה/צהובה למרק כתום; סגולה ויפנית אינן כתומות)",
+   "critic": true
   },
   "[\"1 בטטה מתוקה גדולה\",\"sweet-potato\",\"1count\",\"all\",0]#355920": {
    "h": "134qfy4u1ki.15nzj47ejzn",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: בטטה יפנית אינה הבטטה הכתומה למרק כתום",
-   "critic": false
+   "why": "picker: not named (בטטה כתומה/צהובה למרק כתום; סגולה ויפנית אינן כתומות)",
+   "critic": true
   },
   "[\"1 בטטה מתוקה גדולה\",\"sweet-potato\",\"1count\",\"all\",0]#822478": {
    "h": "24crf6jinuy.2a21ywvjcu0",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (בטטה כתומה מתוקה למרק כתום; סגולה, יפנית וצהובה צבע אחר)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"1 בטטה מתוקה גדולה\",\"sweet-potato\",\"1count\",\"all\",0]#1111973": {
    "h": "k63nfpsi1q.1sbxksyefvq",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (בטטה כתומה מתוקה למרק כתום; סגולה, יפנית וצהובה צבע אחר)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"1 מלח כפית (לפי הטעם)\",\"salt\",\"to-taste\",\"all\",0]#1013023": {
    "h": "1drm6m3ouvu.1c2yye45lfc",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (מלח דק)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"1 מלח כפית (לפי הטעם)\",\"salt\",\"to-taste\",\"all\",0]#1221575": {
    "h": "bx9ahmpl4r.1ey52sua6g3",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (מלח דק)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"2 תפוחי אדמה בינוניים\",\"potato\",\"2count\",\"all\",0]#633": {
    "h": "1f9f3ou7vyw.91rq6h41zf",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 תפוחי אדמה בינוניים\",\"potato\",\"2count\",\"all\",0]#635": {
    "h": "1gfo66xh6t0.1sfm3htjakh",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 תפוחי אדמה בינוניים\",\"potato\",\"2count\",\"all\",0]#637": {
    "h": "pa0exxyrx.1fwjm0b7sv0",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 תפוחי אדמה בינוניים\",\"potato\",\"2count\",\"all\",0]#274404": {
    "h": "1t72hv34kro.1y8oecetz9t",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 תפוחי אדמה בינוניים\",\"potato\",\"2count\",\"all\",0]#274406": {
    "h": "18oxc7kpvwj.25r0qhoiwa8",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 תפוחי אדמה בינוניים\",\"potato\",\"2count\",\"all\",0]#2296": {
    "h": "1c8wny99tbs.cu9kl9cxsp",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (תפוחי אדמה בינוניים; בייבי, קטנים ולמיקרו לא)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"8 תפוח אדמה קלופים\",\"potato\",\"8count\",\"all\",0]#633": {
    "h": "1zni5vfwmw5.1w6khcdj4st",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"8 תפוח אדמה קלופים\",\"potato\",\"8count\",\"all\",0]#635": {
    "h": "2avstm3kir0.9uww9w4u9s",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"8 תפוח אדמה קלופים\",\"potato\",\"8count\",\"all\",0]#637": {
    "h": "16zicn31xoa.11oy1kcuzeu",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"8 תפוח אדמה קלופים\",\"potato\",\"8count\",\"all\",0]#274404": {
    "h": "d5o3qujjrp.o607x7c67d",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"8 תפוח אדמה קלופים\",\"potato\",\"8count\",\"all\",0]#274406": {
    "h": "20n1hpu6y6a.vrxwf0kwzf",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"8 תפוח אדמה קלופים\",\"potato\",\"8count\",\"all\",0]#2296": {
    "h": "xhr1sgjk2.edk2urs1cp",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (תפוחי אדמה רגילים)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"100 גרם חמוציות מסוכרות\",\"cranberries-sweet\",\"100g\",\"all\",0]#719694": {
    "h": "i0pcx80crb.ubb58s7sl6",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: השורה מבקשת חמוציות מסוכרות, המוצר ללא תוספת סוכר",
+   "why": "critic: השורה מבקשת חמוציות מסוכרות, המוצר ללא סוכר",
    "critic": false
   },
   "[\"4-3 שיני שום קלופות פרוסות\",\"garlic\",\"to-taste\",\"all\",0]#3517": {
@@ -27510,65 +27824,67 @@
   },
   "[\"1 כף קמח\",\"flour\",\"to-taste\",\"all\",0]#18789": {
    "h": "zu2n2dae0i.dyywzl9n2x",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (קמח חיטה לבן)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"1 כף קמח\",\"flour\",\"to-taste\",\"all\",0]#351732": {
    "h": "xa399zlc4y.1zr6hc61khl",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (קמח חיטה לבן)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"1 כף קמח\",\"flour\",\"to-taste\",\"all\",0]#695362": {
    "h": "92ab6gz8px.s4a8hcnv8z",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (קמח חיטה לבן)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"1 כף קמח\",\"flour\",\"to-taste\",\"all\",0]#1198234": {
    "h": "175n0k3cr06.1618e3c45ry",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (קמח חיטה לבן)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"1 כף קמח\",\"flour\",\"to-taste\",\"all\",0]#1198262": {
    "h": "15eyj67kdks.1uwu0qfg2q0",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 כף קמח\",\"flour\",\"to-taste\",\"all\",0]#1198268": {
    "h": "1t7jmbytynf.1pfs2rzika9",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
    "why": "picker: not named (קמח חיטה לבן)",
    "critic": true
   },
   "[\"1 כפית שטוחה מלח (לפי טעם אישי)\",\"salt\",\"to-taste\",\"all\",0]#1013023": {
    "h": "1obofstl0pp.17awk80crpo",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (מלח דק)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"1 כפית שטוחה מלח (לפי טעם אישי)\",\"salt\",\"to-taste\",\"all\",0]#1221575": {
    "h": "andgquzlsr.abv8l8ddlf",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (מלח דק)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"כ-600 גרם דלעת\",\"pumpkin\",\"600g\",\"all\",0]#617": {
@@ -27594,171 +27910,180 @@
   },
   "[\"1 תפוח אדמה\",\"potato\",\"1count\",\"all\",0]#633": {
    "h": "16czzzdyfse.tqs1jb1zby",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 תפוח אדמה\",\"potato\",\"1count\",\"all\",0]#635": {
    "h": "1b3pt4qkoab.26gdf4zrq1w",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 תפוח אדמה\",\"potato\",\"1count\",\"all\",0]#637": {
    "h": "1t7iam83t9l.1uv7i94x12y",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 תפוח אדמה\",\"potato\",\"1count\",\"all\",0]#274404": {
    "h": "1ik1w5avca7.t4sd2yqpmx",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 תפוח אדמה\",\"potato\",\"1count\",\"all\",0]#274406": {
    "h": "673ppbvjhn.d5xf6viqk8",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 תפוח אדמה\",\"potato\",\"1count\",\"all\",0]#2296": {
    "h": "arms67kgqj.1v25ugnyull",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (תפוח אדמה רגיל)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"4-5 כפות קמח\",\"flour\",\"to-taste\",\"all\",0]#18789": {
    "h": "ysjs8lju4t.800s4zvgr6",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (קמח חיטה לבן)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"4-5 כפות קמח\",\"flour\",\"to-taste\",\"all\",0]#351732": {
    "h": "1napwjwplwd.2aoaltyzfth",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (קמח חיטה לבן)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"4-5 כפות קמח\",\"flour\",\"to-taste\",\"all\",0]#695362": {
    "h": "12bl0vbxl22.1btimgnkuts",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (קמח חיטה לבן)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"4-5 כפות קמח\",\"flour\",\"to-taste\",\"all\",0]#1198234": {
    "h": "29xgz2xn9do.9rfmb6hgci",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (קמח חיטה לבן)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"4-5 כפות קמח\",\"flour\",\"to-taste\",\"all\",0]#1198262": {
    "h": "1wne483syo2.24o71xr1nau",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"4-5 כפות קמח\",\"flour\",\"to-taste\",\"all\",0]#1198268": {
    "h": "1scar6o1z01.1orhtjktov4",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "picker: not named (קמח חיטה לבן)",
+   "why": "picker: not named (קמח חיטה לבן; תופח מאליו, מלא, כוסמין, שקד, סמולינה, טיפו 1 בחוץ)",
    "critic": true
   },
   "[\"1 כפית מלח\",\"salt\",\"to-taste\",\"all\",0]#1013023": {
    "h": "1isd652o55x.v4cjd9o28w",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (מלח דק)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"1 כפית מלח\",\"salt\",\"to-taste\",\"all\",0]#1221575": {
    "h": "2604q8lmdto.129d747qsfh",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (מלח דק)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"5 כפות קמח\",\"flour\",\"to-taste\",\"all\",0]#18789": {
    "h": "1jmtwj8xnc9.bhygb4ve0c",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (קמח חיטה לבן)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"5 כפות קמח\",\"flour\",\"to-taste\",\"all\",0]#351732": {
    "h": "2ftrw68ya30.v0pxjng70g",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (קמח חיטה לבן)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"5 כפות קמח\",\"flour\",\"to-taste\",\"all\",0]#695362": {
    "h": "zjxb639ak7.fgusywusl6",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (קמח חיטה לבן)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"5 כפות קמח\",\"flour\",\"to-taste\",\"all\",0]#1198234": {
    "h": "lcmv461t87.1td0a3ej42t",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (קמח חיטה לבן)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"5 כפות קמח\",\"flour\",\"to-taste\",\"all\",0]#1198262": {
    "h": "xopa1aluu1.1gxmdea0hzw",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"5 כפות קמח\",\"flour\",\"to-taste\",\"all\",0]#1198268": {
    "h": "1qwfb3tcf75.1nd9xkg4p69",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
    "why": "picker: not named (קמח חיטה לבן)",
    "critic": true
   },
   "[\"מלח ופלפל לפי הטעם\",\"salt\",\"to-taste\",\"all\",0]#1013023": {
    "h": "omca0grh4j.1evuve4h847",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (מלח דק)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"מלח ופלפל לפי הטעם\",\"salt\",\"to-taste\",\"all\",0]#1221575": {
    "h": "11hekyppx7r.1y95zpu2l39",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (מלח דק)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"5 שיני שום קלופות\",\"garlic\",\"to-taste\",\"all\",0]#3517": {
@@ -27777,61 +28102,68 @@
   },
   "[\"3 תפוחי אדמה\",\"potato\",\"3count\",\"all\",0]#633": {
    "h": "1l1s9ml6lud.hwny50jjk7",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"3 תפוחי אדמה\",\"potato\",\"3count\",\"all\",0]#635": {
    "h": "11kosx1s4qf.tjomym6di2",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"3 תפוחי אדמה\",\"potato\",\"3count\",\"all\",0]#637": {
    "h": "hewrc15qx2.fyyougs5wn",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"3 תפוחי אדמה\",\"potato\",\"3count\",\"all\",0]#274404": {
    "h": "dxbvxlq3xz.16jpfqh9h6f",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"3 תפוחי אדמה\",\"potato\",\"3count\",\"all\",0]#274406": {
    "h": "2fj3majemk8.2bdcd0tr2oz",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"3 תפוחי אדמה\",\"potato\",\"3count\",\"all\",0]#2296": {
    "h": "1bqewf4o7by.5j598fzx4b",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (תפוחי אדמה רגילים; בייבי, קטנים ולמיקרו לא)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"2 גזרים בינוניים\",\"carrot\",\"2count\",\"all\",0]#915": {
    "h": "2eeyo67prbx.2eq40f37m58",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "picker: not named (גזר טרי)",
+   "why": "picker: not named (גזר טרי; גזר דק כנראה חתוך מראש, השאר שימורים/מוקפא)",
    "critic": true
   },
   "[\"2 גזרים בינוניים\",\"carrot\",\"2count\",\"all\",0]#885": {
    "h": "10uju0y4dy0.u46iop0d98",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"150 גרם דלעת\",\"pumpkin\",\"150g\",\"all\",0]#617": {
    "h": "1u5fk4pafo.1d24idbuphq",
@@ -27856,162 +28188,169 @@
   },
   "[\"קורט מלח\",\"salt\",\"to-taste\",\"all\",0]#1013023": {
    "h": "1ru9nyjv2j.14hunhdo54w",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (מלח דק)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"קורט מלח\",\"salt\",\"to-taste\",\"all\",0]#1221575": {
    "h": "l3hua9jx2g.7bic0bndwp",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (מלח דק)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"קורט מלח ופלפל\",\"salt\",\"to-taste\",\"all\",0]#1013023": {
    "h": "abq3xymqu1.10fmk6wt74i",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (מלח דק)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"קורט מלח ופלפל\",\"salt\",\"to-taste\",\"all\",0]#1221575": {
    "h": "5uljmeffez.15efl1g25jk",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (מלח דק)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"חצי כוס טחינה גולמית\",\"tahini\",\"120g\",\"all\",0]#1400": {
    "h": "1e248r5je7.fhl6h0p5wm",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (טחינה גולמית; 6 טחינה מלאה (סוג אחר), השאר סלטים, ממרחים וחטיפים)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"מיץ מחצי לימון טרי\",\"lemon\",\"0.5count\",\"all\",0]#222974": {
    "h": "h1lpcwtrya.29z5xa3wx98",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (לימון טרי; מיצים בבקבוק אינם טריים, ליים ומאייר אינם לימון רגיל)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"מיץ לימון שלם\",\"lemon\",\"1count\",\"all\",0]#222974": {
    "h": "11xpwpn3f3d.2a5ntcg7hyi",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (מיץ מלימון שלם; השאר מיצים אחרים, משקאות ומוצרים בטעם לימון)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"4-3 קישואים פרוסים\",\"zucchini\",\"4count\",\"all\",0]#613": {
    "h": "26ghqiepnvb.2aa2ezky2c0",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (קישואים; 4 קישוא עגול זן אחר, 1 סלט, 3 פרח)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"4-3 קישואים פרוסים\",\"zucchini\",\"4count\",\"all\",0]#869": {
    "h": "1eq7tflw8ui.1f5iaesqxne",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": true,
    "critic": false,
-   "why": "critic: 4 יחידות בייבי זוקיני ב-111.60, כנראה 4 מארזים"
+   "why": "critic: 4 יחידות בייבי זוקיני ב-111 ש\"ח, יחידה כנראה מארז; כמות מוטלת בספק"
   },
   "[\"2 כפות מיץ לימון\",\"lemon\",\"1count\",\"all\",0]#222974": {
    "h": "2dj1ygihhy5.1ibqpx8yrtm",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (מיץ לימון טבעי או לימון לסחיטה; השאר מוצרים בטעם לימון או מיצים אחרים)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"1 וחצי גבינת סימפוניה שמנת טבעית 16%\",\"cream-cheese-16\",\"300g\",\"all\",0]#360175": {
    "h": "fwhzb1qgcg.29p35sunl27",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: גבינת שמנת 24.5% במקום 16%, בלי סימון תחליף",
+   "why": "critic: השורה מבקשת 16%, המוצר 24.5%",
    "critic": false
   },
   "[\"1 וחצי גבינת סימפוניה שמנת טבעית 16%\",\"cream-cheese-16\",\"300g\",\"all\",0]#1053749": {
    "h": "1elhulaqkjc.2atcef24qgy",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
    "why": "critic: השורה מבקשת 16%, המוצר 25%",
    "critic": false
   },
   "[\"100 גרם חמאה מומסת\",\"butter\",\"100g\",\"all\",0]#752734": {
    "h": "osiyzbdkqv.2ehzsvnv3i2",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (חמאה רגילה; מלוחה לא בטוחה לקינוח, ממרחים וחמאות אגוזים אינם חמאה)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"100 גרם חמאה מומסת\",\"butter\",\"100g\",\"all\",0]#1077488": {
    "h": "gfv7hxkik7.7xfopfpvjj",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
-   "picker": true,
-   "critic": false,
-   "why": "critic: \"חצי שמנה\" לא בטוח שזו חמאה רגילה"
+   "std": 2,
+   "picker": false,
+   "why": "picker: not named (חמאה; חצי שמנה וממרחי לורפק בחוץ)",
+   "critic": true
   },
   "[\"100 גרם חמאה מומסת\",\"butter\",\"100g\",\"all\",0]#1077497": {
    "h": "1rg76zogbez.1uvd8nnbrqv",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "critic: חמאה מלוחה לשטרודל בלי סימון תחליף",
-   "critic": false
+   "why": "picker: not named (חמאה; חצי שמנה וממרחי לורפק בחוץ)",
+   "critic": true
   },
   "[\"100 גרם חמאה מומסת\",\"butter\",\"100g\",\"all\",0]#274987": {
    "h": "e6gvtvi3m0.1pfd7041ddr",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "critic: חמאה רכה למריחה, לא חמאה רגילה",
-   "critic": false
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
   },
   "[\"150 גרם אפונה\",\"peas-frozen\",\"150g\",\"all\",0]#1777": {
    "h": "26ic5who06r.m6zawyehab",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": true,
    "critic": false,
-   "why": "critic: אפונה משימורים לקבב על אפונה, לא אפונה טרייה או קפואה"
+   "why": "critic: אפונה משימורים למנה טרייה, צורה אחרת בלי סימון תחליף"
   },
   "[\"150 גרם אפונה\",\"peas-frozen\",\"150g\",\"all\",0]#1183546": {
    "h": "3llmgo6kmc.15faltje3ur",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": true,
    "critic": false,
-   "why": "critic: אפונה של יכין שימורים, לא טרייה או קפואה"
+   "why": "critic: אפונה של יכין היא שימורים, צורה אחרת"
   },
   "[\"חצי כפית מלח\",\"salt\",\"to-taste\",\"all\",0]#1013023": {
    "h": "rst6xzadvg.2f80mc9obbm",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (מלח דק; מלח גס וגבישי לא למדידה בכפית, השאר מוצרים עם מלח)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"חצי כפית מלח\",\"salt\",\"to-taste\",\"all\",0]#1221575": {
    "h": "be4ctwikf9.1l2tctohkbe",
-   "at": "2026-10-11T16:47:25.670Z",
-   "strikes": 1,
-   "picker": false,
-   "why": "picker: not named (מלח דק; מלח גס וגבישי לא למדידה בכפית, השאר מוצרים עם מלח)",
+   "at": "2026-10-11T16:58:10.356Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
    "critic": true
   },
   "[\"1 שן שום כתושה\",\"garlic\",\"to-taste\",\"all\",0]#3517": {
@@ -28023,10 +28362,11 @@
   },
   "[\"3 גבעולי סלרי אמריקאי\",\"celery-stalks\",\"3count\",\"all\",0]#74113": {
    "h": "p6jsuih8qt.16y0bbzyojx",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-11T16:58:10.356Z",
    "strikes": 1,
+   "std": 2,
    "picker": false,
-   "why": "picker: not named (גבעולי סלרי; 5 קצוץ מוכן, 3 נשנושים, 6 שורש סלרי)",
+   "why": "picker: not named (סלרי אמריקאי שלם; קצוץ מוכן ונשנושים בחוץ)",
    "critic": true
   }
  },
@@ -28250,7 +28590,7 @@
  "meta": {
   "catalogSize": 1699,
   "recipeCount": 65,
-  "at": "2026-10-11T16:47:25.670Z"
+  "at": "2026-10-11T16:58:10.356Z"
  },
  "skipped": {}
 }
