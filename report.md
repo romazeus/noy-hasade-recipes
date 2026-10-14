@@ -1,4 +1,4 @@
-# Recipe links: run of 2026-10-13T19:18:23.837Z
+# Recipe links: run of 2026-10-14T15:10:30.179Z
 
 **Published.**
 
@@ -8,12 +8,10 @@
 
 ## The judges, proven on planted errors
 
-- r1-picker-01: 6 items, 10 planted; 1 attempt(s); passed
-- r1-critic-01: 14 items, 10 planted; 1 attempt(s); passed
 
 ## Plain text, and why
 
-### the picker did not name the product (77)
+### the picker did not name the product (76)
 
 - ניוקי ברוטב תרד קטיפתי עם ברוקולי ולימון: "50 גרם חמאה" butter product 1077488 (picker: not named (חמאה; חצי שמנה וממרחי לורפק בחוץ))
 - ניוקי ברוטב תרד קטיפתי עם ברוקולי ולימון: "50 גרם חמאה" butter product 1077497 (picker: not named (חמאה; חצי שמנה וממרחי לורפק בחוץ))
@@ -23,7 +21,6 @@
 - חציל צרוב עם טחינה ירוקה וסלט ירקות ישראלי: "חצי כפית מלח דק" salt product 1221575 (critic: השורה מבקשת מלח דק, המוצר גס)
 - טחינה סלק: "חצי כפית מלח דק" salt product 1013023 (critic: השורה מבקשת מלח דק, המוצר גבישי)
 - טחינה סלק: "חצי כפית מלח דק" salt product 1221575 (critic: השורה מבקשת מלח דק, המוצר גס)
-- חומוס ביתי ב-10 דקות עבודה: "חומוס מקופסת שימורים 380 גרם" chickpeas-canned product 951381 (critic: גרגירי חומוס יבשים מול שימורים, צורה אחרת בלי סימון תחליף)
 - חומוס ביתי ב-10 דקות עבודה: "חומוס מקופסת שימורים 380 גרם" chickpeas-canned product 830753 (critic: שימורים מול מוקפא, צורה אחרת בלי סימון תחליף)
 - עוגת גבינה מקושטת בפירות הארץ: "120 גרם חמאה מומסת" butter product 1077488 (picker: not named (חמאה; חצי שמנה וממרחי לורפק בחוץ))
 - עוגת גבינה מקושטת בפירות הארץ: "120 גרם חמאה מומסת" butter product 1077497 (picker: not named (חמאה; חצי שמנה וממרחי לורפק בחוץ))
@@ -55,7 +52,8 @@
 - עוגה בחושה עם שמן זית וחלווה: "2 גרם מלח דק" salt product 1013023 (critic: השורה מבקשת מלח דק, המוצר גבישי)
 - עוגה בחושה עם שמן זית וחלווה: "2 גרם מלח דק" salt product 1221575 (critic: השורה מבקשת מלח דק, המוצר גס)
 - עוגת דבש חגיגית מקושטת בפירות טריים: "210 גרם קמח לבן (1.5 כוס)" flour product 1198268 (critic: השורה מבקשת קמח לבן, טיפו 1 אינו קמח לבן)
-- … 37 more
+- רולדת מנגו: "1/2 כוס קמח" flour product 1198268 (picker: not named (קמח חיטה לבן))
+- … 36 more
 
 ### the critic refused the order (23)
 
@@ -112,9 +110,11 @@
 - cream-cheese product 1228012 (member-name: does not lead with "גבינת שמנת")
 - pomegranate product 34477 (member-category: in none of 35)
 
-### the product is not in the catalogue (3)
+### the product is not in the catalogue (5)
 
+- greek-yogurt product 375216
 - tahini product 1570
+- chickpeas-canned product 951381
 - mint product 2476
 - vine-leaves-fresh product 1152727
 
@@ -161,11 +161,3 @@
 - קורט אגוז מוסקט: רושטי עם תרד מוקפץ וביצת עין, פולנטה עם אספרגוס ופטריות
 - רבע כוס שומשום: סלט כרוב לבן שקדים ושומשום קלוי
 - שערות חלבה: עוגה בחושה עם שמן זית וחלווה
-
-## Products a picker named that are not members (for the next proposal)
-
-- pear "3 אגסים": 1255683 מיקס אגסים
-- yogurt-plain "2 כפות גדושות יוגורט": 743823 יוגורט GO בטעם טבעי נטול לקטוז 25 גרם חלבון 2% שומן "יופלה"
-- yogurt-plain "2 כפות גדושות יוגורט": 2878 מארז שמיניית יוגורט טבעי 3% שומן "דנונה"
-- yogurt-plain "2 כפות גדושות יוגורט": 2880 מארז שמיניית יוגורט טבעי 1.7% שומן "דנונה"
-- yogurt-plain "2 כפות גדושות יוגורט": 375216 מארז שמיניית יוגורט יווני 6.5% שומן "דנונה"
