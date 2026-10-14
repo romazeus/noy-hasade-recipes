@@ -1,13 +1,15 @@
-# Recipe links: run of 2026-10-14T15:10:30.179Z
+# Recipe links: run of 2026-10-14T23:15:34.565Z
 
 **Published.**
 
 - live recipes: 65; distinct live lines: 749
 - lines served with products: 678; lines marked not sold or not a shop item: 57
-- verdicts on record: 1472; planted products: 43
+- verdicts on record: 1473; planted products: 43
 
 ## The judges, proven on planted errors
 
+- r1-picker-01: 7 items, 10 planted; 1 attempt(s); passed
+- r1-critic-01: 11 items, 10 planted; 1 attempt(s); passed
 
 ## Plain text, and why
 

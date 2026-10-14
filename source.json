@@ -8708,6 +8708,18 @@
       },
       "variant": "קריספ פינק",
       "provides": "by-weight"
+     },
+     {
+      "id": "1056028",
+      "name": "תפוח עץ יונתן \"בראשית\"",
+      "sale": {
+       "pricingType": "both",
+       "isPack": false,
+       "isHalf": false,
+       "showPriceBy": ""
+      },
+      "variant": "יונתן",
+      "provides": "by-weight"
      }
     ],
     "rejected": []
@@ -22527,52 +22539,59 @@
   },
   "[\"3 תפוחים קלופים וחתוכים לקוביות\",\"apple\",\"3count\",\"all\",0]#444": {
    "h": "102n9ngtd6e.n82z8wevb3",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-14T23:15:34.565Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"3 תפוחים קלופים וחתוכים לקוביות\",\"apple\",\"3count\",\"all\",0]#446": {
    "h": "1ze62t8lfpp.1jiai8bihga",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-14T23:15:34.565Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"3 תפוחים קלופים וחתוכים לקוביות\",\"apple\",\"3count\",\"all\",0]#557": {
    "h": "3v4bm5fbhf.2equ9o5g4jq",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-14T23:15:34.565Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"3 תפוחים קלופים וחתוכים לקוביות\",\"apple\",\"3count\",\"all\",0]#719561": {
    "h": "wzq1utdyeb.1iowdzugf82",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-14T23:15:34.565Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"3 תפוחים קלופים וחתוכים לקוביות\",\"apple\",\"3count\",\"all\",0]#533": {
    "h": "13nxd3uvrk1.jonxxr40sd",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-14T23:15:34.565Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"3 תפוחים קלופים וחתוכים לקוביות\",\"apple\",\"3count\",\"all\",0]#514693": {
    "h": "1owuqt3vvy8.1ctpr76zm1l",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-14T23:15:34.565Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"3 תפוחים קלופים וחתוכים לקוביות\",\"apple\",\"3count\",\"all\",0]#601491": {
    "h": "1dhbf0pwxez.1l1wdihcd2u",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-14T23:15:34.565Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 תפוח אדמה בינוני\",\"potato\",\"1count\",\"all\",0]#629": {
    "h": "1spgpu2i140.2e02yn8jb9i",
@@ -28488,6 +28507,14 @@
    "std": 2,
    "picker": true,
    "critic": true
+  },
+  "[\"3 תפוחים קלופים וחתוכים לקוביות\",\"apple\",\"3count\",\"all\",0]#1056028": {
+   "h": "1xnz5mjm3pp.7acy5soa7k",
+   "at": "2026-10-14T23:15:34.565Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
   }
  },
  "plants": [
@@ -28708,9 +28735,9 @@
   }
  ],
  "meta": {
-  "catalogSize": 1677,
+  "catalogSize": 1678,
   "recipeCount": 65,
-  "at": "2026-10-14T15:10:30.179Z"
+  "at": "2026-10-14T23:15:34.565Z"
  },
  "skipped": {}
 }
