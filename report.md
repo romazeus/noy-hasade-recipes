@@ -1,4 +1,4 @@
-# Recipe links: run of 2026-10-14T23:15:34.565Z
+# Recipe links: run of 2026-10-16T23:36:13.034Z
 
 **Published.**
 
@@ -8,8 +8,6 @@
 
 ## The judges, proven on planted errors
 
-- r1-picker-01: 7 items, 10 planted; 1 attempt(s); passed
-- r1-critic-01: 11 items, 10 planted; 1 attempt(s); passed
 
 ## Plain text, and why
 
@@ -112,9 +110,10 @@
 - cream-cheese product 1228012 (member-name: does not lead with "גבינת שמנת")
 - pomegranate product 34477 (member-category: in none of 35)
 
-### the product is not in the catalogue (5)
+### the product is not in the catalogue (6)
 
 - greek-yogurt product 375216
+- balsamic-cream product 1136442
 - tahini product 1570
 - chickpeas-canned product 951381
 - mint product 2476
