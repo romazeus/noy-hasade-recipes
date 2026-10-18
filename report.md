@@ -1,13 +1,15 @@
-# Recipe links: run of 2026-10-16T23:36:13.034Z
+# Recipe links: run of 2026-10-18T14:36:14.934Z
 
 **Published.**
 
 - live recipes: 65; distinct live lines: 749
 - lines served with products: 678; lines marked not sold or not a shop item: 57
-- verdicts on record: 1473; planted products: 43
+- verdicts on record: 1475; planted products: 43
 
 ## The judges, proven on planted errors
 
+- r1-picker-01: 6 items, 10 planted; 1 attempt(s); passed
+- r1-critic-01: 12 items, 10 planted; 1 attempt(s); passed
 
 ## Plain text, and why
 
@@ -110,9 +112,10 @@
 - cream-cheese product 1228012 (member-name: does not lead with "גבינת שמנת")
 - pomegranate product 34477 (member-category: in none of 35)
 
-### the product is not in the catalogue (6)
+### the product is not in the catalogue (7)
 
 - greek-yogurt product 375216
+- white-cheese product 1739
 - balsamic-cream product 1136442
 - tahini product 1570
 - chickpeas-canned product 951381
