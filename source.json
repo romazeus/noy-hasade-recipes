@@ -7778,7 +7778,7 @@
        "pricingType": "unit",
        "isPack": true,
        "isHalf": false,
-       "showPriceBy": "יבוא ליטא · 500 גרם "
+       "showPriceBy": "כ-500 גרם (יבוא ליטא)"
       },
       "variant": "בוואקום",
       "provides": {
@@ -19541,9 +19541,10 @@
    "critic": true
   },
   "[\"1 סלק קטן בואקום\",\"beet-cooked\",\"1package\",\"all\",0]#887": {
-   "h": "1nx5sausxqn.25c4vvvafht",
-   "at": "2026-10-08T19:31:08.750Z",
+   "h": "2gkjwa85ovg.w9o13wb4ui",
+   "at": "2026-10-19T20:36:20.503Z",
    "strikes": 0,
+   "std": 2,
    "picker": true,
    "critic": true
   },
@@ -25979,9 +25980,10 @@
    "critic": true
   },
   "[\"1 חבילת סלק אדום מבושל\",\"beet-cooked\",\"1package\",\"all\",0]#887": {
-   "h": "1odtlqb3ycu.1e66zbcije5",
-   "at": "2026-10-08T19:31:08.750Z",
+   "h": "1e02q2t60em.2d3jz21tytb",
+   "at": "2026-10-19T20:36:20.503Z",
    "strikes": 0,
+   "std": 2,
    "picker": true,
    "critic": true
   },
@@ -28802,9 +28804,9 @@
   }
  ],
  "meta": {
-  "catalogSize": 1696,
+  "catalogSize": 1704,
   "recipeCount": 65,
-  "at": "2026-10-18T14:36:14.934Z"
+  "at": "2026-10-19T20:36:20.503Z"
  },
  "skipped": {}
 }
