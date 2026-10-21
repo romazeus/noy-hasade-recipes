@@ -1,15 +1,13 @@
-# Recipe links: run of 2026-10-20T17:11:48.446Z
+# Recipe links: run of 2026-10-21T10:09:02.793Z
 
 **Published.**
 
 - live recipes: 65; distinct live lines: 749
-- lines served with products: 675; lines marked not sold or not a shop item: 57
+- lines served with products: 674; lines marked not sold or not a shop item: 57
 - verdicts on record: 1496; planted products: 43
 
 ## The judges, proven on planted errors
 
-- r1-picker-01: 58 items, 43 planted; 1 attempt(s); passed
-- r1-critic-01: 94 items, 10 planted; 1 attempt(s); passed
 
 ## Plain text, and why
 
@@ -84,7 +82,7 @@
 - סלט ירוקים ופיצוחים: "1 בקבוק של רוטב רימונים ודבש" honey product 1204967 (critic: דבש אינו תחליף לרוטב רימונים ודבש)
 - סלט ירוקים ופיצוחים: "1 בקבוק של רוטב רימונים ודבש" honey product 814706 (critic: דבש אינו תחליף לרוטב רימונים ודבש)
 
-### no product of the ingredient passed (17)
+### no product of the ingredient passed (18)
 
 - בוראטה ואפרסקים צרובים של קיץ: "אפרסקים או נקטרינות של נוי השדה" peach (499: rule)
 - לביבות תפוחי אדמה עם קרם פטה ותותים: "סלסלת תות שדה של נוי" strawberry (no members)
@@ -93,6 +91,7 @@
 - סלט עלים עם תותים ומוצרלה: "500 גרם תותים של נוי" strawberry (no members)
 - עוגת גבינה מקושטת בפירות הארץ: "פירות יער, ענבים בצבעים, קיווי, משמשים, נקטרינות" nectarine (2580: rule)
 - עלי גפן, פלפלונים ובצלים: "30 עלי גפן טריים" vine-leaves-fresh (1152727: member-gone)
+- רושטי עם תרד מוקפץ וביצת עין: "8 יחידות אנשובי (לא חובה)" anchovies (1135444: rule)
 - סלט חסות וגבינת בושה: "1 אפרסק" peach (499: rule)
 - סלט חסות וגבינת בושה: "4 דובדבנים" cherry (no members)
 - קונפיטורת תות: "850 גרם תותים אדומים בשלים וחצויים" strawberry (no members)
@@ -104,13 +103,15 @@
 - פירות מקורמלים עם גלידה וניל: "3 תאנים" fig (no members)
 - פירות מקורמלים עם גלידה וניל: "4 אפרסקים" peach (499: rule)
 
-### a rule error (11)
+### a rule error (13)
 
 - peach product 499 (member-by-weight: is sold by weight (both): provides must be by-weight)
 - nectarine product 2580 (member-by-weight: is sold by weight (both): provides must be by-weight)
 - zucchini product 869 (member-name: does not lead with "קישואים")
 - sweet-potato product 1111973 (member-name: does not lead with "בטטה")
 - red-onion product 1259127 (member-by-weight: provides by-weight but is sold as unit)
+- anchovies product 1135444 (member-category: in none of 325)
+- anchovies product 1135455 (member-category: in none of 325)
 - avocado-ripe product 503 (member-name: does not lead with "אבוקדו בשל")
 - avocado-ripe product 2984 (member-name: does not lead with "אבוקדו בשל")
 - cream-cheese product 948478 (member-name: does not lead with "גבינת שמנת")
@@ -171,9 +172,3 @@
 - קורט אגוז מוסקט: רושטי עם תרד מוקפץ וביצת עין, פולנטה עם אספרגוס ופטריות
 - רבע כוס שומשום: סלט כרוב לבן שקדים ושומשום קלוי
 - שערות חלבה: עוגה בחושה עם שמן זית וחלווה
-
-## Products a picker named that are not members (for the next proposal)
-
-- ginger "חצי כפית ג'ינג'ר טרי": 2572 ג'ינג'ר טרי בתפזורת (זנגביל)
-- pear "3 אגסים": 1255683 מיקס אגסים
-- ginger "חצי ס”מ שורש ג’ינג’ר": 2572 ג'ינג'ר טרי בתפזורת (זנגביל)
