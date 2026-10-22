@@ -3524,6 +3524,21 @@
       "override": {
        "name": "רכז עגבניות הוא רסק"
       }
+     },
+     {
+      "id": "1137",
+      "name": "רסק עגבניות בתוספת מלח \"MUTTI\"",
+      "sale": {
+       "pricingType": "unit",
+       "isPack": false,
+       "isHalf": false,
+       "showPriceBy": "210 גרם"
+      },
+      "variant": "מוטי",
+      "provides": {
+       "amount": 1,
+       "unit": "package"
+      }
      }
     ],
     "rejected": [
@@ -5176,6 +5191,21 @@
        "amount": 1,
        "unit": "bunch"
       }
+     },
+     {
+      "id": "284486",
+      "name": "שמיר אורגני",
+      "sale": {
+       "pricingType": "unit",
+       "isPack": true,
+       "isHalf": false,
+       "showPriceBy": ""
+      },
+      "variant": "אורגני",
+      "provides": {
+       "amount": 1,
+       "unit": "bunch"
+      }
      }
     ],
     "rejected": []
@@ -6715,7 +6745,7 @@
        "pricingType": "unitaskg",
        "isPack": true,
        "isHalf": false,
-       "showPriceBy": "כ-1.2 ק\"ג במארז "
+       "showPriceBy": "כ-1.5 ק\"ג במארז "
       },
       "variant": "מיקס",
       "provides": {
@@ -6730,7 +6760,7 @@
        "pricingType": "unitaskg",
        "isPack": true,
        "isHalf": false,
-       "showPriceBy": " כ-1 ק\"ג במארז"
+       "showPriceBy": " כ-1.2 ק\"ג במארז"
       },
       "variant": "תמר",
       "provides": {
@@ -6745,7 +6775,7 @@
        "pricingType": "unitaskg",
        "isPack": true,
        "isHalf": true,
-       "showPriceBy": "כ-1.5 ק\"ג במארז"
+       "showPriceBy": "כ-1.1 ק\"ג במארז"
       },
       "variant": "כתום",
       "provides": {
@@ -6760,7 +6790,7 @@
        "pricingType": "unitaskg",
        "isPack": true,
        "isHalf": true,
-       "showPriceBy": "כ-1.5 ק\"ג במארז"
+       "showPriceBy": "כ-1.4 ק\"ג במארז"
       },
       "variant": "צהוב",
       "provides": {
@@ -6775,7 +6805,7 @@
        "pricingType": "unitaskg",
        "isPack": true,
        "isHalf": true,
-       "showPriceBy": "כ-1.2 ק\"ג במארז"
+       "showPriceBy": "כ-1.4 ק\"ג במארז"
       },
       "variant": "מנומר",
       "provides": {
@@ -6790,7 +6820,7 @@
        "pricingType": "unitaskg",
        "isPack": true,
        "isHalf": true,
-       "showPriceBy": " כ-1 ק\"ג במארז"
+       "showPriceBy": " כ-1.1 ק\"ג במארז"
       },
       "variant": "וויטני",
       "provides": {
@@ -6821,7 +6851,7 @@
        "pricingType": "unitaskg",
        "isPack": true,
        "isHalf": false,
-       "showPriceBy": " כ-1 ק\"ג במארז"
+       "showPriceBy": " כ-1.2 ק\"ג במארז"
       },
       "variant": "רגיל",
       "provides": {
@@ -6846,7 +6876,7 @@
        "pricingType": "unitaskg",
        "isPack": true,
        "isHalf": false,
-       "showPriceBy": "כ-1.2 ק\"ג במארז "
+       "showPriceBy": "כ-1.5 ק\"ג במארז "
       },
       "variant": "רגיל",
       "provides": {
@@ -6898,7 +6928,7 @@
        "pricingType": "unitaskg",
        "isPack": false,
        "isHalf": false,
-       "showPriceBy": "כ-1.7 ק\"ג ליחידה"
+       "showPriceBy": "כ-1 ק\"ג ליחידה"
       },
       "variant": "אישית",
       "provides": {
@@ -9026,7 +9056,7 @@
        "pricingType": "unitaskg",
        "isPack": true,
        "isHalf": false,
-       "showPriceBy": "כ-1.2 ק\"ג במארז"
+       "showPriceBy": "כ-1.4 ק\"ג במארז"
       },
       "variant": "אדורה",
       "provides": {
@@ -9076,7 +9106,7 @@
        "pricingType": "unitaskg",
        "isPack": true,
        "isHalf": false,
-       "showPriceBy": "כ-1.2 ק\"ג במארז"
+       "showPriceBy": "כ-1.3 ק\"ג במארז"
       },
       "variant": "קטן",
       "provides": {
@@ -9091,7 +9121,7 @@
        "pricingType": "unitaskg",
        "isPack": true,
        "isHalf": false,
-       "showPriceBy": "כ-2 ק\"ג במארז"
+       "showPriceBy": "כ-2.2 ק\"ג במארז"
       },
       "variant": "גדול",
       "provides": {
@@ -18074,44 +18104,50 @@
    "std": 2
   },
   "[\"סלסלת עגבניות שרי\",\"cherry-tomato\",\"1package\",\"all\",0]#2574": {
-   "h": "2dz9507wgag.4tbl2qu0li",
-   "at": "2026-10-08T19:31:08.750Z",
+   "h": "1daer01vglf.no6i5rfwjm",
+   "at": "2026-10-22T15:18:22.432Z",
    "strikes": 0,
+   "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"סלסלת עגבניות שרי\",\"cherry-tomato\",\"1package\",\"all\",0]#2558": {
-   "h": "19ze7dj4b5x.20a1kdf0i22",
-   "at": "2026-10-08T19:31:08.750Z",
+   "h": "1gw2tt0mbe3.25cdixqly1h",
+   "at": "2026-10-22T15:18:22.432Z",
    "strikes": 0,
+   "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"סלסלת עגבניות שרי\",\"cherry-tomato\",\"1package\",\"all\",0]#2298": {
-   "h": "s54gbb7n33.26eawlp94dy",
-   "at": "2026-10-08T19:31:08.750Z",
+   "h": "1z5vqcrtkz2.iddz9kh1c4",
+   "at": "2026-10-22T15:18:22.432Z",
    "strikes": 0,
+   "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"סלסלת עגבניות שרי\",\"cherry-tomato\",\"1package\",\"all\",0]#3015": {
-   "h": "1xx9901yf44.29gfikv4ui4",
-   "at": "2026-10-08T19:31:08.750Z",
+   "h": "1wx1728hikx.28tjmdhd3dv",
+   "at": "2026-10-22T15:18:22.432Z",
    "strikes": 0,
+   "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"סלסלת עגבניות שרי\",\"cherry-tomato\",\"1package\",\"all\",0]#2560": {
-   "h": "23iq8lxkajd.8y2aquetue",
-   "at": "2026-10-08T19:31:08.750Z",
+   "h": "1vjbv80q19f.9lz7kla9qh",
+   "at": "2026-10-22T15:18:22.432Z",
    "strikes": 0,
+   "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"סלסלת עגבניות שרי\",\"cherry-tomato\",\"1package\",\"all\",0]#22512": {
-   "h": "2byz4vt2s6h.e35qk5joai",
-   "at": "2026-10-08T19:31:08.750Z",
+   "h": "1pbyole8eg.21x4tyz821v",
+   "at": "2026-10-22T15:18:22.432Z",
    "strikes": 0,
+   "std": 2,
    "picker": true,
    "critic": true
   },
@@ -18379,24 +18415,27 @@
   },
   "[\"1 חבילה של שמיר\",\"dill\",\"1bunch\",\"all\",0]#2444": {
    "h": "1r7co2bf1oj.b1jprua0zv",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-22T15:18:22.432Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 חבילה של שמיר\",\"dill\",\"1bunch\",\"all\",0]#2482": {
    "h": "1xf0byhmamz.lu677cjeva",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-22T15:18:22.432Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 חבילה של שמיר\",\"dill\",\"1bunch\",\"all\",0]#1153357": {
    "h": "mwbu2glcb0.27rpmy58c8v",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-22T15:18:22.432Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"קינמון\",\"cinnamon\",\"to-taste\",\"all\",0]#1182467": {
    "h": "2139c8yszds.2fsf5ekjum9",
@@ -19179,44 +19218,50 @@
    "critic": true
   },
   "[\"1 כוס עגבניות שרי חצויות\",\"cherry-tomato\",\"1package\",\"all\",0]#2574": {
-   "h": "2a0w44rkoi4.206d3fwkhv3",
-   "at": "2026-10-08T19:31:08.750Z",
+   "h": "e2no2xyn0g.10tzivlnzdz",
+   "at": "2026-10-22T15:18:22.432Z",
    "strikes": 0,
+   "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"1 כוס עגבניות שרי חצויות\",\"cherry-tomato\",\"1package\",\"all\",0]#2558": {
-   "h": "8ehx9qlw8.7m6c5f7r12",
-   "at": "2026-10-08T19:31:08.750Z",
+   "h": "183ubjzx0fa.1a5u6su7tjx",
+   "at": "2026-10-22T15:18:22.432Z",
    "strikes": 0,
+   "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"1 כוס עגבניות שרי חצויות\",\"cherry-tomato\",\"1package\",\"all\",0]#2298": {
-   "h": "1ll5pq3wow.bfzgov4dp5",
-   "at": "2026-10-08T19:31:08.750Z",
+   "h": "c08zkcqtlo.vgzl7its7x",
+   "at": "2026-10-22T15:18:22.432Z",
    "strikes": 0,
+   "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"1 כוס עגבניות שרי חצויות\",\"cherry-tomato\",\"1package\",\"all\",0]#3015": {
-   "h": "1f2q11fr8eg.obcdy5npb0",
-   "at": "2026-10-08T19:31:08.750Z",
+   "h": "11xqo4ps17p.xcbwr3qdke",
+   "at": "2026-10-22T15:18:22.432Z",
    "strikes": 0,
+   "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"1 כוס עגבניות שרי חצויות\",\"cherry-tomato\",\"1package\",\"all\",0]#2560": {
-   "h": "75jte6m4jn.26c1qdj3fdw",
-   "at": "2026-10-08T19:31:08.750Z",
+   "h": "1m7fiexo94s.9fabbe8a57",
+   "at": "2026-10-22T15:18:22.432Z",
    "strikes": 0,
+   "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"1 כוס עגבניות שרי חצויות\",\"cherry-tomato\",\"1package\",\"all\",0]#22512": {
-   "h": "1w6v7iibgdu.2bv7z3qkuxw",
-   "at": "2026-10-08T19:31:08.750Z",
+   "h": "20y35ydiny.5l98fe4hwv",
+   "at": "2026-10-22T15:18:22.432Z",
    "strikes": 0,
+   "std": 2,
    "picker": true,
    "critic": true
   },
@@ -19384,9 +19429,10 @@
    "critic": true
   },
   "[\"עגבניות שרי תמר\",\"cherry-tomato-tamar\",\"1package\",\"all\",0]#2558": {
-   "h": "4b992uhclu.os142hzdms",
-   "at": "2026-10-08T19:31:08.750Z",
+   "h": "12csncysrpe.yg2iwecnl0",
+   "at": "2026-10-22T15:18:22.432Z",
    "strikes": 0,
+   "std": 2,
    "picker": true,
    "critic": true
   },
@@ -19427,9 +19473,10 @@
    "std": 2
   },
   "[\"20 עגבניות שרי מיקס\",\"cherry-tomato-mix\",\"1package\",\"all\",0]#2574": {
-   "h": "tu9pmvicb1.wmrtiplfr9",
-   "at": "2026-10-08T19:31:08.750Z",
+   "h": "14xq84roqi7.ikn9f3bico",
+   "at": "2026-10-22T15:18:22.432Z",
    "strikes": 0,
+   "std": 2,
    "picker": true,
    "critic": true
   },
@@ -20784,9 +20831,10 @@
    "why": "critic: 150 גרם נקראו כאריזה, משקל האריזה לא ידוע"
   },
   "[\"1 כוס ענבים שחורים\",\"grapes-black\",\"1package\",\"all\",0]#2586": {
-   "h": "22tvtdfpzpq.27n811rjs24",
-   "at": "2026-10-08T19:31:08.750Z",
+   "h": "1g6ppyhc5j3.5hsz37w42m",
+   "at": "2026-10-22T15:18:22.432Z",
    "strikes": 0,
+   "std": 2,
    "picker": true,
    "critic": true
   },
@@ -20969,7 +21017,7 @@
   },
   "[\"כ-600 גרם דלעת\",\"pumpkin\",\"600g\",\"all\",0]#615": {
    "h": "23k0e6jagma.1iaoaj8axi",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-10-22T15:18:22.432Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -23681,24 +23729,27 @@
   },
   "[\"חצי כוס שמיר קצוץ\",\"dill\",\"0.5bunch\",\"all\",0]#2444": {
    "h": "i6lxs4dyza.b2k6mp8f3i",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-22T15:18:22.432Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"חצי כוס שמיר קצוץ\",\"dill\",\"0.5bunch\",\"all\",0]#2482": {
    "h": "1mrnqt2drdt.147i2zdh18o",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-22T15:18:22.432Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"חצי כוס שמיר קצוץ\",\"dill\",\"0.5bunch\",\"all\",0]#1153357": {
    "h": "z944cfdf53.u7z6hnlw2k",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-22T15:18:22.432Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"עלי נענע לקישוט\",\"mint\",\"to-taste\",\"all\",0]#2338": {
    "h": "1ssjtg58bfw.114pbsgad0r",
@@ -23945,7 +23996,7 @@
   },
   "[\"150 גרם דלעת\",\"pumpkin\",\"150g\",\"all\",0]#615": {
    "h": "1f484k73pfc.1ptyrll6ado",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-10-22T15:18:22.432Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -24418,16 +24469,18 @@
    "critic": true
   },
   "[\"פירות יער, ענבים בצבעים, קיווי, משמשים, נקטרינות\",\"grapes-mix\",\"to-taste\",\"all\",0]#1229171": {
-   "h": "52z4eqzul6.sv4qita7ij",
-   "at": "2026-10-08T19:31:08.750Z",
+   "h": "rx0rafifg5.1d3p7i67yez",
+   "at": "2026-10-22T15:18:22.432Z",
    "strikes": 0,
+   "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"פירות יער, ענבים בצבעים, קיווי, משמשים, נקטרינות\",\"grapes-mix\",\"to-taste\",\"all\",0]#1229187": {
-   "h": "poq1u9w8wp.2da6j8nf16w",
-   "at": "2026-10-08T19:31:08.750Z",
+   "h": "1hzikg9ptwm.2d8i8h32p2e",
+   "at": "2026-10-22T15:18:22.432Z",
    "strikes": 0,
+   "std": 2,
    "picker": true,
    "critic": true
   },
@@ -24710,24 +24763,27 @@
   },
   "[\"1/4 כוס שמיר קצוץ\",\"dill\",\"0.25bunch\",\"all\",0]#2444": {
    "h": "11z95e14z0p.24yx5wgyncy",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-22T15:18:22.432Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1/4 כוס שמיר קצוץ\",\"dill\",\"0.25bunch\",\"all\",0]#2482": {
    "h": "g5wz7cbq2c.21qs34guf1a",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-22T15:18:22.432Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1/4 כוס שמיר קצוץ\",\"dill\",\"0.25bunch\",\"all\",0]#1153357": {
    "h": "271atl33csf.1mfgld6qyt8",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-22T15:18:22.432Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 שן שום\",\"garlic\",\"to-taste\",\"all\",0]#591": {
    "h": "rwy7d1ygph.1zlg3fs11fn",
@@ -26109,17 +26165,19 @@
   },
   "[\"1 כף רסק עגבניות\",\"tomato-paste\",\"to-taste\",\"all\",0]#1183074": {
    "h": "1pyrx4b1uwm.1v1l27a08f3",
-   "at": "2026-10-08T19:39:10.060Z",
+   "at": "2026-10-22T15:18:22.432Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 כף רסק עגבניות\",\"tomato-paste\",\"to-taste\",\"all\",0]#1002145": {
    "h": "xtrgtky33w.1sbylryp94n",
-   "at": "2026-10-08T19:39:10.060Z",
+   "at": "2026-10-22T15:18:22.432Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"רוטב סילאן\",\"silan\",\"to-taste\",\"all\",1]#1388": {
    "h": "bivx70zdl0.rh6r11xb3j",
@@ -28181,23 +28239,23 @@
   },
   "[\"כ-600 גרם דלעת\",\"pumpkin\",\"600g\",\"all\",0]#617": {
    "h": "7be72rdc6z.1wp2d17htn9",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-10-22T15:18:22.432Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
    "std": 2
   },
   "[\"כ-600 גרם דלעת\",\"pumpkin\",\"600g\",\"all\",0]#3007": {
-   "h": "262fde6o5gf.10adba9lq32",
-   "at": "2026-10-20T17:11:48.446Z",
+   "h": "25n13n9pbi9.d2z79x9l7p",
+   "at": "2026-10-22T15:18:22.432Z",
    "strikes": 0,
+   "std": 2,
    "picker": true,
-   "critic": true,
-   "std": 2
+   "critic": true
   },
   "[\"כ-600 גרם דלעת\",\"pumpkin\",\"600g\",\"all\",0]#3013": {
    "h": "6v261090f3.2y4a0vnk19",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-10-22T15:18:22.432Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -28464,23 +28522,23 @@
   },
   "[\"150 גרם דלעת\",\"pumpkin\",\"150g\",\"all\",0]#617": {
    "h": "1u5fk4pafo.1d24idbuphq",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-10-22T15:18:22.432Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
    "std": 2
   },
   "[\"150 גרם דלעת\",\"pumpkin\",\"150g\",\"all\",0]#3007": {
-   "h": "87s40uwoet.1b8gkkbe2zo",
-   "at": "2026-10-20T17:11:48.446Z",
+   "h": "z3gza4o2j7.1uf3b4pgrw5",
+   "at": "2026-10-22T15:18:22.432Z",
    "strikes": 0,
+   "std": 2,
    "picker": true,
-   "critic": true,
-   "std": 2
+   "critic": true
   },
   "[\"150 גרם דלעת\",\"pumpkin\",\"150g\",\"all\",0]#3013": {
    "h": "1hc3ugef5v8.2771bl89678",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-10-22T15:18:22.432Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -28893,6 +28951,38 @@
    "std": 2,
    "picker": true,
    "critic": true
+  },
+  "[\"1 כף רסק עגבניות\",\"tomato-paste\",\"to-taste\",\"all\",0]#1137": {
+   "h": "1vh8adizkpx.9w7vsdeqsj",
+   "at": "2026-10-22T15:18:22.432Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
+  },
+  "[\"1/4 כוס שמיר קצוץ\",\"dill\",\"0.25bunch\",\"all\",0]#284486": {
+   "h": "144afijw8uf.232gvlvypx1",
+   "at": "2026-10-22T15:18:22.432Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
+  },
+  "[\"1 חבילה של שמיר\",\"dill\",\"1bunch\",\"all\",0]#284486": {
+   "h": "mv682vy6jv.1m71p2ktlh4",
+   "at": "2026-10-22T15:18:22.432Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
+  },
+  "[\"חצי כוס שמיר קצוץ\",\"dill\",\"0.5bunch\",\"all\",0]#284486": {
+   "h": "2ghdvqg7ced.wk8gcq09un",
+   "at": "2026-10-22T15:18:22.432Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
   }
  },
  "plants": [
@@ -29113,9 +29203,9 @@
   }
  ],
  "meta": {
-  "catalogSize": 1717,
+  "catalogSize": 1711,
   "recipeCount": 65,
-  "at": "2026-10-21T10:09:02.793Z"
+  "at": "2026-10-22T15:18:22.432Z"
  },
  "skipped": {}
 }

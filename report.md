@@ -1,13 +1,15 @@
-# Recipe links: run of 2026-10-21T10:09:02.793Z
+# Recipe links: run of 2026-10-22T15:18:22.432Z
 
 **Published.**
 
 - live recipes: 65; distinct live lines: 749
 - lines served with products: 674; lines marked not sold or not a shop item: 57
-- verdicts on record: 1496; planted products: 43
+- verdicts on record: 1500; planted products: 43
 
 ## The judges, proven on planted errors
 
+- r1-picker-01: 17 items, 10 planted; 1 attempt(s); passed
+- r1-critic-01: 33 items, 10 planted; 1 attempt(s); passed
 
 ## Plain text, and why
 
@@ -103,7 +105,7 @@
 - פירות מקורמלים עם גלידה וניל: "3 תאנים" fig (no members)
 - פירות מקורמלים עם גלידה וניל: "4 אפרסקים" peach (499: rule)
 
-### a rule error (13)
+### a rule error (14)
 
 - peach product 499 (member-by-weight: is sold by weight (both): provides must be by-weight)
 - nectarine product 2580 (member-by-weight: is sold by weight (both): provides must be by-weight)
@@ -116,17 +118,20 @@
 - avocado-ripe product 2984 (member-name: does not lead with "אבוקדו בשל")
 - cream-cheese product 948478 (member-name: does not lead with "גבינת שמנת")
 - cream-cheese product 1228012 (member-name: does not lead with "גבינת שמנת")
+- pumpkin product 3007 (member-provides: provides 1700 g; the shop prints 1000)
 - pear product 2802 (member-by-weight: is sold by weight (both): provides must be by-weight)
 - pomegranate product 34477 (member-category: in none of 35)
 
-### the product is not in the catalogue (6)
+### the product is not in the catalogue (8)
 
 - greek-yogurt product 375216
 - balsamic-cream product 1136442
 - tahini product 1570
+- rice product 724576
 - chickpeas-canned product 951381
 - mint product 2476
 - vine-leaves-fresh product 1152727
+- pear product 491
 
 ### judged wrong twice: blocked for good (3)
 
@@ -172,3 +177,8 @@
 - קורט אגוז מוסקט: רושטי עם תרד מוקפץ וביצת עין, פולנטה עם אספרגוס ופטריות
 - רבע כוס שומשום: סלט כרוב לבן שקדים ושומשום קלוי
 - שערות חלבה: עוגה בחושה עם שמן זית וחלווה
+
+## Products a picker named that are not members (for the next proposal)
+
+- tomato-paste "1 כף רסק עגבניות": 1127 תרכיז עגבניות בשפופרת "MUTTI"
+- tomato-paste "1 כף רסק עגבניות": 1115113 שישיית רסק עגבניות מרוכז "Galilee's Delicacy"
