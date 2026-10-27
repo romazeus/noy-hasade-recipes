@@ -1,4 +1,4 @@
-# Recipe links: run of 2026-10-25T16:19:30.584Z
+# Recipe links: run of 2026-10-27T16:40:05.333Z
 
 **Published.**
 
@@ -84,15 +84,15 @@
 
 ### no product of the ingredient passed (18)
 
-- בוראטה ואפרסקים צרובים של קיץ: "אפרסקים או נקטרינות של נוי השדה" peach (499: rule)
+- בוראטה ואפרסקים צרובים של קיץ: "אפרסקים או נקטרינות של נוי השדה" peach (499: member-gone)
 - לביבות תפוחי אדמה עם קרם פטה ותותים: "סלסלת תות שדה של נוי" strawberry (no members)
 - תותים ממולאים בקרם מסקרפונה: "סלסלת תות שדה של נוי" strawberry (no members)
 - סופגניות עם קרם ותותים: "סלסלת תות שדה של נוי" strawberry (no members)
 - סלט עלים עם תותים ומוצרלה: "500 גרם תותים של נוי" strawberry (no members)
-- עוגת גבינה מקושטת בפירות הארץ: "פירות יער, ענבים בצבעים, קיווי, משמשים, נקטרינות" nectarine (2580: rule)
+- עוגת גבינה מקושטת בפירות הארץ: "פירות יער, ענבים בצבעים, קיווי, משמשים, נקטרינות" nectarine (2580: member-gone)
 - עלי גפן, פלפלונים ובצלים: "30 עלי גפן טריים" vine-leaves-fresh (1152727: member-gone)
 - רושטי עם תרד מוקפץ וביצת עין: "8 יחידות אנשובי (לא חובה)" anchovies (1135444: rule)
-- סלט חסות וגבינת בושה: "1 אפרסק" peach (499: rule)
+- סלט חסות וגבינת בושה: "1 אפרסק" peach (499: member-gone)
 - סלט חסות וגבינת בושה: "4 דובדבנים" cherry (no members)
 - קונפיטורת תות: "850 גרם תותים אדומים בשלים וחצויים" strawberry (no members)
 - העוגה הפלאפית: "1/2 חבילת תותים חצויים לעיטור" strawberry (no members)
@@ -101,12 +101,27 @@
 - עוגת גבינה ופירות: "דובדבנים" cherry (no members)
 - מרנג תותים וקצפת: "1 ק"ג תותים" strawberry (no members)
 - פירות מקורמלים עם גלידה וניל: "3 תאנים" fig (no members)
-- פירות מקורמלים עם גלידה וניל: "4 אפרסקים" peach (499: rule)
+- פירות מקורמלים עם גלידה וניל: "4 אפרסקים" peach (499: member-gone)
 
-### a rule error (14)
+### the product is not in the catalogue (14)
 
-- peach product 499 (member-by-weight: is sold by weight (both): provides must be by-weight)
-- nectarine product 2580 (member-by-weight: is sold by weight (both): provides must be by-weight)
+- greek-yogurt product 375216
+- balsamic-cream product 1136442
+- tahini product 1570
+- tahini product 1400
+- rice product 724576
+- chickpeas-canned product 951381
+- parsley product 1153351
+- coriander product 1153348
+- mint product 2476
+- vine-leaves-fresh product 1152727
+- green-onion product 1198348
+- pear product 491
+- nectarine product 2580
+- peach product 499
+
+### a rule error (12)
+
 - zucchini product 869 (member-name: does not lead with "קישואים")
 - sweet-potato product 1111973 (member-name: does not lead with "בטטה")
 - red-onion product 1259127 (member-by-weight: provides by-weight but is sold as unit)
@@ -119,17 +134,6 @@
 - pumpkin product 3007 (member-provides: provides 1700 g; the shop prints 1000)
 - pear product 2802 (member-by-weight: is sold by weight (both): provides must be by-weight)
 - pomegranate product 34477 (member-category: in none of 35)
-
-### the product is not in the catalogue (8)
-
-- greek-yogurt product 375216
-- balsamic-cream product 1136442
-- tahini product 1570
-- rice product 724576
-- chickpeas-canned product 951381
-- mint product 2476
-- vine-leaves-fresh product 1152727
-- pear product 491
 
 ### judged wrong twice: blocked for good (3)
 
