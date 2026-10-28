@@ -1,4 +1,4 @@
-# Recipe links: run of 2026-10-27T16:40:05.333Z
+# Recipe links: run of 2026-10-28T16:03:15.906Z
 
 **Published.**
 
@@ -55,12 +55,11 @@
 - עוגת דבש חגיגית מקושטת בפירות טריים: "210 גרם קמח לבן (1.5 כוס)" flour product 1198268 (critic: השורה מבקשת קמח לבן, טיפו 1 אינו קמח לבן)
 - … 36 more
 
-### the critic refused the order (24)
+### the critic refused the order (23)
 
 - מגולגלות חציל במילוי ריקוטה ברוטב עגבניות עשיר: "1-2 חצילים יפים ומוצקים של נוי השדה" eggplant product 867 (critic: חצילונים קטנים למגולגלות של חצילים יפים, וכמות מוטלת בספק)
 - קישואים וזוקיני צלויים עם גבינת גרנה פדנו: "2 קישואים ירוק" zucchini product 613 (critic: השורה מבקשת קישוא ירוק, המוצר קישוא עגול)
 - לביבות תפוחי אדמה עם קרם פטה ותותים: "2 כפיות רוטב בלסמי" balsamic-vinegar product 1386 (critic: רוטב בלסמי אינו חומץ בלסמי, צריך סימון תחליף)
-- לביבות תפוחי אדמה עם קרם פטה ותותים: "2 כפיות רוטב בלסמי" balsamic-vinegar product 1136437 (critic: רוטב בלסמי אינו חומץ בלסמי, ולא מסומן תחליף)
 - לביבות תפוחי אדמה עם קרם פטה ותותים: "2 כפיות רוטב בלסמי" balsamic-vinegar product 1386 (one option of an "any" line: critic: רוטב בלסמי אינו חומץ בלסמי, צריך סימון תחליף)
 - חציל צרוב עם טחינה ירוקה וסלט ירקות ישראלי: "2 חצילים בינוניים" eggplant product 867 (critic: 2 מארזי חצילונים במקום 2 חצילים, כמות לא ברורה)
 - טארט פטריות, מנגולד וגבינות: "120 גרם חמאה קרה חתוכה לקוביות" butter product 274987 (critic: חמאה קרה לקוביות, חמאה רכה למריחה לא מתאימה)
@@ -103,9 +102,10 @@
 - פירות מקורמלים עם גלידה וניל: "3 תאנים" fig (no members)
 - פירות מקורמלים עם גלידה וניל: "4 אפרסקים" peach (499: member-gone)
 
-### the product is not in the catalogue (14)
+### the product is not in the catalogue (15)
 
 - greek-yogurt product 375216
+- balsamic-vinegar product 1136437
 - balsamic-cream product 1136442
 - tahini product 1570
 - tahini product 1400
