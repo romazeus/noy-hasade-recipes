@@ -1981,6 +1981,18 @@
       },
       "variant": "גרוס",
       "provides": "whole-pack"
+     },
+     {
+      "id": "1453",
+      "name": "פלפל שחור טחון \"פרג\"",
+      "sale": {
+       "pricingType": "unit",
+       "isPack": false,
+       "isHalf": false,
+       "showPriceBy": "100 גרם"
+      },
+      "variant": "טחון",
+      "provides": "whole-pack"
      }
     ],
     "rejected": []
@@ -2024,6 +2036,18 @@
     "members": [
      {
       "id": "1102540",
+      "name": "פלפל שחור טחון \"פרג\"",
+      "sale": {
+       "pricingType": "unit",
+       "isPack": false,
+       "isHalf": false,
+       "showPriceBy": "100 גרם"
+      },
+      "variant": "טחון",
+      "provides": "whole-pack"
+     },
+     {
+      "id": "1453",
       "name": "פלפל שחור טחון \"פרג\"",
       "sale": {
        "pricingType": "unit",
@@ -7644,7 +7668,7 @@
      },
      {
       "id": "2296",
-      "name": "תפוח אדמה קטן לאפייה \"דוד משה\"",
+      "name": "תפוחי אדמה קטנטנים לאפייה \"דוד משה\"",
       "sale": {
        "pricingType": "unit",
        "isPack": true,
@@ -9102,7 +9126,7 @@
     "members": [
      {
       "id": "31651",
-      "name": "ענבים ירוקים אוטום קריספ \"ענבי טלי\"",
+      "name": "ענבים ירוקים ווינטר קינג \"ענבי טלי\"",
       "sale": {
        "pricingType": "unitaskg",
        "isPack": true,
@@ -18260,10 +18284,11 @@
   },
   "[\"מעט פלפל שחור\",\"black-pepper\",\"to-taste\",\"all\",0]#1102529": {
    "h": "a28s5c3at7.ph3nqrgljr",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"צרור פטרוזיליה\",\"parsley\",\"1bunch\",\"all\",0]#2370": {
    "h": "5ec40iw39x.16g0cppjth6",
@@ -18869,10 +18894,11 @@
   },
   "[\"מלח ופלפל לפי הטעם\",\"black-pepper\",\"to-taste\",\"all\",0]#1102529": {
    "h": "1gmq8wkl9yq.x7rkjare3k",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"רבע כוס גבינת גרמנה פדנו מגוררת\",\"grana\",\"25g\",\"all\",0]#691031": {
    "h": "1g6p5l97z5f.d8gysoxekp",
@@ -19637,10 +19663,11 @@
   },
   "[\"פלפל לפי הטעם\",\"black-pepper\",\"to-taste\",\"all\",0]#1102529": {
    "h": "kk0ckzyty0.1884t1qmug7",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"מעט עלי אורגנו טרי, טימין או זעתר\",\"oregano-fresh\",\"to-taste\",\"any\",0]#753": {
    "h": "7mhgjet3p0.mmmafr2pw",
@@ -20123,10 +20150,11 @@
   },
   "[\"קורט פלפל שחור\",\"black-pepper\",\"to-taste\",\"all\",0]#1102529": {
    "h": "8cn4hu2h2x.1n7etk04dxm",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"7 בצלים גדולים שלמים למילוי\",\"onion\",\"7count\",\"all\",0]#605": {
    "h": "1mdgzdndz9k.2copvw8pfeq",
@@ -20137,7 +20165,7 @@
   },
   "[\"8 תפוח אדמה קלופים\",\"potato\",\"8count\",\"all\",0]#629": {
    "h": "tnstwhfdxc.27usy0dhjm8",
-   "at": "2026-10-11T16:58:10.356Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -20145,7 +20173,7 @@
   },
   "[\"8 תפוח אדמה קלופים\",\"potato\",\"8count\",\"all\",0]#631": {
    "h": "1z4jndwxa2p.ozatcvhg1u",
-   "at": "2026-10-11T16:58:10.356Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -20251,10 +20279,11 @@
   },
   "[\"חצי כפית פלפל לבן / שחור\",\"black-pepper\",\"to-taste\",\"all\",0]#1102529": {
    "h": "1w8fco13ze.15hog5t03gi",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"95 גרם חמאה רכה\",\"butter\",\"95g\",\"all\",0]#752724": {
    "h": "157eyccxt51.2dpan9wbqk8",
@@ -20546,10 +20575,11 @@
   },
   "[\"1 כפית שטוחה פלפל שחור / חצי כפית פלפל לבן\",\"black-pepper\",\"to-taste\",\"all\",0]#1102529": {
    "h": "107d2wldtac.1ipsmye7y4w",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"פחית קרם קוקוס\",\"coconut-cream\",\"400ml\",\"all\",0]#725142": {
    "h": "12n6suorgk9.104ztb6wads",
@@ -20595,7 +20625,7 @@
   },
   "[\"2 תפוחי אדמה בינוניים קלופים מגורד גס\",\"potato\",\"2count\",\"all\",0]#629": {
    "h": "1tq35wfe518.me1n9vi30j",
-   "at": "2026-10-11T16:58:10.356Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -20603,7 +20633,7 @@
   },
   "[\"2 תפוחי אדמה בינוניים קלופים מגורד גס\",\"potato\",\"2count\",\"all\",0]#631": {
    "h": "20s7chx15wj.1vu5xxjpe45",
-   "at": "2026-10-11T16:58:10.356Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -21104,10 +21134,11 @@
   },
   "[\"קורט מלח ופלפל\",\"black-pepper\",\"to-taste\",\"all\",0]#1102529": {
    "h": "25tsjxbqvwz.1w6ou800acu",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"תאנים / נקטרינה / אפרסק / תפוח ירוק\",\"nectarine\",\"to-taste\",\"any\",0]#2580": {
    "h": "189icw6pd9x.aj2g1k3izy",
@@ -21746,7 +21777,7 @@
   },
   "[\"2 תפוחי אדמה בינוניים\",\"potato\",\"2count\",\"all\",0]#629": {
    "h": "11w2ozgymo6.1927tbm5uog",
-   "at": "2026-10-11T16:58:10.356Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -21754,7 +21785,7 @@
   },
   "[\"2 תפוחי אדמה בינוניים\",\"potato\",\"2count\",\"all\",0]#631": {
    "h": "2d5i0ms3r8k.1xr7t45m2pa",
-   "at": "2026-10-11T16:58:10.356Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -22124,17 +22155,19 @@
   },
   "[\"2 תפוחי אדמה\",\"potato\",\"2count\",\"all\",0]#629": {
    "h": "1w7prlb3ru7.1n1kxnxb1xl",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 תפוחי אדמה\",\"potato\",\"2count\",\"all\",0]#631": {
    "h": "190am2ivmzg.136p57i1evy",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"גרידת לימון\",\"lemon\",\"to-taste\",\"all\",0]#448": {
    "h": "244dtzy0q1i.i8d1gw585d",
@@ -22349,17 +22382,19 @@
   },
   "[\"8 תפוחי אדמה\",\"potato\",\"8count\",\"all\",0]#629": {
    "h": "1u50pvw0rcs.10zegrdj1j4",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"8 תפוחי אדמה\",\"potato\",\"8count\",\"all\",0]#631": {
    "h": "1a15lph0hqx.1lbzt5ali8x",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 בקבוק של רוטב רימונים ודבש\",\"honey\",\"to-taste\",\"all\",1]#1380": {
    "h": "132kxkhlzp6.11p8n98hnkh",
@@ -22788,17 +22823,19 @@
   },
   "[\"1 תפוח אדמה בינוני\",\"potato\",\"1count\",\"all\",0]#629": {
    "h": "1spgpu2i140.2e02yn8jb9i",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 תפוח אדמה בינוני\",\"potato\",\"1count\",\"all\",0]#631": {
    "h": "29grmfrw6ws.1mt24ebqwr",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1/2 כפית כורכום\",\"turmeric\",\"to-taste\",\"all\",0]#1102546": {
    "h": "iwlmsdmsu.1gbpkrmrnws",
@@ -23091,10 +23128,11 @@
   },
   "[\"קורט פלפל שחור / פלפל לבן\",\"black-pepper\",\"to-taste\",\"all\",0]#1102529": {
    "h": "14zzxe1rgk4.1o337ebd873",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"שרוול פתי בר טחון דק\",\"petit-beurre\",\"200g\",\"all\",0]#931549": {
    "h": "1b1pwer0bnt.l4c8w6ykoq",
@@ -23509,9 +23547,10 @@
    "critic": true
   },
   "[\"ענבים ירוקים\",\"grapes-green\",\"1package\",\"all\",0]#31651": {
-   "h": "1ao20u6y799.ppm3el0nps",
-   "at": "2026-10-08T19:31:08.750Z",
+   "h": "1h6m224f3k4.aevfgznzq9",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
+   "std": 2,
    "picker": true,
    "critic": true
   },
@@ -23574,10 +23613,11 @@
   },
   "[\"חצי כפית פלפל שחור\",\"black-pepper\",\"to-taste\",\"all\",0]#1102529": {
    "h": "18cpu6a3g17.1nloqm315t9",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"180 גרם חלב\",\"milk\",\"180ml\",\"all\",0]#1322": {
    "h": "176n5iz8xlj.1l4ijm6xp1x",
@@ -24277,10 +24317,11 @@
   },
   "[\"רבע כפית פלפל שחור\",\"black-pepper\",\"to-taste\",\"all\",0]#1102529": {
    "h": "h8fa3ncwed.1n05ala5rqv",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"פלפל שחור\",\"black-pepper\",\"to-taste\",\"all\",0]#1102540": {
    "h": "12yzzcmc8u5.k98vn16xqo",
@@ -24291,10 +24332,11 @@
   },
   "[\"פלפל שחור\",\"black-pepper\",\"to-taste\",\"all\",0]#1102529": {
    "h": "1r347nvk8ho.1l45h76rsjo",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 כפות שמן זית איכותי\",\"olive-oil\",\"to-taste\",\"all\",0]#581483": {
    "h": "uqzelcg4j4.1sk2kbvj0et",
@@ -24418,10 +24460,11 @@
   },
   "[\"פלפל\",\"black-pepper\",\"to-taste\",\"all\",0]#1102529": {
    "h": "3ff1eao7a9.1a6q0mwu3s7",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 כוס עלי תרד טריים סחוטים היטב\",\"spinach\",\"100g\",\"all\",0]#803": {
    "h": "1ter0l0dfwk.2go7jx1g575",
@@ -24775,10 +24818,11 @@
   },
   "[\"מלח, פלפל שחור, קורט אגוז מוסקט\",\"black-pepper\",\"to-taste\",\"all\",0]#1102529": {
    "h": "adfnh2xsm8.1clqa3e4u9s",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1/2 כוס מיץ תפוז סחוט טרי\",\"orange\",\"2count\",\"all\",0]#450": {
    "h": "1gdtd7tt54.8rdh1fstu3",
@@ -24924,7 +24968,7 @@
   },
   "[\"1 תפוח אדמה\",\"potato\",\"1count\",\"all\",0]#629": {
    "h": "qu7igu9e9b.v4csbszeky",
-   "at": "2026-10-11T16:58:10.356Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -24932,7 +24976,7 @@
   },
   "[\"1 תפוח אדמה\",\"potato\",\"1count\",\"all\",0]#631": {
    "h": "204pj8ys4cs.ld6pxnkavp",
-   "at": "2026-10-11T16:58:10.356Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -25170,10 +25214,11 @@
   },
   "[\"פלפל שחור לפי הטעם\",\"black-pepper\",\"to-taste\",\"all\",0]#1102529": {
    "h": "ugmaw55b66.1vs031qrkgw",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 כפות שמן זית \\\"נוי השדה\\\"\",\"olive-oil-noy\",\"to-taste\",\"all\",0]#581483": {
    "h": "1ai6fluqolb.1zqafqkqquv",
@@ -25897,10 +25942,11 @@
   },
   "[\"חצי כפית פלפל\",\"black-pepper\",\"to-taste\",\"all\",0]#1102529": {
    "h": "2bpajqlwa2l.xovjnf5spd",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 כפות אגוזי לוז או פקאן קלויים וקצוצים\",\"pecans\",\"to-taste\",\"any\",0]#719822": {
    "h": "2es3x5qlsdq.pcutid5ui1",
@@ -26124,7 +26170,7 @@
   },
   "[\"3 תפוחי אדמה\",\"potato\",\"3count\",\"all\",0]#629": {
    "h": "296t25kbudb.1vo5n6zecs3",
-   "at": "2026-10-11T16:58:10.356Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -26132,7 +26178,7 @@
   },
   "[\"3 תפוחי אדמה\",\"potato\",\"3count\",\"all\",0]#631": {
    "h": "1gugh2bi71t.1gibagmehdg",
-   "at": "2026-10-11T16:58:10.356Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -26833,43 +26879,49 @@
   },
   "[\"2 תפוחי אדמה\",\"potato\",\"2count\",\"all\",0]#633": {
    "h": "1rs256cshlc.1dey7iq332p",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 תפוחי אדמה\",\"potato\",\"2count\",\"all\",0]#635": {
    "h": "29wq3umx0xi.263k6leyitn",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 תפוחי אדמה\",\"potato\",\"2count\",\"all\",0]#637": {
    "h": "1r6i1l9p6f0.ja52qhzini",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 תפוחי אדמה\",\"potato\",\"2count\",\"all\",0]#274404": {
    "h": "1cvfbkxcjub.23b29e253d9",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 תפוחי אדמה\",\"potato\",\"2count\",\"all\",0]#274406": {
    "h": "2gay86x26bc.2b3isffhol",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 תפוחי אדמה\",\"potato\",\"2count\",\"all\",0]#2296": {
-   "h": "dt4ritv2ox.1utmulwonh6",
-   "at": "2026-10-11T16:47:25.670Z",
+   "h": "w3lspwdm8h.tci5f1dr0u",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
+   "std": 2,
    "picker": true,
    "critic": true
   },
@@ -27099,43 +27151,49 @@
   },
   "[\"8 תפוחי אדמה\",\"potato\",\"8count\",\"all\",0]#633": {
    "h": "23ozhkn4egh.1mdx6harlp2",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"8 תפוחי אדמה\",\"potato\",\"8count\",\"all\",0]#635": {
    "h": "11cg6beqkcf.11t0joq3z1f",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"8 תפוחי אדמה\",\"potato\",\"8count\",\"all\",0]#637": {
    "h": "1ix80b13orc.5pjf0dvoie",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"8 תפוחי אדמה\",\"potato\",\"8count\",\"all\",0]#274404": {
    "h": "12nv2rmdiha.gk46v8jbi2",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"8 תפוחי אדמה\",\"potato\",\"8count\",\"all\",0]#274406": {
    "h": "6gas5epgjd.t0b1fag5aq",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"8 תפוחי אדמה\",\"potato\",\"8count\",\"all\",0]#2296": {
-   "h": "1przbtmx1jy.1trpn48l90k",
-   "at": "2026-10-11T16:47:25.670Z",
+   "h": "qtgj31f10z.15wy48tde7q",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
+   "std": 2,
    "picker": true,
    "critic": true
   },
@@ -27164,43 +27222,49 @@
   },
   "[\"1 תפוח אדמה בינוני\",\"potato\",\"1count\",\"all\",0]#633": {
    "h": "pzs18s98v5.23wsfj2nz6e",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 תפוח אדמה בינוני\",\"potato\",\"1count\",\"all\",0]#635": {
    "h": "1li2wkiynki.eb316uoq5p",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 תפוח אדמה בינוני\",\"potato\",\"1count\",\"all\",0]#637": {
    "h": "1v309zihn2g.1p5l4gig50i",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 תפוח אדמה בינוני\",\"potato\",\"1count\",\"all\",0]#274404": {
    "h": "ofs839731b.81dsjemu7s",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 תפוח אדמה בינוני\",\"potato\",\"1count\",\"all\",0]#274406": {
    "h": "1bxhu10s9d2.rrdo6i9vxl",
-   "at": "2026-10-11T16:47:25.670Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"1 תפוח אדמה בינוני\",\"potato\",\"1count\",\"all\",0]#2296": {
-   "h": "508kkaai6v.gck9rw2gvm",
-   "at": "2026-10-11T16:47:25.670Z",
+   "h": "12tbwlpp9xb.y4rannj7xu",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
+   "std": 2,
    "picker": true,
    "critic": true
   },
@@ -27840,7 +27904,7 @@
   },
   "[\"2 תפוחי אדמה בינוניים קלופים מגורד גס\",\"potato\",\"2count\",\"all\",0]#633": {
    "h": "q9nn2b90a1.1my4m0emhu",
-   "at": "2026-10-11T16:58:10.356Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -27848,7 +27912,7 @@
   },
   "[\"2 תפוחי אדמה בינוניים קלופים מגורד גס\",\"potato\",\"2count\",\"all\",0]#635": {
    "h": "1z3lfn09yhu.x7f14oqz74",
-   "at": "2026-10-11T16:58:10.356Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -27856,7 +27920,7 @@
   },
   "[\"2 תפוחי אדמה בינוניים קלופים מגורד גס\",\"potato\",\"2count\",\"all\",0]#637": {
    "h": "1xy8aabdp5x.1i1fp6ws286",
-   "at": "2026-10-11T16:58:10.356Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -27864,7 +27928,7 @@
   },
   "[\"2 תפוחי אדמה בינוניים קלופים מגורד גס\",\"potato\",\"2count\",\"all\",0]#274404": {
    "h": "1iah4dk1guw.2dwvulckiv1",
-   "at": "2026-10-11T16:58:10.356Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -27872,15 +27936,15 @@
   },
   "[\"2 תפוחי אדמה בינוניים קלופים מגורד גס\",\"potato\",\"2count\",\"all\",0]#274406": {
    "h": "1ggxb5ydgdp.bads4janfp",
-   "at": "2026-10-11T16:58:10.356Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
    "std": 2
   },
   "[\"2 תפוחי אדמה בינוניים קלופים מגורד גס\",\"potato\",\"2count\",\"all\",0]#2296": {
-   "h": "25yee6veh1s.29gzcb3j6dq",
-   "at": "2026-10-11T16:58:10.356Z",
+   "h": "1v4grv00bm3.10zxyp064mn",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -28087,7 +28151,7 @@
   },
   "[\"2 תפוחי אדמה בינוניים\",\"potato\",\"2count\",\"all\",0]#633": {
    "h": "1f9f3ou7vyw.91rq6h41zf",
-   "at": "2026-10-11T16:58:10.356Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -28095,7 +28159,7 @@
   },
   "[\"2 תפוחי אדמה בינוניים\",\"potato\",\"2count\",\"all\",0]#635": {
    "h": "1gfo66xh6t0.1sfm3htjakh",
-   "at": "2026-10-11T16:58:10.356Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -28103,7 +28167,7 @@
   },
   "[\"2 תפוחי אדמה בינוניים\",\"potato\",\"2count\",\"all\",0]#637": {
    "h": "pa0exxyrx.1fwjm0b7sv0",
-   "at": "2026-10-11T16:58:10.356Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -28111,7 +28175,7 @@
   },
   "[\"2 תפוחי אדמה בינוניים\",\"potato\",\"2count\",\"all\",0]#274404": {
    "h": "1t72hv34kro.1y8oecetz9t",
-   "at": "2026-10-11T16:58:10.356Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -28119,15 +28183,15 @@
   },
   "[\"2 תפוחי אדמה בינוניים\",\"potato\",\"2count\",\"all\",0]#274406": {
    "h": "18oxc7kpvwj.25r0qhoiwa8",
-   "at": "2026-10-11T16:58:10.356Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
    "std": 2
   },
   "[\"2 תפוחי אדמה בינוניים\",\"potato\",\"2count\",\"all\",0]#2296": {
-   "h": "1c8wny99tbs.cu9kl9cxsp",
-   "at": "2026-10-11T16:58:10.356Z",
+   "h": "2bxvw2uq2v3.1y5kvujlgcf",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -28135,7 +28199,7 @@
   },
   "[\"8 תפוח אדמה קלופים\",\"potato\",\"8count\",\"all\",0]#633": {
    "h": "1zni5vfwmw5.1w6khcdj4st",
-   "at": "2026-10-11T16:58:10.356Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -28143,7 +28207,7 @@
   },
   "[\"8 תפוח אדמה קלופים\",\"potato\",\"8count\",\"all\",0]#635": {
    "h": "2avstm3kir0.9uww9w4u9s",
-   "at": "2026-10-11T16:58:10.356Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -28151,7 +28215,7 @@
   },
   "[\"8 תפוח אדמה קלופים\",\"potato\",\"8count\",\"all\",0]#637": {
    "h": "16zicn31xoa.11oy1kcuzeu",
-   "at": "2026-10-11T16:58:10.356Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -28159,7 +28223,7 @@
   },
   "[\"8 תפוח אדמה קלופים\",\"potato\",\"8count\",\"all\",0]#274404": {
    "h": "d5o3qujjrp.o607x7c67d",
-   "at": "2026-10-11T16:58:10.356Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -28167,15 +28231,15 @@
   },
   "[\"8 תפוח אדמה קלופים\",\"potato\",\"8count\",\"all\",0]#274406": {
    "h": "20n1hpu6y6a.vrxwf0kwzf",
-   "at": "2026-10-11T16:58:10.356Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
    "std": 2
   },
   "[\"8 תפוח אדמה קלופים\",\"potato\",\"8count\",\"all\",0]#2296": {
-   "h": "xhr1sgjk2.edk2urs1cp",
-   "at": "2026-10-11T16:58:10.356Z",
+   "h": "1tlaorrq3jh.4kg80rswg9",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -28289,7 +28353,7 @@
   },
   "[\"1 תפוח אדמה\",\"potato\",\"1count\",\"all\",0]#633": {
    "h": "16czzzdyfse.tqs1jb1zby",
-   "at": "2026-10-11T16:58:10.356Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -28297,7 +28361,7 @@
   },
   "[\"1 תפוח אדמה\",\"potato\",\"1count\",\"all\",0]#635": {
    "h": "1b3pt4qkoab.26gdf4zrq1w",
-   "at": "2026-10-11T16:58:10.356Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -28305,7 +28369,7 @@
   },
   "[\"1 תפוח אדמה\",\"potato\",\"1count\",\"all\",0]#637": {
    "h": "1t7iam83t9l.1uv7i94x12y",
-   "at": "2026-10-11T16:58:10.356Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -28313,7 +28377,7 @@
   },
   "[\"1 תפוח אדמה\",\"potato\",\"1count\",\"all\",0]#274404": {
    "h": "1ik1w5avca7.t4sd2yqpmx",
-   "at": "2026-10-11T16:58:10.356Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -28321,15 +28385,15 @@
   },
   "[\"1 תפוח אדמה\",\"potato\",\"1count\",\"all\",0]#274406": {
    "h": "673ppbvjhn.d5xf6viqk8",
-   "at": "2026-10-11T16:58:10.356Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
    "std": 2
   },
   "[\"1 תפוח אדמה\",\"potato\",\"1count\",\"all\",0]#2296": {
-   "h": "arms67kgqj.1v25ugnyull",
-   "at": "2026-10-11T16:58:10.356Z",
+   "h": "yg75a430ud.2diq0q5l6iv",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -28483,7 +28547,7 @@
   },
   "[\"3 תפוחי אדמה\",\"potato\",\"3count\",\"all\",0]#633": {
    "h": "1l1s9ml6lud.hwny50jjk7",
-   "at": "2026-10-11T16:58:10.356Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -28491,7 +28555,7 @@
   },
   "[\"3 תפוחי אדמה\",\"potato\",\"3count\",\"all\",0]#635": {
    "h": "11kosx1s4qf.tjomym6di2",
-   "at": "2026-10-11T16:58:10.356Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -28499,7 +28563,7 @@
   },
   "[\"3 תפוחי אדמה\",\"potato\",\"3count\",\"all\",0]#637": {
    "h": "hewrc15qx2.fyyougs5wn",
-   "at": "2026-10-11T16:58:10.356Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -28507,7 +28571,7 @@
   },
   "[\"3 תפוחי אדמה\",\"potato\",\"3count\",\"all\",0]#274404": {
    "h": "dxbvxlq3xz.16jpfqh9h6f",
-   "at": "2026-10-11T16:58:10.356Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -28515,15 +28579,15 @@
   },
   "[\"3 תפוחי אדמה\",\"potato\",\"3count\",\"all\",0]#274406": {
    "h": "2fj3majemk8.2bdcd0tr2oz",
-   "at": "2026-10-11T16:58:10.356Z",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
    "std": 2
   },
   "[\"3 תפוחי אדמה\",\"potato\",\"3count\",\"all\",0]#2296": {
-   "h": "1bqewf4o7by.5j598fzx4b",
-   "at": "2026-10-11T16:58:10.356Z",
+   "h": "1bwjjx9968p.18z4stiw3pc",
+   "at": "2026-10-29T20:19:26.492Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -29009,6 +29073,174 @@
    "std": 2,
    "picker": true,
    "critic": true
+  },
+  "[\"פלפל שחור לפי הטעם\",\"black-pepper\",\"to-taste\",\"all\",0]#1453": {
+   "h": "zpillknxmb.thc70x2dks",
+   "at": "2026-10-29T20:19:26.492Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
+  },
+  "[\"פלפל שחור\",\"black-pepper\",\"to-taste\",\"all\",0]#1453": {
+   "h": "gxupwodaky.17mat1rfy49",
+   "at": "2026-10-29T20:19:26.492Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
+  },
+  "[\"קורט פלפל לבן\",\"black-pepper-ground\",\"to-taste\",\"all\",1]#1453": {
+   "h": "sptjeapb3h.vczstyl86r",
+   "at": "2026-10-29T20:19:26.492Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
+  },
+  "[\"מעט פלפל שחור טחון\",\"black-pepper-ground\",\"to-taste\",\"all\",0]#1453": {
+   "h": "6h5r89qvnl.2ekwwn3j9lm",
+   "at": "2026-10-29T20:19:26.492Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
+  },
+  "[\"1 כפית שטוחה פלפל שחור / חצי כפית פלפל לבן\",\"black-pepper\",\"to-taste\",\"all\",0]#1453": {
+   "h": "kvrqwqsse9.c6n4j3ns2i",
+   "at": "2026-10-29T20:19:26.492Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
+  },
+  "[\"חצי כפית פלפל\",\"black-pepper\",\"to-taste\",\"all\",0]#1453": {
+   "h": "29v3ibk98e1.vn8z9xrdj",
+   "at": "2026-10-29T20:19:26.492Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
+  },
+  "[\"1 כף פלפל שחור טחון\",\"black-pepper-ground\",\"to-taste\",\"all\",0]#1453": {
+   "h": "21rxmp75lt7.1koqmzucsq3",
+   "at": "2026-10-29T20:19:26.492Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
+  },
+  "[\"חצי כפית פלפל שחור\",\"black-pepper\",\"to-taste\",\"all\",0]#1453": {
+   "h": "1rbwcbwthxl.1mk4aypk5oz",
+   "at": "2026-10-29T20:19:26.492Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
+  },
+  "[\"פלפל טחון\",\"black-pepper-ground\",\"to-taste\",\"all\",0]#1453": {
+   "h": "qf3s69xvae.1a2y5azt9nf",
+   "at": "2026-10-29T20:19:26.492Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
+  },
+  "[\"קורט פלפל שחור\",\"black-pepper\",\"to-taste\",\"all\",0]#1453": {
+   "h": "7xfrzcdu7t.29xgggsszqx",
+   "at": "2026-10-29T20:19:26.492Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
+  },
+  "[\"קורט פלפל שחור טחון\",\"black-pepper-ground\",\"to-taste\",\"all\",0]#1453": {
+   "h": "deuibdkkpt.2bhmio6546c",
+   "at": "2026-10-29T20:19:26.492Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
+  },
+  "[\"פלפל\",\"black-pepper\",\"to-taste\",\"all\",0]#1453": {
+   "h": "1um2ml8kxnw.197c8cd2fta",
+   "at": "2026-10-29T20:19:26.492Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
+  },
+  "[\"חצי כפית פלפל לבן\",\"black-pepper-ground\",\"to-taste\",\"all\",1]#1453": {
+   "h": "1ol3kf61qjb.n5tqynssx9",
+   "at": "2026-10-29T20:19:26.492Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
+  },
+  "[\"חצי כפית פלפל לבן / שחור\",\"black-pepper\",\"to-taste\",\"all\",0]#1453": {
+   "h": "1ta7breg743.donjugf6oq",
+   "at": "2026-10-29T20:19:26.492Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
+  },
+  "[\"מעט פלפל שחור\",\"black-pepper\",\"to-taste\",\"all\",0]#1453": {
+   "h": "1wjbhqix41.1wxavkh9lgu",
+   "at": "2026-10-29T20:19:26.492Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
+  },
+  "[\"קורט מלח ופלפל\",\"black-pepper\",\"to-taste\",\"all\",0]#1453": {
+   "h": "wx8443c3lx.rvz158kxrr",
+   "at": "2026-10-29T20:19:26.492Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
+  },
+  "[\"קורט פלפל שחור / פלפל לבן\",\"black-pepper\",\"to-taste\",\"all\",0]#1453": {
+   "h": "2ekiwrj7zkl.l3ekcr3rss",
+   "at": "2026-10-29T20:19:26.492Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
+  },
+  "[\"רבע כפית פלפל שחור\",\"black-pepper\",\"to-taste\",\"all\",0]#1453": {
+   "h": "ppvmtlii5s.1fkc3jgrni6",
+   "at": "2026-10-29T20:19:26.492Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
+  },
+  "[\"פלפל לפי הטעם\",\"black-pepper\",\"to-taste\",\"all\",0]#1453": {
+   "h": "x5s2hafu9x.5znlrdmneb",
+   "at": "2026-10-29T20:19:26.492Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
+  },
+  "[\"מלח ופלפל לפי הטעם\",\"black-pepper\",\"to-taste\",\"all\",0]#1453": {
+   "h": "1mcvi9inuhl.254vvm5bnib",
+   "at": "2026-10-29T20:19:26.492Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
+  },
+  "[\"מלח, פלפל שחור, קורט אגוז מוסקט\",\"black-pepper\",\"to-taste\",\"all\",0]#1453": {
+   "h": "1uoi0npoom8.nmtqqstlyx",
+   "at": "2026-10-29T20:19:26.492Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
   }
  },
  "plants": [
@@ -29229,9 +29461,9 @@
   }
  ],
  "meta": {
-  "catalogSize": 1703,
+  "catalogSize": 1700,
   "recipeCount": 65,
-  "at": "2026-10-28T16:03:15.906Z"
+  "at": "2026-10-29T20:19:26.492Z"
  },
  "skipped": {}
 }
