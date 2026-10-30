@@ -1,15 +1,15 @@
-# Recipe links: run of 2026-10-29T20:19:26.492Z
+# Recipe links: run of 2026-10-30T19:23:17.287Z
 
 **Published.**
 
 - live recipes: 65; distinct live lines: 749
 - lines served with products: 674; lines marked not sold or not a shop item: 57
-- verdicts on record: 1521; planted products: 43
+- verdicts on record: 1522; planted products: 43
 
 ## The judges, proven on planted errors
 
-- r1-picker-01: 39 items, 10 planted; 1 attempt(s); passed
-- r1-critic-01: 40 items, 10 planted; 1 attempt(s); passed
+- r1-picker-01: 6 items, 10 planted; 1 attempt(s); passed
+- r1-critic-01: 11 items, 10 planted; 1 attempt(s); passed
 
 ## Plain text, and why
 
@@ -83,6 +83,27 @@
 - סלט ירוקים ופיצוחים: "1 בקבוק של רוטב רימונים ודבש" honey product 1204967 (critic: דבש אינו תחליף לרוטב רימונים ודבש)
 - סלט ירוקים ופיצוחים: "1 בקבוק של רוטב רימונים ודבש" honey product 814706 (critic: דבש אינו תחליף לרוטב רימונים ודבש)
 
+### the product is not in the catalogue (18)
+
+- greek-yogurt product 375216
+- black-pepper product 1102540
+- black-pepper-ground product 1102540
+- balsamic-vinegar product 1136437
+- balsamic-cream product 1136442
+- tahini product 1570
+- tahini product 1400
+- rice product 724576
+- chickpeas-canned product 951381
+- parsley product 1153351
+- coriander product 1153348
+- mint product 2476
+- vine-leaves-fresh product 1152727
+- green-onion product 1198348
+- pear product 491
+- kiwi product 818336
+- nectarine product 2580
+- peach product 499
+
 ### no product of the ingredient passed (18)
 
 - בוראטה ואפרסקים צרובים של קיץ: "אפרסקים או נקטרינות של נוי השדה" peach (499: member-gone)
@@ -103,26 +124,6 @@
 - מרנג תותים וקצפת: "1 ק"ג תותים" strawberry (no members)
 - פירות מקורמלים עם גלידה וניל: "3 תאנים" fig (no members)
 - פירות מקורמלים עם גלידה וניל: "4 אפרסקים" peach (499: member-gone)
-
-### the product is not in the catalogue (17)
-
-- greek-yogurt product 375216
-- black-pepper product 1102540
-- black-pepper-ground product 1102540
-- balsamic-vinegar product 1136437
-- balsamic-cream product 1136442
-- tahini product 1570
-- tahini product 1400
-- rice product 724576
-- chickpeas-canned product 951381
-- parsley product 1153351
-- coriander product 1153348
-- mint product 2476
-- vine-leaves-fresh product 1152727
-- green-onion product 1198348
-- pear product 491
-- nectarine product 2580
-- peach product 499
 
 ### a rule error (12)
 
@@ -186,41 +187,4 @@
 
 ## Products a picker named that are not members (for the next proposal)
 
-- black-pepper-ground "קורט פלפל לבן": 1102529 פלפל שחור גרוס "פרג"
-- black-pepper-ground "מעט פלפל שחור טחון": 1102529 פלפל שחור גרוס "פרג"
-- black-pepper-ground "1 כף פלפל שחור טחון": 1102529 פלפל שחור גרוס "פרג"
-- potato "1 תפוח אדמה בינוני": 795 תפוח אדמה למיקרו
-- potato "1 תפוח אדמה בינוני": 664 תפוח אדמה בייבי גורמה "דוד משה"
-- potato "1 תפוח אדמה בינוני": 542701 תפוח אדמה בייבי "Yapro"
-- potato "1 תפוח אדמה בינוני": 444607 תפוח אדמה מיוחד לצ'יפס קינגסמן "Yapro"
-- potato "1 תפוח אדמה": 444607 תפוח אדמה מיוחד לצ'יפס קינגסמן "Yapro"
-- potato "1 תפוח אדמה": 542701 תפוח אדמה בייבי "Yapro"
-- potato "1 תפוח אדמה": 795 תפוח אדמה למיקרו
-- potato "1 תפוח אדמה": 664 תפוח אדמה בייבי גורמה "דוד משה"
-- black-pepper-ground "פלפל טחון": 1102529 פלפל שחור גרוס "פרג"
-- potato "2 תפוחי אדמה בינוניים": 795 תפוח אדמה למיקרו
-- potato "2 תפוחי אדמה בינוניים": 444607 תפוח אדמה מיוחד לצ'יפס קינגסמן "Yapro"
-- potato "2 תפוחי אדמה בינוניים": 664 תפוח אדמה בייבי גורמה "דוד משה"
-- potato "2 תפוחי אדמה בינוניים": 542701 תפוח אדמה בייבי "Yapro"
-- black-pepper-ground "קורט פלפל שחור טחון": 1102529 פלפל שחור גרוס "פרג"
-- black-pepper-ground "חצי כפית פלפל לבן": 1102529 פלפל שחור גרוס "פרג"
-- potato "8 תפוח אדמה קלופים": 542701 תפוח אדמה בייבי "Yapro"
-- potato "8 תפוח אדמה קלופים": 664 תפוח אדמה בייבי גורמה "דוד משה"
-- potato "8 תפוח אדמה קלופים": 444607 תפוח אדמה מיוחד לצ'יפס קינגסמן "Yapro"
-- potato "8 תפוח אדמה קלופים": 795 תפוח אדמה למיקרו
-- potato "3 תפוחי אדמה": 664 תפוח אדמה בייבי גורמה "דוד משה"
-- potato "3 תפוחי אדמה": 795 תפוח אדמה למיקרו
-- potato "3 תפוחי אדמה": 542701 תפוח אדמה בייבי "Yapro"
-- potato "3 תפוחי אדמה": 444607 תפוח אדמה מיוחד לצ'יפס קינגסמן "Yapro"
-- potato "2 תפוחי אדמה בינוניים קלופים מגורד גס": 664 תפוח אדמה בייבי גורמה "דוד משה"
-- potato "2 תפוחי אדמה בינוניים קלופים מגורד גס": 542701 תפוח אדמה בייבי "Yapro"
-- potato "2 תפוחי אדמה בינוניים קלופים מגורד גס": 795 תפוח אדמה למיקרו
-- potato "2 תפוחי אדמה בינוניים קלופים מגורד גס": 444607 תפוח אדמה מיוחד לצ'יפס קינגסמן "Yapro"
-- potato "8 תפוחי אדמה": 444607 תפוח אדמה מיוחד לצ'יפס קינגסמן "Yapro"
-- potato "8 תפוחי אדמה": 542701 תפוח אדמה בייבי "Yapro"
-- potato "8 תפוחי אדמה": 664 תפוח אדמה בייבי גורמה "דוד משה"
-- potato "8 תפוחי אדמה": 795 תפוח אדמה למיקרו
-- potato "2 תפוחי אדמה": 664 תפוח אדמה בייבי גורמה "דוד משה"
-- potato "2 תפוחי אדמה": 444607 תפוח אדמה מיוחד לצ'יפס קינגסמן "Yapro"
-- potato "2 תפוחי אדמה": 542701 תפוח אדמה בייבי "Yapro"
-- potato "2 תפוחי אדמה": 795 תפוח אדמה למיקרו
+- kiwi "פירות יער, ענבים בצבעים, קיווי, משמשים, נקטרינות": 1250352 מיקס קיווי צהוב וירוק

@@ -9300,6 +9300,18 @@
     ],
     "members": [
      {
+      "id": "462",
+      "name": "קיווי ירוק",
+      "sale": {
+       "pricingType": "both",
+       "isPack": false,
+       "isHalf": false,
+       "showPriceBy": ""
+      },
+      "variant": "ירוק",
+      "provides": "by-weight"
+     },
+     {
       "id": "818336",
       "name": "קיווי ירוק",
       "sale": {
@@ -24673,10 +24685,11 @@
   },
   "[\"פירות יער, ענבים בצבעים, קיווי, משמשים, נקטרינות\",\"kiwi\",\"to-taste\",\"all\",0]#495": {
    "h": "1k6c3kiuu76.1p9q1fs1q47",
-   "at": "2026-10-08T19:31:08.750Z",
+   "at": "2026-10-30T19:23:17.287Z",
    "strikes": 0,
    "picker": true,
-   "critic": true
+   "critic": true,
+   "std": 2
   },
   "[\"2 כפות רכז רימונים / 1 כף תמרינדי\",\"pomegranate-concentrate\",\"30ml\",\"all\",0]#659219": {
    "h": "ybc6hihy47.10zyiicn6n8",
@@ -29241,6 +29254,14 @@
    "std": 2,
    "picker": true,
    "critic": true
+  },
+  "[\"פירות יער, ענבים בצבעים, קיווי, משמשים, נקטרינות\",\"kiwi\",\"to-taste\",\"all\",0]#462": {
+   "h": "169a681tmmg.27d9nkiu9w",
+   "at": "2026-10-30T19:23:17.287Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
   }
  },
  "plants": [
@@ -29463,7 +29484,7 @@
  "meta": {
   "catalogSize": 1700,
   "recipeCount": 65,
-  "at": "2026-10-29T20:19:26.492Z"
+  "at": "2026-10-30T19:23:17.287Z"
  },
  "skipped": {}
 }
