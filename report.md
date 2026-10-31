@@ -1,4 +1,4 @@
-# Recipe links: run of 2026-10-30T19:23:17.287Z
+# Recipe links: run of 2026-10-31T21:34:24.099Z
 
 **Published.**
 
@@ -8,8 +8,6 @@
 
 ## The judges, proven on planted errors
 
-- r1-picker-01: 6 items, 10 planted; 1 attempt(s); passed
-- r1-critic-01: 11 items, 10 planted; 1 attempt(s); passed
 
 ## Plain text, and why
 
@@ -184,7 +182,3 @@
 - קורט אגוז מוסקט: רושטי עם תרד מוקפץ וביצת עין, פולנטה עם אספרגוס ופטריות
 - רבע כוס שומשום: סלט כרוב לבן שקדים ושומשום קלוי
 - שערות חלבה: עוגה בחושה עם שמן זית וחלווה
-
-## Products a picker named that are not members (for the next proposal)
-
-- kiwi "פירות יער, ענבים בצבעים, קיווי, משמשים, נקטרינות": 1250352 מיקס קיווי צהוב וירוק
