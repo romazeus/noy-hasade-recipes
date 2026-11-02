@@ -1,13 +1,15 @@
-# Recipe links: run of 2026-11-01T19:40:53.663Z
+# Recipe links: run of 2026-11-02T23:31:17.110Z
 
 **Published.**
 
 - live recipes: 65; distinct live lines: 749
 - lines served with products: 674; lines marked not sold or not a shop item: 57
-- verdicts on record: 1522; planted products: 43
+- verdicts on record: 1523; planted products: 43
 
 ## The judges, proven on planted errors
 
+- r1-picker-01: 5 items, 10 planted; 1 attempt(s); passed
+- r1-critic-01: 11 items, 10 planted; 1 attempt(s); passed
 
 ## Plain text, and why
 
@@ -98,7 +100,7 @@
 - vine-leaves-fresh product 1152727
 - green-onion product 1198348
 - pear product 491
-- kiwi product 462
+- kiwi product 818336
 - nectarine product 2580
 - peach product 499
 
@@ -141,8 +143,8 @@
 ### judged wrong twice: blocked for good (3)
 
 - טאבולה כרובית: "חצי כרובית לבנה" cauliflower product 248405 (critic: חצי כרובית נקראה כ-1 והוזמנו 2 מארזים, כפול)
-- טאבולה כרובית: "2 כפות גדושות יוגורט" yogurt-plain product 432505 (picker: not named (יוגורט טבעי לא ממותק (כולל עיזים/כבשים/יווני); השאר בטעמים/משקה/תוספים, 3 ו-20 לא ברור שטבעי))
-- טאבולה כרובית: "2 כפות גדושות יוגורט" yogurt-plain product 936686 (picker: not named (יוגורט טבעי לא ממותק (כולל עיזים/כבשים/יווני); השאר בטעמים/משקה/תוספים, 3 ו-20 לא ברור שטבעי))
+- טאבולה כרובית: "2 כפות גדושות יוגורט" yogurt-plain product 432505 (picker: not named (יוגורט טבעי לא מתובל; בטעמים, מעדנים, קולגן, משקה ו-23 (לא ברור) הושמטו))
+- טאבולה כרובית: "2 כפות גדושות יוגורט" yogurt-plain product 936686 (picker: not named (יוגורט טבעי לא מתובל; בטעמים, מעדנים, קולגן, משקה ו-23 (לא ברור) הושמטו))
 
 ## Not sold by the shop
 
@@ -182,3 +184,9 @@
 - קורט אגוז מוסקט: רושטי עם תרד מוקפץ וביצת עין, פולנטה עם אספרגוס ופטריות
 - רבע כוס שומשום: סלט כרוב לבן שקדים ושומשום קלוי
 - שערות חלבה: עוגה בחושה עם שמן זית וחלווה
+
+## Products a picker named that are not members (for the next proposal)
+
+- yogurt-plain "2 כפות גדושות יוגורט": 900083 גולדן יוגורט בסגנון יווני בצנצנת "הגבנייה"
+- yogurt-plain "2 כפות גדושות יוגורט": 2880 מארז שמיניית יוגורט טבעי 1.7% שומן "דנונה"
+- yogurt-plain "2 כפות גדושות יוגורט": 2878 מארז שמיניית יוגורט טבעי 3% שומן "דנונה"
