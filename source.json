@@ -6854,7 +6854,7 @@
        "pricingType": "unitaskg",
        "isPack": true,
        "isHalf": true,
-       "showPriceBy": "כ-1.4 ק\"ג במארז"
+       "showPriceBy": "כ-1.2 ק\"ג במארז"
       },
       "variant": "צהוב",
       "provides": {
@@ -6869,7 +6869,7 @@
        "pricingType": "unitaskg",
        "isPack": true,
        "isHalf": true,
-       "showPriceBy": "כ-1.4 ק\"ג במארז"
+       "showPriceBy": "כ-1.3 ק\"ג במארז"
       },
       "variant": "מנומר",
       "provides": {
@@ -6980,7 +6980,7 @@
        "pricingType": "both",
        "isPack": false,
        "isHalf": false,
-       "showPriceBy": "כ-400 גרם ליחידה"
+       "showPriceBy": "כ-700 גרם ליחידה"
       },
       "variant": "ערמונים",
       "provides": "by-weight"
@@ -6992,7 +6992,7 @@
        "pricingType": "unitaskg",
        "isPack": false,
        "isHalf": false,
-       "showPriceBy": "כ-1 ק\"ג ליחידה"
+       "showPriceBy": "כ-1.3 ק\"ג ליחידה"
       },
       "variant": "אישית",
       "provides": {
@@ -7007,7 +7007,7 @@
        "pricingType": "unitaskg",
        "isPack": false,
        "isHalf": false,
-       "showPriceBy": "כ-1 ק\"ג ליחידה"
+       "showPriceBy": "כ-1.4 ק\"ג ליחידה"
       },
       "variant": "יפנית",
       "provides": {
@@ -7038,7 +7038,7 @@
        "pricingType": "unitaskg",
        "isPack": false,
        "isHalf": false,
-       "showPriceBy": "כ-1 ק\"ג ליחידה"
+       "showPriceBy": "כ-1.4 ק\"ג ליחידה"
       },
       "variant": "רגיל",
       "provides": {
@@ -8060,7 +8060,7 @@
        "pricingType": "unitaskg",
        "isPack": false,
        "isHalf": false,
-       "showPriceBy": "כ-2.4 ק\"ג ליחידה"
+       "showPriceBy": "כ-1.2 ק\"ג ליחידה"
       },
       "variant": "רגיל",
       "provides": {
@@ -8150,6 +8150,24 @@
       },
       "override": {
        "provides": "מארז של כ-500 גרם: כחצי ראש"
+      }
+     },
+     {
+      "id": "601",
+      "name": "כרובית",
+      "sale": {
+       "pricingType": "unitaskg",
+       "isPack": false,
+       "isHalf": false,
+       "showPriceBy": "כ-1 ק\"ג ליחידה"
+      },
+      "variant": "רגיל",
+      "provides": {
+       "amount": 1,
+       "unit": "count"
+      },
+      "override": {
+       "provides": "מחיר ליחידה: ראש אחד, כ-1 ק\"ג"
       }
      }
     ],
@@ -8515,7 +8533,7 @@
        "pricingType": "unitaskg",
        "isPack": true,
        "isHalf": false,
-       "showPriceBy": "כ-1.1 ק\"ג במארז"
+       "showPriceBy": "כ-1.2 ק\"ג במארז"
       },
       "variant": "סידלס",
       "provides": {
@@ -8697,7 +8715,7 @@
        "pricingType": "unitaskg",
        "isPack": false,
        "isHalf": false,
-       "showPriceBy": "כ-500 גרם ליחידה"
+       "showPriceBy": "כ-600 גרם ליחידה"
       },
       "variant": "רגיל",
       "provides": {
@@ -9138,7 +9156,7 @@
        "pricingType": "unitaskg",
        "isPack": true,
        "isHalf": false,
-       "showPriceBy": "כ-1.4 ק\"ג במארז"
+       "showPriceBy": "כ-1.5 ק\"ג במארז"
       },
       "variant": "אדורה",
       "provides": {
@@ -9163,7 +9181,7 @@
        "pricingType": "unitaskg",
        "isPack": true,
        "isHalf": false,
-       "showPriceBy": "כ-1.2 ק\"ג במארז"
+       "showPriceBy": "כ-1.3 ק\"ג במארז"
       },
       "variant": "אוטום קריספ",
       "provides": {
@@ -9188,7 +9206,7 @@
        "pricingType": "unitaskg",
        "isPack": true,
        "isHalf": false,
-       "showPriceBy": "כ-1.3 ק\"ג במארז"
+       "showPriceBy": "כ-1.5 ק\"ג במארז"
       },
       "variant": "קטן",
       "provides": {
@@ -9203,7 +9221,7 @@
        "pricingType": "unitaskg",
        "isPack": true,
        "isHalf": false,
-       "showPriceBy": "כ-2.2 ק\"ג במארז"
+       "showPriceBy": "כ-2.4 ק\"ג במארז"
       },
       "variant": "גדול",
       "provides": {
@@ -9366,6 +9384,24 @@
       },
       "variant": "צהוב",
       "provides": "by-weight"
+     },
+     {
+      "id": "4424",
+      "name": "קיווי ירוק ישראלי ״בראשית״",
+      "sale": {
+       "pricingType": "unit",
+       "isPack": true,
+       "isHalf": false,
+       "showPriceBy": "כ-500 גרם במארז"
+      },
+      "variant": "ירוק ישראלי",
+      "provides": {
+       "amount": 5,
+       "unit": "count"
+      },
+      "override": {
+       "provides": "מארז של כ-500 גרם: כ-5 קיווי"
+      }
      }
     ],
     "rejected": []
@@ -17846,9 +17882,10 @@
    "critic": true
   },
   "[\"1 פפאיה כתומה\",\"papaya\",\"1count\",\"all\",0]#519": {
-   "h": "arpr3ytm1x.28qpq4dpz5v",
-   "at": "2026-10-08T19:31:08.750Z",
+   "h": "90xu4cwt7s.x051t8e933",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
+   "std": 2,
    "picker": true,
    "critic": true
   },
@@ -18191,7 +18228,7 @@
   },
   "[\"לימון חתוך לרבעים\",\"lemon\",\"1count\",\"all\",0]#448": {
    "h": "s5nua6layy.3t6ulh4yh9",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -18199,7 +18236,7 @@
   },
   "[\"סלסלת עגבניות שרי\",\"cherry-tomato\",\"1package\",\"all\",0]#2574": {
    "h": "1daer01vglf.no6i5rfwjm",
-   "at": "2026-10-22T15:18:22.432Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -18207,7 +18244,7 @@
   },
   "[\"סלסלת עגבניות שרי\",\"cherry-tomato\",\"1package\",\"all\",0]#2558": {
    "h": "1gw2tt0mbe3.25cdixqly1h",
-   "at": "2026-10-22T15:18:22.432Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -18215,23 +18252,23 @@
   },
   "[\"סלסלת עגבניות שרי\",\"cherry-tomato\",\"1package\",\"all\",0]#2298": {
    "h": "1z5vqcrtkz2.iddz9kh1c4",
-   "at": "2026-10-22T15:18:22.432Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"סלסלת עגבניות שרי\",\"cherry-tomato\",\"1package\",\"all\",0]#3015": {
-   "h": "1wx1728hikx.28tjmdhd3dv",
-   "at": "2026-10-22T15:18:22.432Z",
+   "h": "vrofxl6je.1y22qqeznwe",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"סלסלת עגבניות שרי\",\"cherry-tomato\",\"1package\",\"all\",0]#2560": {
-   "h": "1vjbv80q19f.9lz7kla9qh",
-   "at": "2026-10-22T15:18:22.432Z",
+   "h": "bak7p92eu9.iaaifqyhui",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -18239,7 +18276,7 @@
   },
   "[\"סלסלת עגבניות שרי\",\"cherry-tomato\",\"1package\",\"all\",0]#22512": {
    "h": "1pbyole8eg.21x4tyz821v",
-   "at": "2026-10-22T15:18:22.432Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -18604,7 +18641,7 @@
   },
   "[\"רבע כוס מיץ לימון\",\"lemon\",\"1.5count\",\"all\",0]#448": {
    "h": "p3onoz740n.1vyljwbd8ed",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -19249,7 +19286,7 @@
   },
   "[\"1 כוס (240 מ״ל) לימון סחוט\",\"lemon\",\"6count\",\"all\",0]#448": {
    "h": "2gasadb5x3h.su5f3oz6eo",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -19257,7 +19294,7 @@
   },
   "[\"2 לימונים\",\"lemon\",\"2count\",\"all\",0]#448": {
    "h": "2dqe8hwqd.28k0dm0yzi0",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -19265,7 +19302,7 @@
   },
   "[\"1 כפית מיץ לימון טרי\",\"lemon\",\"0.25count\",\"all\",0]#448": {
    "h": "18fklxwlhxk.pqb1108pt",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -19315,7 +19352,7 @@
   },
   "[\"1 כוס עגבניות שרי חצויות\",\"cherry-tomato\",\"1package\",\"all\",0]#2574": {
    "h": "e2no2xyn0g.10tzivlnzdz",
-   "at": "2026-10-22T15:18:22.432Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -19323,7 +19360,7 @@
   },
   "[\"1 כוס עגבניות שרי חצויות\",\"cherry-tomato\",\"1package\",\"all\",0]#2558": {
    "h": "183ubjzx0fa.1a5u6su7tjx",
-   "at": "2026-10-22T15:18:22.432Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -19331,23 +19368,23 @@
   },
   "[\"1 כוס עגבניות שרי חצויות\",\"cherry-tomato\",\"1package\",\"all\",0]#2298": {
    "h": "c08zkcqtlo.vgzl7its7x",
-   "at": "2026-10-22T15:18:22.432Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"1 כוס עגבניות שרי חצויות\",\"cherry-tomato\",\"1package\",\"all\",0]#3015": {
-   "h": "11xqo4ps17p.xcbwr3qdke",
-   "at": "2026-10-22T15:18:22.432Z",
+   "h": "ay46h8n8wv.wcg35qbv9k",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"1 כוס עגבניות שרי חצויות\",\"cherry-tomato\",\"1package\",\"all\",0]#2560": {
-   "h": "1m7fiexo94s.9fabbe8a57",
-   "at": "2026-10-22T15:18:22.432Z",
+   "h": "1pocpeivotw.3o768boqeh",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -19355,7 +19392,7 @@
   },
   "[\"1 כוס עגבניות שרי חצויות\",\"cherry-tomato\",\"1package\",\"all\",0]#22512": {
    "h": "20y35ydiny.5l98fe4hwv",
-   "at": "2026-10-22T15:18:22.432Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -19562,7 +19599,7 @@
   },
   "[\"5 כפות מיץ לימון טרי\",\"lemon\",\"2count\",\"all\",0]#448": {
    "h": "rzui5a4wfl.e3guk7ocd9",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -19796,7 +19833,7 @@
   },
   "[\"מיץ מחצי לימון טרי\",\"lemon\",\"0.5count\",\"all\",0]#448": {
    "h": "24ovbos4eho.13s1ze2bxlz",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -20431,7 +20468,7 @@
   },
   "[\"מיץ לימון שלם\",\"lemon\",\"1count\",\"all\",0]#448": {
    "h": "1hswecjditk.203g21ifflu",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -20661,9 +20698,10 @@
    "critic": true
   },
   "[\"2 דלעת יפנית\",\"pumpkin-japanese\",\"2count\",\"all\",0]#3013": {
-   "h": "20cd7wv3pv6.duqfrdtyda",
-   "at": "2026-10-08T19:31:08.750Z",
+   "h": "50unmzgrhm.24kubk31wg0",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
+   "std": 2,
    "picker": true,
    "critic": true
   },
@@ -20728,7 +20766,7 @@
   },
   "[\"מיץ סחוט מלימון אחד\",\"lemon\",\"1count\",\"all\",0]#448": {
    "h": "1x5s6r22fpu.175jtkstw64",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -20931,8 +20969,8 @@
    "why": "critic: 150 גרם נקראו כאריזה, משקל האריזה לא ידוע"
   },
   "[\"1 כוס ענבים שחורים\",\"grapes-black\",\"1package\",\"all\",0]#2586": {
-   "h": "1g6ppyhc5j3.5hsz37w42m",
-   "at": "2026-10-22T15:18:22.432Z",
+   "h": "1qzmcey7jtw.1g3aomr0pkw",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -21117,7 +21155,7 @@
   },
   "[\"כ-600 גרם דלעת\",\"pumpkin\",\"600g\",\"all\",0]#615": {
    "h": "23k0e6jagma.1iaoaj8axi",
-   "at": "2026-10-22T15:18:22.432Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -22215,7 +22253,7 @@
   },
   "[\"גרידת לימון\",\"lemon\",\"to-taste\",\"all\",0]#448": {
    "h": "244dtzy0q1i.i8d1gw585d",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -22494,7 +22532,7 @@
   },
   "[\"1 לימון סחוט\",\"lemon\",\"1count\",\"all\",0]#448": {
    "h": "1ga8gehhw1h.12yyx6yyic8",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -22647,7 +22685,7 @@
   },
   "[\"2 כפות מיץ לימון\",\"lemon\",\"1count\",\"all\",0]#448": {
    "h": "1eh1hflqgtl.1b60ashktf1",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -23591,8 +23629,8 @@
    "critic": true
   },
   "[\"ענבים ירוקים\",\"grapes-green\",\"1package\",\"all\",0]#31651": {
-   "h": "1h6m224f3k4.aevfgznzq9",
-   "at": "2026-10-29T20:19:26.492Z",
+   "h": "1sbkoupay42.1rnrst18aru",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -23600,7 +23638,7 @@
   },
   "[\"גרידת לימון מלימון אחד טרי\",\"lemon\",\"1count\",\"all\",0]#448": {
    "h": "217kp6ytk1z.1y0n44tn1oy",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -23778,7 +23816,7 @@
   },
   "[\"מיץ מלימון שלם\",\"lemon\",\"1count\",\"all\",0]#448": {
    "h": "piepwfkn0l.2cv5gdsj1nj",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -23923,7 +23961,7 @@
   },
   "[\"4 פינגר ליים או גרידת לימון\",\"lemon\",\"to-taste\",\"any\",0]#448": {
    "h": "b5wmviytf5.1l2tyolsq54",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -24106,7 +24144,7 @@
   },
   "[\"150 גרם דלעת\",\"pumpkin\",\"150g\",\"all\",0]#615": {
    "h": "1f484k73pfc.1ptyrll6ado",
-   "at": "2026-10-22T15:18:22.432Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -24223,7 +24261,7 @@
   },
   "[\"1 כף מיץ לימון (לפי הטעם)\",\"lemon\",\"0.5count\",\"all\",0]#448": {
    "h": "d4kdjphhhm.4cr11m667h",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -24489,7 +24527,7 @@
   },
   "[\"קליפה מגוררת מחצי לימון\",\"lemon\",\"0.5count\",\"all\",0]#448": {
    "h": "2au6gcgtl89.1kcokd4nu8w",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -24582,16 +24620,16 @@
    "critic": true
   },
   "[\"פירות יער, ענבים בצבעים, קיווי, משמשים, נקטרינות\",\"grapes-mix\",\"to-taste\",\"all\",0]#1229171": {
-   "h": "rx0rafifg5.1d3p7i67yez",
-   "at": "2026-10-22T15:18:22.432Z",
+   "h": "2eq1xynmuda.suqludiwen",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"פירות יער, ענבים בצבעים, קיווי, משמשים, נקטרינות\",\"grapes-mix\",\"to-taste\",\"all\",0]#1229187": {
-   "h": "1hzikg9ptwm.2d8i8h32p2e",
-   "at": "2026-10-22T15:18:22.432Z",
+   "h": "18gtocgu2z0.j0vfhqo8ea",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -24717,7 +24755,7 @@
   },
   "[\"פירות יער, ענבים בצבעים, קיווי, משמשים, נקטרינות\",\"kiwi\",\"to-taste\",\"all\",0]#495": {
    "h": "1k6c3kiuu76.1p9q1fs1q47",
-   "at": "2026-10-30T19:23:17.287Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -25134,8 +25172,8 @@
    "critic": true
   },
   "[\"2 כרוב לבן\",\"cabbage-white\",\"2count\",\"all\",0]#639": {
-   "h": "1av3q3cbl5p.1o9ycnnbme1",
-   "at": "2026-10-20T17:11:48.446Z",
+   "h": "23bspy3fy8f.6asujsj3eo",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -25143,7 +25181,7 @@
   },
   "[\"2 כרוב לבן\",\"cabbage-white\",\"2count\",\"all\",0]#2470": {
    "h": "2b29dau6h52.pxp4dgpxdm",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -25274,7 +25312,7 @@
   },
   "[\"1 לימון\",\"lemon\",\"1count\",\"all\",0]#448": {
    "h": "shc2tztbmk.175i3ar48f7",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -25373,7 +25411,7 @@
   },
   "[\"מיץ מחצי לימון\",\"lemon\",\"0.5count\",\"all\",0]#448": {
    "h": "13xxbeh3w3j.1i3vczul828",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -25914,7 +25952,7 @@
   },
   "[\"1 לימון גדול סחוט / 2 לימונים קטנים\",\"lemon\",\"2count\",\"all\",0]#448": {
    "h": "2bgvnxk0u41.15xq1gw669j",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -25929,7 +25967,7 @@
   },
   "[\"לימון\",\"lemon\",\"1count\",\"all\",0]#448": {
    "h": "ik1qekvz6x.gbyz1e1i9f",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -26414,7 +26452,7 @@
   },
   "[\"4 פינגר ליים או גרידת לימון\",\"lemon\",\"to-taste\",\"any\",0]#222974": {
    "h": "khxsgid5fh.b76gauh76v",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -26479,7 +26517,7 @@
   },
   "[\"1 לימון\",\"lemon\",\"1count\",\"all\",0]#222974": {
    "h": "24bavua7cpq.ilq1fc6n3o",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -26510,11 +26548,11 @@
   },
   "[\"חצי כרובית סגולה\",\"cauliflower\",\"0.5count\",\"all\",1]#248405": {
    "h": "1zoxgxhnxzm.20k2uhyhwsy",
-   "at": "2026-10-20T17:11:48.446Z",
-   "strikes": 1,
+   "at": "2026-11-03T21:01:38.588Z",
+   "strikes": 2,
    "std": 2,
    "picker": false,
-   "why": "picker: not named (כרובית לבנה טרייה כתחליף סביר לסגולה)",
+   "why": "picker: not named (כרובית לבנה שלמה כתחליף סביר לסגולה; פרחים חתוכים ומוקפאת הם צורה אחרת, כרוב אינו כרובית)",
    "critic": true
   },
   "[\"1 שמנת לבישול 15%\",\"cream-cooking-15\",\"250ml\",\"all\",0]#1971": {
@@ -26528,7 +26566,7 @@
   },
   "[\"מיץ מחצי לימון\",\"lemon\",\"0.5count\",\"all\",0]#222974": {
    "h": "26du7htgxjt.5qny5k79gs",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -26783,7 +26821,7 @@
   },
   "[\"רבע כוס מיץ לימון\",\"lemon\",\"1.5count\",\"all\",0]#222974": {
    "h": "187yt80pra.bqe2j7jr2c",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -26791,7 +26829,7 @@
   },
   "[\"1 כפית מיץ לימון טרי\",\"lemon\",\"0.25count\",\"all\",0]#222974": {
    "h": "14asud868h5.2a9sj3ovdz",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -26845,7 +26883,7 @@
   },
   "[\"גרידת לימון מלימון אחד טרי\",\"lemon\",\"1count\",\"all\",0]#222974": {
    "h": "ngwjeu4snb.1009ap3jb6y",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -26853,7 +26891,7 @@
   },
   "[\"1 כף מיץ לימון (לפי הטעם)\",\"lemon\",\"0.5count\",\"all\",0]#222974": {
    "h": "1ejks6trglh.18lti3y0fao",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -26972,7 +27010,7 @@
   },
   "[\"מיץ מלימון שלם\",\"lemon\",\"1count\",\"all\",0]#222974": {
    "h": "17q63d903jf.qlaw4vsmi1",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -27180,7 +27218,7 @@
   },
   "[\"1 לימון גדול סחוט / 2 לימונים קטנים\",\"lemon\",\"2count\",\"all\",0]#222974": {
    "h": "m7lrbp8j8a.1d2tst7sbmh",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -27188,7 +27226,7 @@
   },
   "[\"לימון\",\"lemon\",\"1count\",\"all\",0]#222974": {
    "h": "d45zhprygk.2abhyphctf",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -27363,7 +27401,7 @@
   },
   "[\"2 לימונים\",\"lemon\",\"2count\",\"all\",0]#222974": {
    "h": "295i4a5o7eg.o55ftvto3g",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -27371,11 +27409,11 @@
   },
   "[\"2 ראשי כרובית\",\"cauliflower\",\"2count\",\"all\",0]#248405": {
    "h": "8jajzedhor.28iqiel1c09",
-   "at": "2026-10-20T17:11:48.446Z",
-   "strikes": 1,
+   "at": "2026-11-03T21:01:38.588Z",
+   "strikes": 2,
    "std": 2,
    "picker": false,
-   "why": "picker: not named (ראש כרובית שלם; פרחים חתוכים וקפואה לא)",
+   "why": "picker: not named (ראש כרובית שלם; פרחים, מוקפאת וכרוב לא)",
    "critic": true
   },
   "[\"בצל סגול\",\"red-onion\",\"1count\",\"all\",0]#1259127": {
@@ -27692,7 +27730,7 @@
   },
   "[\"5 כפות מיץ לימון טרי\",\"lemon\",\"2count\",\"all\",0]#222974": {
    "h": "1xg76ng84yr.1fb1xyq7fes",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -27734,16 +27772,16 @@
   },
   "[\"חצי כרובית לבנה\",\"cauliflower\",\"1count\",\"all\",0]#248405": {
    "h": "57eotuk637.pbu3ohrw3c",
-   "at": "2026-10-20T17:11:48.446Z",
-   "strikes": 2,
+   "at": "2026-11-03T21:01:38.588Z",
+   "strikes": 3,
    "std": 2,
    "picker": false,
-   "why": "critic: חצי כרובית נקראה כ-1 והוזמנו 2 מארזים, כפול",
+   "why": "picker: not named (כרובית לבנה שלמה; פרחים חתוכים ומוקפאת צורה אחרת)",
    "critic": false
   },
   "[\"מיץ סחוט מלימון אחד\",\"lemon\",\"1count\",\"all\",0]#222974": {
    "h": "28a36lsv5c5.asc9o1hqj6",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -27861,7 +27899,7 @@
   },
   "[\"גרידת לימון\",\"lemon\",\"to-taste\",\"all\",0]#222974": {
    "h": "27ge526f2nx.xjk4vhwote",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -27899,7 +27937,7 @@
   },
   "[\"1 לימון סחוט\",\"lemon\",\"1count\",\"all\",0]#222974": {
    "h": "ggh66nsisq.ru9nnq72ed",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -27907,7 +27945,7 @@
   },
   "[\"קליפה מגוררת מחצי לימון\",\"lemon\",\"0.5count\",\"all\",0]#222974": {
    "h": "3awln7uo39.1oc4t3py5e5",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -27933,7 +27971,7 @@
   },
   "[\"1 כוס (240 מ״ל) לימון סחוט\",\"lemon\",\"6count\",\"all\",0]#222974": {
    "h": "78azuikoi9.1ug3e3h39cy",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -28005,7 +28043,7 @@
   },
   "[\"לימון חתוך לרבעים\",\"lemon\",\"1count\",\"all\",0]#222974": {
    "h": "1q7ypr8ww4s.14gscajvzcx",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -28373,28 +28411,28 @@
    "critic": true
   },
   "[\"כ-600 גרם דלעת\",\"pumpkin\",\"600g\",\"all\",0]#617": {
-   "h": "7be72rdc6z.1wp2d17htn9",
-   "at": "2026-10-22T15:18:22.432Z",
+   "h": "24u23mqlobs.20bv7wqewqh",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
+   "std": 2,
    "picker": true,
-   "critic": true,
-   "std": 2
+   "critic": true
   },
   "[\"כ-600 גרם דלעת\",\"pumpkin\",\"600g\",\"all\",0]#3007": {
-   "h": "25n13n9pbi9.d2z79x9l7p",
-   "at": "2026-10-22T15:18:22.432Z",
+   "h": "2439h78t8pn.nf9ktomeq9",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"כ-600 גרם דלעת\",\"pumpkin\",\"600g\",\"all\",0]#3013": {
-   "h": "6v261090f3.2y4a0vnk19",
-   "at": "2026-10-22T15:18:22.432Z",
+   "h": "2arnx93sj91.1qchvo0sz1r",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
+   "std": 2,
    "picker": true,
-   "critic": true,
-   "std": 2
+   "critic": true
   },
   "[\"1 תפוח אדמה\",\"potato\",\"1count\",\"all\",0]#633": {
    "h": "16czzzdyfse.tqs1jb1zby",
@@ -28656,28 +28694,28 @@
    "std": 2
   },
   "[\"150 גרם דלעת\",\"pumpkin\",\"150g\",\"all\",0]#617": {
-   "h": "1u5fk4pafo.1d24idbuphq",
-   "at": "2026-10-22T15:18:22.432Z",
+   "h": "15r5es10zqf.z0qppf9kpq",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
+   "std": 2,
    "picker": true,
-   "critic": true,
-   "std": 2
+   "critic": true
   },
   "[\"150 גרם דלעת\",\"pumpkin\",\"150g\",\"all\",0]#3007": {
-   "h": "z3gza4o2j7.1uf3b4pgrw5",
-   "at": "2026-10-22T15:18:22.432Z",
+   "h": "fq7q05khap.igop9iej7g",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"150 גרם דלעת\",\"pumpkin\",\"150g\",\"all\",0]#3013": {
-   "h": "1hc3ugef5v8.2771bl89678",
-   "at": "2026-10-22T15:18:22.432Z",
+   "h": "1f7o2e0w46m.2g7wtgwmfp",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
+   "std": 2,
    "picker": true,
-   "critic": true,
-   "std": 2
+   "critic": true
   },
   "[\"קורט מלח\",\"salt\",\"to-taste\",\"all\",0]#1013023": {
    "h": "1ru9nyjv2j.14hunhdo54w",
@@ -28721,7 +28759,7 @@
   },
   "[\"מיץ מחצי לימון טרי\",\"lemon\",\"0.5count\",\"all\",0]#222974": {
    "h": "1f7jczv1k86.1raun8hy97r",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -28729,7 +28767,7 @@
   },
   "[\"מיץ לימון שלם\",\"lemon\",\"1count\",\"all\",0]#222974": {
    "h": "1ipqf1d202i.2756vu67iwm",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -28754,7 +28792,7 @@
   },
   "[\"2 כפות מיץ לימון\",\"lemon\",\"1count\",\"all\",0]#222974": {
    "h": "13n4mhhh8sj.19t4k4pffbt",
-   "at": "2026-10-20T17:11:48.446Z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -28920,168 +28958,168 @@
    "critic": true
   },
   "[\"1 כוס (240 מ״ל) לימון סחוט\",\"lemon\",\"6count\",\"all\",0]#4876": {
-   "h": "21dpn8kkjch.1x89x2tuiyh",
-   "at": "2026-10-20T17:11:48.446Z",
+   "h": "22yjomckbrc.1vta0rlj69z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"גרידת לימון מלימון אחד טרי\",\"lemon\",\"1count\",\"all\",0]#4876": {
-   "h": "geycrk6b1.4pbxu7zgh2",
-   "at": "2026-10-20T17:11:48.446Z",
+   "h": "i87not48ut.wtsq0rrf8o",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"קליפה מגוררת מחצי לימון\",\"lemon\",\"0.5count\",\"all\",0]#4876": {
-   "h": "1y6m0omp4fg.2dbsrubavda",
-   "at": "2026-10-20T17:11:48.446Z",
+   "h": "ioputh1x3c.oet6jo2nvp",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"1 כפית מיץ לימון טרי\",\"lemon\",\"0.25count\",\"all\",0]#4876": {
-   "h": "951nsbchdb.2bkrlvbhw5b",
-   "at": "2026-10-20T17:11:48.446Z",
+   "h": "1f6sf3xnpru.2fvhog1a92j",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"מיץ מחצי לימון טרי\",\"lemon\",\"0.5count\",\"all\",0]#4876": {
-   "h": "gl6cxjpvf7.145yuswfror",
-   "at": "2026-10-20T17:11:48.446Z",
+   "h": "224a6cdtos4.2bc2odmlx82",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"2 כפות מיץ לימון\",\"lemon\",\"1count\",\"all\",0]#4876": {
-   "h": "1dua7wg6rui.2aycsq3h45i",
-   "at": "2026-10-20T17:11:48.446Z",
+   "h": "232bqn1c5uo.18ai792dj6n",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"1 כף מיץ לימון (לפי הטעם)\",\"lemon\",\"0.5count\",\"all\",0]#4876": {
-   "h": "1x29y1dqckn.2bemqfjbt0f",
-   "at": "2026-10-20T17:11:48.446Z",
+   "h": "ar9w3atg32.1z9cn101v8j",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"מיץ מחצי לימון\",\"lemon\",\"0.5count\",\"all\",0]#4876": {
-   "h": "2x72zbfvg5.1i3z7bqweq0",
-   "at": "2026-10-20T17:11:48.446Z",
+   "h": "1uachxvrauv.jd8ypv9op2",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"מיץ מלימון שלם\",\"lemon\",\"1count\",\"all\",0]#4876": {
-   "h": "1jdmddtep0i.rnbx6jt25y",
-   "at": "2026-10-20T17:11:48.446Z",
+   "h": "f5k7y12sk9.1tymg0x1sfx",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"לימון חתוך לרבעים\",\"lemon\",\"1count\",\"all\",0]#4876": {
-   "h": "2gluw3f14iz.iwwk8jpphs",
-   "at": "2026-10-20T17:11:48.446Z",
+   "h": "deabgndx34.dzfuncvrys",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"רבע כוס מיץ לימון\",\"lemon\",\"1.5count\",\"all\",0]#4876": {
-   "h": "9qjntsc2xp.2f83s3slt5j",
-   "at": "2026-10-20T17:11:48.446Z",
+   "h": "lzspe3pv7u.jyq1ydc61z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"5 כפות מיץ לימון טרי\",\"lemon\",\"2count\",\"all\",0]#4876": {
-   "h": "g0n9jgkq6f.2gej4tqi2cm",
-   "at": "2026-10-20T17:11:48.446Z",
+   "h": "ybl36itg25.1ig2gho5tj7",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"1 לימון\",\"lemon\",\"1count\",\"all\",0]#4876": {
-   "h": "ma54tlbqb.hp387f2g27",
-   "at": "2026-10-20T17:11:48.446Z",
+   "h": "r6tn33qu3v.johpyo1gyz",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"מיץ לימון שלם\",\"lemon\",\"1count\",\"all\",0]#4876": {
-   "h": "250k3p1ltvm.7mx42qd84p",
-   "at": "2026-10-20T17:11:48.446Z",
+   "h": "1ktjkqs6fwi.1vjufp2rn0z",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"2 לימונים\",\"lemon\",\"2count\",\"all\",0]#4876": {
-   "h": "103hsacqcdn.ms6i6ydebm",
-   "at": "2026-10-20T17:11:48.446Z",
+   "h": "f6yetk83d5.1nsxa2i30jb",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"1 לימון גדול סחוט / 2 לימונים קטנים\",\"lemon\",\"2count\",\"all\",0]#4876": {
-   "h": "17kc35t51iw.1f1cae8ftp1",
-   "at": "2026-10-20T17:11:48.446Z",
+   "h": "kyi84mfhmr.ryw6d7ewkg",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"לימון\",\"lemon\",\"1count\",\"all\",0]#4876": {
-   "h": "3b5szob47y.1bko56wu0v0",
-   "at": "2026-10-20T17:11:48.446Z",
+   "h": "15439mj3w0.1qv6irzswme",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"4 פינגר ליים או גרידת לימון\",\"lemon\",\"to-taste\",\"any\",0]#4876": {
-   "h": "12bqzyfaf5d.1l3c4rl192h",
-   "at": "2026-10-20T17:11:48.446Z",
+   "h": "1a14ojqbsmc.1wdhwk08myn",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"1 לימון סחוט\",\"lemon\",\"1count\",\"all\",0]#4876": {
-   "h": "1q4y2442zc2.1en6k188www",
-   "at": "2026-10-20T17:11:48.446Z",
+   "h": "8dh4srvt9z.1qzbbp2dfcp",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"גרידת לימון\",\"lemon\",\"to-taste\",\"all\",0]#4876": {
-   "h": "1ool6uv2j1e.12sjk9ruuug",
-   "at": "2026-10-20T17:11:48.446Z",
+   "h": "3pxnbda3v7.2ffms8vido5",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"מיץ סחוט מלימון אחד\",\"lemon\",\"1count\",\"all\",0]#4876": {
-   "h": "16vmhnfervb.e8yj35ryll",
-   "at": "2026-10-20T17:11:48.446Z",
+   "h": "4ujf9c8oqt.yszychzjg",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -29298,6 +29336,39 @@
   "[\"2 כפות גדושות יוגורט\",\"yogurt-plain\",\"40g\",\"all\",0]#743823": {
    "h": "yewj3vip19.1d86rvhvchf",
    "at": "2026-11-02T23:31:17.110Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
+  },
+  "[\"חצי כרובית סגולה\",\"cauliflower\",\"0.5count\",\"all\",1]#601": {
+   "h": "1gp5io23m2q.w368swa3qi",
+   "at": "2026-11-03T21:01:38.588Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
+  },
+  "[\"פירות יער, ענבים בצבעים, קיווי, משמשים, נקטרינות\",\"kiwi\",\"to-taste\",\"all\",0]#4424": {
+   "h": "vptxoahddr.2d3vn5brccl",
+   "at": "2026-11-03T21:01:38.588Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
+  },
+  "[\"חצי כרובית לבנה\",\"cauliflower\",\"1count\",\"all\",0]#601": {
+   "h": "7yqt48obqa.819potqzy8",
+   "at": "2026-11-03T21:01:38.588Z",
+   "strikes": 1,
+   "std": 2,
+   "picker": true,
+   "critic": false,
+   "why": "critic: השורה מבקשת חצי כרובית אך הכמות נקראה 1"
+  },
+  "[\"2 ראשי כרובית\",\"cauliflower\",\"2count\",\"all\",0]#601": {
+   "h": "zgzm82nzor.1sgnxqwq5sv",
+   "at": "2026-11-03T21:01:38.588Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -29522,9 +29593,9 @@
   }
  ],
  "meta": {
-  "catalogSize": 1703,
+  "catalogSize": 1707,
   "recipeCount": 65,
-  "at": "2026-11-02T23:31:17.110Z"
+  "at": "2026-11-03T21:01:38.588Z"
  },
  "skipped": {}
 }

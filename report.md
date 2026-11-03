@@ -1,19 +1,19 @@
-# Recipe links: run of 2026-11-02T23:31:17.110Z
+# Recipe links: run of 2026-11-03T21:01:38.588Z
 
 **Published.**
 
 - live recipes: 65; distinct live lines: 749
-- lines served with products: 674; lines marked not sold or not a shop item: 57
-- verdicts on record: 1523; planted products: 43
+- lines served with products: 673; lines marked not sold or not a shop item: 57
+- verdicts on record: 1527; planted products: 43
 
 ## The judges, proven on planted errors
 
-- r1-picker-01: 5 items, 10 planted; 1 attempt(s); passed
-- r1-critic-01: 11 items, 10 planted; 1 attempt(s); passed
+- r1-picker-01: 35 items, 43 planted; 1 attempt(s); passed
+- r1-critic-01: 52 items, 10 planted; 1 attempt(s); passed
 
 ## Plain text, and why
 
-### the picker did not name the product (76)
+### the picker did not name the product (74)
 
 - ניוקי ברוטב תרד קטיפתי עם ברוקולי ולימון: "50 גרם חמאה" butter product 1077488 (picker: not named (חמאה; חצי שמנה וממרחי לורפק בחוץ))
 - ניוקי ברוטב תרד קטיפתי עם ברוקולי ולימון: "50 גרם חמאה" butter product 1077497 (picker: not named (חמאה; חצי שמנה וממרחי לורפק בחוץ))
@@ -39,7 +39,6 @@
 - קראמבל תפוח בדבש: "1/2 כוס קמח" flour product 1198268 (picker: not named (קמח חיטה לבן))
 - טארט טאטן של תפוחים בדבש: "60 גרם חמאה רכה" butter product 1077488 (picker: not named (חמאה אמיתית; ממרחים וחצי שמנה בחוץ))
 - טארט טאטן של תפוחים בדבש: "60 גרם חמאה רכה" butter product 1077497 (picker: not named (חמאה אמיתית; ממרחים וחצי שמנה בחוץ))
-- טאבולה כרובית: "חצי כרובית סגולה" cauliflower product 248405 (picker: not named (כרובית לבנה טרייה כתחליף סביר לסגולה))
 - טאבולה כרובית: "חצי ברוקולי" broccoli product 857 (critic: ברוקומיני אינו ברוקולי, 2 מארזים, ואזל)
 - טאבולה כרובית: "3 גבעולי סלרי" celery-stalks product 74113 (picker: not named (גבעולי סלרי; 1 קצוץ, 2 שורש, 4 נשנושים))
 - טארט פטריות, מנגולד וגבינות: "210 גרם קמח חיטה 70%" flour product 1198268 (critic: השורה מבקשת קמח 70%, טיפו 1 אינו כזה)
@@ -55,15 +54,17 @@
 - עוגה בחושה עם שמן זית וחלווה: "2 גרם מלח דק" salt product 1013023 (critic: השורה מבקשת מלח דק, המוצר גבישי)
 - עוגה בחושה עם שמן זית וחלווה: "2 גרם מלח דק" salt product 1221575 (critic: השורה מבקשת מלח דק, המוצר גס)
 - עוגת דבש חגיגית מקושטת בפירות טריים: "210 גרם קמח לבן (1.5 כוס)" flour product 1198268 (critic: השורה מבקשת קמח לבן, טיפו 1 אינו קמח לבן)
-- … 36 more
+- רולדת מנגו: "1/2 כוס קמח" flour product 1198268 (picker: not named (קמח חיטה לבן))
+- … 34 more
 
-### the critic refused the order (23)
+### the critic refused the order (24)
 
 - מגולגלות חציל במילוי ריקוטה ברוטב עגבניות עשיר: "1-2 חצילים יפים ומוצקים של נוי השדה" eggplant product 867 (critic: חצילונים קטנים למגולגלות של חצילים יפים, וכמות מוטלת בספק)
 - קישואים וזוקיני צלויים עם גבינת גרנה פדנו: "2 קישואים ירוק" zucchini product 613 (critic: השורה מבקשת קישוא ירוק, המוצר קישוא עגול)
 - לביבות תפוחי אדמה עם קרם פטה ותותים: "2 כפיות רוטב בלסמי" balsamic-vinegar product 1386 (critic: רוטב בלסמי אינו חומץ בלסמי, צריך סימון תחליף)
 - לביבות תפוחי אדמה עם קרם פטה ותותים: "2 כפיות רוטב בלסמי" balsamic-vinegar product 1386 (one option of an "any" line: critic: רוטב בלסמי אינו חומץ בלסמי, צריך סימון תחליף)
 - חציל צרוב עם טחינה ירוקה וסלט ירקות ישראלי: "2 חצילים בינוניים" eggplant product 867 (critic: 2 מארזי חצילונים במקום 2 חצילים, כמות לא ברורה)
+- טאבולה כרובית: "חצי כרובית לבנה" cauliflower product 601 (critic: השורה מבקשת חצי כרובית אך הכמות נקראה 1)
 - טארט פטריות, מנגולד וגבינות: "120 גרם חמאה קרה חתוכה לקוביות" butter product 274987 (critic: חמאה קרה לקוביות, חמאה רכה למריחה לא מתאימה)
 - שטרודל גבינה ותפוחים עם קצפת ופירות יער: "250 גרם מיקס פירות יער" raspberry-red product 2588 (critic: השורה מבקשת מיקס פירות יער, פטל טרי לבד אינו המצרך ולא מסומן תחליף)
 - שטרודל גבינה ותפוחים עם קצפת ופירות יער: "250 גרם מיקס פירות יער" raspberry-red product 2588 (critic: השורה מבקשת מיקס פירות יער, פטל טרי לבד אינו המצרך ולא מסומן תחליף)
@@ -83,7 +84,7 @@
 - סלט ירוקים ופיצוחים: "1 בקבוק של רוטב רימונים ודבש" honey product 1204967 (critic: דבש אינו תחליף לרוטב רימונים ודבש)
 - סלט ירוקים ופיצוחים: "1 בקבוק של רוטב רימונים ודבש" honey product 814706 (critic: דבש אינו תחליף לרוטב רימונים ודבש)
 
-### the product is not in the catalogue (18)
+### the product is not in the catalogue (20)
 
 - greek-yogurt product 375216
 - black-pepper product 1102540
@@ -99,7 +100,9 @@
 - mint product 2476
 - vine-leaves-fresh product 1152727
 - green-onion product 1198348
+- cauliflower product 270839
 - pear product 491
+- kiwi product 462
 - kiwi product 818336
 - nectarine product 2580
 - peach product 499
@@ -125,7 +128,7 @@
 - פירות מקורמלים עם גלידה וניל: "3 תאנים" fig (no members)
 - פירות מקורמלים עם גלידה וניל: "4 אפרסקים" peach (499: member-gone)
 
-### a rule error (12)
+### a rule error (13)
 
 - zucchini product 869 (member-name: does not lead with "קישואים")
 - sweet-potato product 1111973 (member-name: does not lead with "בטטה")
@@ -136,15 +139,19 @@
 - avocado-ripe product 2984 (member-name: does not lead with "אבוקדו בשל")
 - cream-cheese product 948478 (member-name: does not lead with "גבינת שמנת")
 - cream-cheese product 1228012 (member-name: does not lead with "גבינת שמנת")
-- pumpkin product 3007 (member-provides: provides 1700 g; the shop prints 1000)
+- pumpkin product 3007 (member-provides: provides 1700 g; the shop prints 1300)
+- pumpkin product 3013 (member-provides: provides 1000 g; the shop prints 1400)
 - pear product 2802 (member-by-weight: is sold by weight (both): provides must be by-weight)
 - pomegranate product 34477 (member-category: in none of 35)
 
-### judged wrong twice: blocked for good (3)
+### judged wrong twice: blocked for good (6)
 
-- טאבולה כרובית: "חצי כרובית לבנה" cauliflower product 248405 (critic: חצי כרובית נקראה כ-1 והוזמנו 2 מארזים, כפול)
+- טאבולה כרובית: "חצי כרובית לבנה" cauliflower product 248405 (picker: not named (כרובית לבנה שלמה; פרחים חתוכים ומוקפאת צורה אחרת))
+- טאבולה כרובית: "חצי כרובית לבנה" cauliflower product 248405 (picker: not named (כרובית לבנה שלמה; פרחים חתוכים ומוקפאת צורה אחרת))
+- טאבולה כרובית: "חצי כרובית סגולה" cauliflower product 248405 (picker: not named (כרובית לבנה שלמה כתחליף סביר לסגולה; פרחים חתוכים ומוקפאת הם צורה אחרת, כרוב אינו כרובית))
 - טאבולה כרובית: "2 כפות גדושות יוגורט" yogurt-plain product 432505 (picker: not named (יוגורט טבעי לא מתובל; בטעמים, מעדנים, קולגן, משקה ו-23 (לא ברור) הושמטו))
 - טאבולה כרובית: "2 כפות גדושות יוגורט" yogurt-plain product 936686 (picker: not named (יוגורט טבעי לא מתובל; בטעמים, מעדנים, קולגן, משקה ו-23 (לא ברור) הושמטו))
+- סלט כרובית עם חמוציות ושקדים: "2 ראשי כרובית" cauliflower product 248405 (picker: not named (ראש כרובית שלם; פרחים, מוקפאת וכרוב לא))
 
 ## Not sold by the shop
 
@@ -187,6 +194,4 @@
 
 ## Products a picker named that are not members (for the next proposal)
 
-- yogurt-plain "2 כפות גדושות יוגורט": 900083 גולדן יוגורט בסגנון יווני בצנצנת "הגבנייה"
-- yogurt-plain "2 כפות גדושות יוגורט": 2880 מארז שמיניית יוגורט טבעי 1.7% שומן "דנונה"
-- yogurt-plain "2 כפות גדושות יוגורט": 2878 מארז שמיניית יוגורט טבעי 3% שומן "דנונה"
+- kiwi "פירות יער, ענבים בצבעים, קיווי, משמשים, נקטרינות": 1250352 מיקס קיווי צהוב וירוק
