@@ -710,7 +710,7 @@ export function buildServed(source: Source, catalog: ReadonlyMap<string, Catalog
           usedMembers.set(x.link.concept, set);
         }
       }
-      if (Object.keys(lines).length) served.recipes[lr.slug] = { ...(lr.postId ? { postId: lr.postId } : {}), title: lr.title, lines };
+      if (Object.keys(lines).length) served.recipes[lr.slug] = { ...(lr.postId ? { postId: lr.postId } : {}), title: lr.title, total: new Set(lr.lines).size, lines };
     }
     for (const [cid, ids] of usedMembers) {
       const c = file.concepts[cid];

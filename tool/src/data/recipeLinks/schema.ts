@@ -111,6 +111,12 @@ export type RecipeEntry = {
   postId?: number;
   /** Keyed by the mapper's own `plainText(row.text)`: an edited line stops matching, by design. */
   lines: Record<string, LineDecision>;
+  /**
+   * How many distinct lines the live recipe has, served or not (Rom, 2026-10-11: recipes are
+   * ordered by the share of their ingredients that can be bought, and a line with no product at all,
+   * strawberries out of season, must count against it). Absent = the served lines only.
+   */
+  total?: number;
 };
 
 /** The served file. Keyed by `normalizeSlug`. */
@@ -154,7 +160,7 @@ export type LineRecord = LineDecision &
     gaps?: string[];
   };
 
-export type RecipeRecord = { postId?: number; title?: string; lines: Record<string, LineRecord> };
+export type RecipeRecord = { postId?: number; title?: string; total?: number; lines: Record<string, LineRecord> };
 
 export type ApprovedFile = {
   schema: typeof SCHEMA_MAJOR;
@@ -221,7 +227,7 @@ export function stripForServing(approved: ApprovedFile): RecipeLinksFile {
               },
         ]),
       );
-      return [slug, { ...(r.postId ? { postId: r.postId } : {}), lines }];
+      return [slug, { ...(r.postId ? { postId: r.postId } : {}), ...(r.total ? { total: r.total } : {}), lines }];
     }),
   );
   return { schema: SCHEMA_MAJOR, concepts, recipes };
@@ -275,6 +281,7 @@ export function parseRecipeLinksFile(json: unknown): { file: RecipeLinksFile } |
 
   for (const [slug, r] of Object.entries(json.recipes)) {
     if (!isObj(r) || !isObj(r.lines)) return { error: `recipe ${slug}: lines` };
+    if (r.total !== undefined && !(Number.isInteger(r.total) && (r.total as number) > 0)) return { error: `recipe ${slug}: total` };
     for (const [text, l] of Object.entries(r.lines)) {
       if (!isObj(l)) return { error: `recipe ${slug}: line "${text}"` };
       if ('notSold' in l) {
