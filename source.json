@@ -9522,12 +9522,44 @@
    "strawberry": {
     "label": "תות שדה",
     "kind": "weight",
+    "defaultVariant": "של נוי",
     "allowedCategories": [
      35,
      456,
      630
     ],
-    "members": [],
+    "members": [
+     {
+      "id": "486215",
+      "name": "תות שדה של נוי",
+      "sale": {
+       "pricingType": "unit",
+       "isPack": true,
+       "isHalf": false,
+       "showPriceBy": "כ-250 גרם במארז"
+      },
+      "variant": "של נוי",
+      "provides": {
+       "amount": 250,
+       "unit": "g"
+      }
+     },
+     {
+      "id": "279635",
+      "name": "תות שדה בטעם ענבים",
+      "sale": {
+       "pricingType": "unit",
+       "isPack": true,
+       "isHalf": false,
+       "showPriceBy": "כ-250 גרם במארז"
+      },
+      "variant": "בטעם ענבים",
+      "provides": {
+       "amount": 250,
+       "unit": "g"
+      }
+     }
+    ],
     "aliases": [
      "תותים"
     ],
@@ -9543,7 +9575,7 @@
       "reason": "מצופה שוקולד"
      }
     ],
-    "note": "אין תותים טריים בקטלוג היום; ב-products_buy של מתכוני התות: 505, 279635, 279639 (לא פעילים)"
+    "note": "2026-11-08: תות שדה של נוי (מארז כ-250 גרם) ברירת המחדל; תות שדה בטעם ענבים זן של תות, אפשרות שנייה (רום: \"להשאיר כאפשרות שנייה\"). מצופי השוקולד בחוץ."
    },
    "fig": {
     "label": "תאנים",
@@ -29463,6 +29495,102 @@
    "std": 2,
    "picker": true,
    "critic": true
+  },
+  "[\"500 גרם תותים של נוי\",\"strawberry\",\"500g\",\"all\",0]#486215": {
+   "h": "5lfsh99n6v.9a2n8wkiyt",
+   "at": "2026-11-08T19:31:17.172Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
+  },
+  "[\"500 גרם תותים של נוי\",\"strawberry\",\"500g\",\"all\",0]#279635": {
+   "h": "sbn6ud9qif.1aq8nwoajmu",
+   "at": "2026-11-08T19:31:17.172Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
+  },
+  "[\"1 ק\\\"ג תותים\",\"strawberry\",\"1000g\",\"all\",0]#486215": {
+   "h": "1tsgeqo1w1u.1j7dsc94u8p",
+   "at": "2026-11-08T19:31:17.172Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
+  },
+  "[\"1 ק\\\"ג תותים\",\"strawberry\",\"1000g\",\"all\",0]#279635": {
+   "h": "1752oqkcuae.2bavjewsgpg",
+   "at": "2026-11-08T19:31:17.172Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
+  },
+  "[\"תותים טריים\",\"strawberry\",\"to-taste\",\"all\",0]#486215": {
+   "h": "15p1lgrz8zw.1p24yn56rbx",
+   "at": "2026-11-08T19:31:17.172Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
+  },
+  "[\"תותים טריים\",\"strawberry\",\"to-taste\",\"all\",0]#279635": {
+   "h": "w5ezsyw95p.kll4l7jf3z",
+   "at": "2026-11-08T19:31:17.172Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
+  },
+  "[\"סלסלת תות שדה של נוי\",\"strawberry\",\"250g\",\"all\",0]#486215": {
+   "h": "fleea1xrwc.rzl6esy208",
+   "at": "2026-11-08T19:31:17.172Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
+  },
+  "[\"סלסלת תות שדה של נוי\",\"strawberry\",\"250g\",\"all\",0]#279635": {
+   "h": "1xklpzes0kn.c0c49ucgdk",
+   "at": "2026-11-08T19:31:17.172Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
+  },
+  "[\"850 גרם תותים אדומים בשלים וחצויים\",\"strawberry\",\"850g\",\"all\",0]#486215": {
+   "h": "1sfgzrhymci.2cma83sgy4m",
+   "at": "2026-11-08T19:31:17.172Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
+  },
+  "[\"850 גרם תותים אדומים בשלים וחצויים\",\"strawberry\",\"850g\",\"all\",0]#279635": {
+   "h": "253hbnbvuo3.g5a8ltsbf4",
+   "at": "2026-11-08T19:31:17.172Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
+  },
+  "[\"1/2 חבילת תותים חצויים לעיטור\",\"strawberry\",\"125g\",\"all\",0]#486215": {
+   "h": "1udzmzctgxf.1nylt5gh44c",
+   "at": "2026-11-08T19:31:17.172Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
+  },
+  "[\"1/2 חבילת תותים חצויים לעיטור\",\"strawberry\",\"125g\",\"all\",0]#279635": {
+   "h": "195a5nuu0rq.1a70d7nd5rx",
+   "at": "2026-11-08T19:31:17.172Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
   }
  },
  "plants": [
@@ -29683,9 +29811,9 @@
   }
  ],
  "meta": {
-  "catalogSize": 1741,
+  "catalogSize": 1745,
   "recipeCount": 65,
-  "at": "2026-11-05T20:41:10.226Z"
+  "at": "2026-11-08T19:31:17.172Z"
  },
  "skipped": {}
 }

@@ -1,15 +1,15 @@
-# Recipe links: run of 2026-11-05T20:41:10.226Z
+# Recipe links: run of 2026-11-08T19:31:17.172Z
 
 **Published.**
 
 - live recipes: 65; distinct live lines: 749
-- lines served with products: 671; lines marked not sold or not a shop item: 57
-- verdicts on record: 1531; planted products: 43
+- lines served with products: 679; lines marked not sold or not a shop item: 57
+- verdicts on record: 1543; planted products: 43
 
 ## The judges, proven on planted errors
 
-- r1-picker-01: 16 items, 10 planted; 1 attempt(s); passed
-- r1-critic-01: 24 items, 10 planted; 1 attempt(s); passed
+- r1-picker-01: 12 items, 10 planted; 1 attempt(s); passed
+- r1-critic-01: 22 items, 10 planted; 1 attempt(s); passed
 
 ## Plain text, and why
 
@@ -93,6 +93,7 @@
 - tahini product 1400
 - rice product 724576
 - chickpeas-canned product 951381
+- breadcrumbs product 936327
 - parsley product 1153351
 - coriander product 1153348
 - mint product 2476
@@ -100,36 +101,12 @@
 - green-onion product 1198348
 - cauliflower product 270839
 - pear product 491
-- mango product 2997
 - kiwi product 462
 - kiwi product 818336
 - nectarine product 2580
 - peach product 499
 
-### no product of the ingredient passed (20)
-
-- בוראטה ואפרסקים צרובים של קיץ: "אפרסקים או נקטרינות של נוי השדה" peach (499: member-gone)
-- לביבות תפוחי אדמה עם קרם פטה ותותים: "סלסלת תות שדה של נוי" strawberry (no members)
-- תותים ממולאים בקרם מסקרפונה: "סלסלת תות שדה של נוי" strawberry (no members)
-- סופגניות עם קרם ותותים: "סלסלת תות שדה של נוי" strawberry (no members)
-- סלט עלים עם תותים ומוצרלה: "500 גרם תותים של נוי" strawberry (no members)
-- עוגת גבינה מקושטת בפירות הארץ: "פירות יער, ענבים בצבעים, קיווי, משמשים, נקטרינות" nectarine (2580: member-gone)
-- עלי גפן, פלפלונים ובצלים: "30 עלי גפן טריים" vine-leaves-fresh (1152727: member-gone)
-- רושטי עם תרד מוקפץ וביצת עין: "8 יחידות אנשובי (לא חובה)" anchovies (1135444: rule)
-- סלט חסות וגבינת בושה: "1 אפרסק" peach (499: member-gone)
-- סלט חסות וגבינת בושה: "4 דובדבנים" cherry (no members)
-- קונפיטורת תות: "850 גרם תותים אדומים בשלים וחצויים" strawberry (no members)
-- העוגה הפלאפית: "1/2 חבילת תותים חצויים לעיטור" strawberry (no members)
-- סופגניית פבלובה: "תותים טריים" strawberry (no members)
-- עוגת דבש חגיגית מקושטת בפירות טריים: "תאנים / נקטרינה / אפרסק / תפוח ירוק" fig (one option of an "any" line: no members)
-- רולדת מנגו: "2 יחידות מנגו חתוך לקוביות" mango (2997: member-gone)
-- עוגת גבינה ופירות: "דובדבנים" cherry (no members)
-- מרנג תותים וקצפת: "1 ק"ג תותים" strawberry (no members)
-- פירות מקורמלים עם גלידה וניל: "3 תאנים" fig (no members)
-- פירות מקורמלים עם גלידה וניל: "4 אפרסקים" peach (499: member-gone)
-- סלט אנדיב ומנגו: "4 יחידות מנגו" mango (2997: member-gone)
-
-### a rule error (13)
+### a rule error (15)
 
 - zucchini product 869 (member-name: does not lead with "קישואים")
 - sweet-potato product 1111973 (member-name: does not lead with "בטטה")
@@ -144,6 +121,21 @@
 - pumpkin product 3013 (member-provides: provides 1000 g; the shop prints 1400)
 - pear product 2802 (member-by-weight: is sold by weight (both): provides must be by-weight)
 - pomegranate product 34477 (member-category: in none of 35)
+- קונפיטורת תות: "850 גרם תותים אדומים בשלים וחצויים" (line-price: תות שדה בטעם ענבים = ₪159.60)
+- מרנג תותים וקצפת: "1 ק"ג תותים" (line-price: תות שדה בטעם ענבים = ₪159.60)
+
+### no product of the ingredient passed (10)
+
+- בוראטה ואפרסקים צרובים של קיץ: "אפרסקים או נקטרינות של נוי השדה" peach (499: member-gone)
+- עוגת גבינה מקושטת בפירות הארץ: "פירות יער, ענבים בצבעים, קיווי, משמשים, נקטרינות" nectarine (2580: member-gone)
+- עלי גפן, פלפלונים ובצלים: "30 עלי גפן טריים" vine-leaves-fresh (1152727: member-gone)
+- רושטי עם תרד מוקפץ וביצת עין: "8 יחידות אנשובי (לא חובה)" anchovies (1135444: rule)
+- סלט חסות וגבינת בושה: "1 אפרסק" peach (499: member-gone)
+- סלט חסות וגבינת בושה: "4 דובדבנים" cherry (no members)
+- עוגת דבש חגיגית מקושטת בפירות טריים: "תאנים / נקטרינה / אפרסק / תפוח ירוק" fig (one option of an "any" line: no members)
+- עוגת גבינה ופירות: "דובדבנים" cherry (no members)
+- פירות מקורמלים עם גלידה וניל: "3 תאנים" fig (no members)
+- פירות מקורמלים עם גלידה וניל: "4 אפרסקים" peach (499: member-gone)
 
 ### judged wrong twice: blocked for good (10)
 
@@ -196,12 +188,3 @@
 - קורט אגוז מוסקט: רושטי עם תרד מוקפץ וביצת עין, פולנטה עם אספרגוס ופטריות
 - רבע כוס שומשום: סלט כרוב לבן שקדים ושומשום קלוי
 - שערות חלבה: עוגה בחושה עם שמן זית וחלווה
-
-## Products a picker named that are not members (for the next proposal)
-
-- yogurt-plain "2 כפות גדושות יוגורט": 2878 מארז שמיניית יוגורט טבעי 3% שומן "דנונה"
-- yogurt-plain "2 כפות גדושות יוגורט": 2880 מארז שמיניית יוגורט טבעי 1.7% שומן "דנונה"
-- yogurt-plain "2 כפות גדושות יוגורט": 900083 גולדן יוגורט בסגנון יווני בצנצנת "הגבנייה"
-- chickpeas-canned "חומוס מקופסת שימורים 380 גרם": 1218479 חומוס הבית גרגירים להכנת חומוס ביתי "יכין"
-- peas-frozen "150 גרם אפונה": 909354 שלישיית אפונה עדינה מהשדה "יכין"
-- kiwi "פירות יער, ענבים בצבעים, קיווי, משמשים, נקטרינות": 1250352 מיקס קיווי צהוב וירוק
