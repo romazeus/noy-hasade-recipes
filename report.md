@@ -1,6 +1,7 @@
-# Recipe links: run of 2026-11-10T09:51:08.681Z
+# Recipe links: run of 2026-11-10T23:22:45.854Z
 
-**Published.**
+**NOT PUBLISHED.** 1 guard(s) refused:
+- r1-critic-01: planted errors passed: igk2x4 passed a planted product error
 
 - live recipes: 65; distinct live lines: 749
 - lines served with products: 681; lines marked not sold or not a shop item: 57
@@ -8,8 +9,8 @@
 
 ## The judges, proven on planted errors
 
-- r1-picker-01: 9 items, 10 planted; 1 attempt(s); passed
-- r1-critic-01: 12 items, 10 planted; 1 attempt(s); passed
+- r1-picker-01: 8 items, 10 planted; 1 attempt(s); passed
+- r1-critic-01: 11 items, 10 planted; 2 attempt(s); FAILED: 1 planted error(s) passed
 
 ## Plain text, and why
 
@@ -146,6 +147,10 @@
 - פירות מקורמלים עם גלידה וניל: "3 תאנים" fig (no members)
 - פירות מקורמלים עם גלידה וניל: "4 אפרסקים" peach (499: member-gone)
 
+### not judged as it is now (1)
+
+- סלט וולדורף: "1 קופסאת אננס משומר" pineapple-cut product 3564
+
 ## Not sold by the shop
 
 - 1 דלעת ספגטי: דלעת במילוי דלעת ספגטי ופטריות
@@ -184,7 +189,3 @@
 - קורט אגוז מוסקט: רושטי עם תרד מוקפץ וביצת עין, פולנטה עם אספרגוס ופטריות
 - רבע כוס שומשום: סלט כרוב לבן שקדים ושומשום קלוי
 - שערות חלבה: עוגה בחושה עם שמן זית וחלווה
-
-## Products a picker named that are not members (for the next proposal)
-
-- pear "3 אגסים": 1255683 מיקס אגסים
