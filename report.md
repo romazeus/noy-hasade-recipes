@@ -1,15 +1,15 @@
-# Recipe links: run of 2026-11-08T19:31:17.172Z
+# Recipe links: run of 2026-11-10T09:51:08.681Z
 
 **Published.**
 
 - live recipes: 65; distinct live lines: 749
-- lines served with products: 679; lines marked not sold or not a shop item: 57
+- lines served with products: 681; lines marked not sold or not a shop item: 57
 - verdicts on record: 1543; planted products: 43
 
 ## The judges, proven on planted errors
 
-- r1-picker-01: 12 items, 10 planted; 1 attempt(s); passed
-- r1-critic-01: 22 items, 10 planted; 1 attempt(s); passed
+- r1-picker-01: 9 items, 10 planted; 1 attempt(s); passed
+- r1-critic-01: 12 items, 10 planted; 1 attempt(s); passed
 
 ## Plain text, and why
 
@@ -57,7 +57,7 @@
 - עוגת גבינה ופירות: "100 גרם חמאה ללא מלח מומסת" butter product 1077497 (critic: השורה מבקשת חמאה ללא מלח, המוצר מלוח)
 - … 31 more
 
-### the critic refused the order (22)
+### the critic refused the order (21)
 
 - מגולגלות חציל במילוי ריקוטה ברוטב עגבניות עשיר: "1-2 חצילים יפים ומוצקים של נוי השדה" eggplant product 867 (critic: חצילונים קטנים למגולגלות של חצילים יפים, וכמות מוטלת בספק)
 - קישואים וזוקיני צלויים עם גבינת גרנה פדנו: "2 קישואים ירוק" zucchini product 613 (critic: השורה מבקשת קישוא ירוק, המוצר קישוא עגול)
@@ -71,7 +71,6 @@
 - עוגת גבינה ופירות: "100 גרם חמאה ללא מלח מומסת" butter product 274987 (critic: השורה מבקשת חמאה ללא מלח, חמאה רכה למריחה לא מוכחת ללא מלח)
 - בצלים ממולאים בשר ומקורמלים בתנור: "קופסא עגבניות מרוסקות" tomatoes-crushed product 1002157 (critic: עגבניות חתוכות דק (פולפה) במקום מרוסקות בלי סימון תחליף)
 - מרק עגבניות: "1 ק"ג עגבניות בשלות" tomato product 694 (critic: קילו מכוסה במארז אחד, היה צריך להיכנס לכפתור)
-- פירות מקורמלים עם גלידה וניל: "3 אגסים" pear product 266369 (critic: 3 אגסים ~0.44 ק"ג אבל הוזמן 1 ק"ג במקום חצי קילו)
 - סלט גזרים צבעונים: "רוטב דבש" honey product 1219228 (critic: רוטב דבש אינו דבש, צריך סימון תחליף)
 - סלט גזרים צבעונים: "רוטב דבש" honey product 858719 (critic: השורה היא רוטב דבש, לא דבש)
 - סלט גזרים צבעונים: "רוטב דבש" honey product 1204967 (critic: השורה היא רוטב דבש, לא דבש; אין כמות)
@@ -82,9 +81,10 @@
 - סלט ירוקים ופיצוחים: "1 בקבוק של רוטב רימונים ודבש" honey product 1204967 (critic: דבש אינו תחליף לרוטב רימונים ודבש)
 - סלט ירוקים ופיצוחים: "1 בקבוק של רוטב רימונים ודבש" honey product 814706 (critic: דבש אינו תחליף לרוטב רימונים ודבש)
 
-### the product is not in the catalogue (21)
+### the product is not in the catalogue (19)
 
 - greek-yogurt product 375216
+- yogurt-plain product 743823
 - black-pepper product 1102540
 - black-pepper-ground product 1102540
 - balsamic-vinegar product 1136437
@@ -94,11 +94,8 @@
 - rice product 724576
 - chickpeas-canned product 951381
 - breadcrumbs product 936327
-- parsley product 1153351
-- coriander product 1153348
 - mint product 2476
 - vine-leaves-fresh product 1152727
-- green-onion product 1198348
 - cauliflower product 270839
 - pear product 491
 - kiwi product 462
@@ -106,7 +103,7 @@
 - nectarine product 2580
 - peach product 499
 
-### a rule error (15)
+### a rule error (13)
 
 - zucchini product 869 (member-name: does not lead with "קישואים")
 - sweet-potato product 1111973 (member-name: does not lead with "בטטה")
@@ -121,8 +118,20 @@
 - pumpkin product 3013 (member-provides: provides 1000 g; the shop prints 1400)
 - pear product 2802 (member-by-weight: is sold by weight (both): provides must be by-weight)
 - pomegranate product 34477 (member-category: in none of 35)
-- קונפיטורת תות: "850 גרם תותים אדומים בשלים וחצויים" (line-price: תות שדה בטעם ענבים = ₪159.60)
-- מרנג תותים וקצפת: "1 ק"ג תותים" (line-price: תות שדה בטעם ענבים = ₪159.60)
+
+### judged wrong twice: blocked for good (11)
+
+- חומוס ביתי ב-10 דקות עבודה: "חומוס מקופסת שימורים 380 גרם" chickpeas-canned product 830753 (picker: not named (גרגירי חומוס מבושלים משימורים; מוקפא, ממרחי חומוס וחטיפים בחוץ))
+- עוגת גבינה מקושטת בפירות הארץ: "1 וחצי גבינת סימפוניה שמנת טבעית 16%" cream-cheese-16 product 360175 (picker: not named (גבינת שמנת טבעית 16% היחידה; שאר אחוזי שומן או בטעמים))
+- עוגת גבינה מקושטת בפירות הארץ: "1 וחצי גבינת סימפוניה שמנת טבעית 16%" cream-cheese-16 product 1053749 (critic: השורה מבקשת 16%, המוצר 25%)
+- טאבולה כרובית: "חצי כרובית לבנה" cauliflower product 248405 (picker: not named (כרובית לבנה שלמה; פרחים חתוכים ומוקפאת צורה אחרת))
+- טאבולה כרובית: "חצי כרובית לבנה" cauliflower product 248405 (picker: not named (כרובית לבנה שלמה; פרחים חתוכים ומוקפאת צורה אחרת))
+- טאבולה כרובית: "חצי כרובית סגולה" cauliflower product 248405 (picker: not named (כרובית לבנה שלמה כתחליף סביר לסגולה; פרחים חתוכים ומוקפאת הם צורה אחרת, כרוב אינו כרובית))
+- טאבולה כרובית: "2 כפות גדושות יוגורט" yogurt-plain product 936686 (picker: not named (יוגורט טבעי לא מתוק; בטעמים, קראנץ', שתיה וקולגן בחוץ))
+- קבב דג ברמונדי ישראלי על אפונה וקישואים: "150 גרם אפונה" peas-frozen product 1777 (critic: אפונה משומרת, ככל הנראה המנה צריכה אפונה טרייה או קפואה, לא בטוח)
+- קבב דג ברמונדי ישראלי על אפונה וקישואים: "150 גרם אפונה" peas-frozen product 1183546 (critic: אפונה של יכין היא שימורים, צורה אחרת)
+- פירות מקורמלים עם גלידה וניל: "3 אגסים" pear product 266369 (critic: 3 אגסים ~0.44 ק"ג אבל הוזמן 1 ק"ג במקום חצי קילו)
+- סלט כרובית עם חמוציות ושקדים: "2 ראשי כרובית" cauliflower product 248405 (picker: not named (ראש כרובית שלם; פרחים, מוקפאת וכרוב לא))
 
 ### no product of the ingredient passed (10)
 
@@ -136,19 +145,6 @@
 - עוגת גבינה ופירות: "דובדבנים" cherry (no members)
 - פירות מקורמלים עם גלידה וניל: "3 תאנים" fig (no members)
 - פירות מקורמלים עם גלידה וניל: "4 אפרסקים" peach (499: member-gone)
-
-### judged wrong twice: blocked for good (10)
-
-- חומוס ביתי ב-10 דקות עבודה: "חומוס מקופסת שימורים 380 גרם" chickpeas-canned product 830753 (picker: not named (גרגירי חומוס מבושלים משימורים; מוקפא, ממרחי חומוס וחטיפים בחוץ))
-- עוגת גבינה מקושטת בפירות הארץ: "1 וחצי גבינת סימפוניה שמנת טבעית 16%" cream-cheese-16 product 360175 (picker: not named (גבינת שמנת טבעית 16% היחידה; שאר אחוזי שומן או בטעמים))
-- עוגת גבינה מקושטת בפירות הארץ: "1 וחצי גבינת סימפוניה שמנת טבעית 16%" cream-cheese-16 product 1053749 (critic: השורה מבקשת 16%, המוצר 25%)
-- טאבולה כרובית: "חצי כרובית לבנה" cauliflower product 248405 (picker: not named (כרובית לבנה שלמה; פרחים חתוכים ומוקפאת צורה אחרת))
-- טאבולה כרובית: "חצי כרובית לבנה" cauliflower product 248405 (picker: not named (כרובית לבנה שלמה; פרחים חתוכים ומוקפאת צורה אחרת))
-- טאבולה כרובית: "חצי כרובית סגולה" cauliflower product 248405 (picker: not named (כרובית לבנה שלמה כתחליף סביר לסגולה; פרחים חתוכים ומוקפאת הם צורה אחרת, כרוב אינו כרובית))
-- טאבולה כרובית: "2 כפות גדושות יוגורט" yogurt-plain product 936686 (picker: not named (יוגורט טבעי לא מתוק; בטעמים, קראנץ', שתיה וקולגן בחוץ))
-- קבב דג ברמונדי ישראלי על אפונה וקישואים: "150 גרם אפונה" peas-frozen product 1777 (critic: אפונה משומרת, ככל הנראה המנה צריכה אפונה טרייה או קפואה, לא בטוח)
-- קבב דג ברמונדי ישראלי על אפונה וקישואים: "150 גרם אפונה" peas-frozen product 1183546 (critic: אפונה של יכין היא שימורים, צורה אחרת)
-- סלט כרובית עם חמוציות ושקדים: "2 ראשי כרובית" cauliflower product 248405 (picker: not named (ראש כרובית שלם; פרחים, מוקפאת וכרוב לא))
 
 ## Not sold by the shop
 
@@ -188,3 +184,7 @@
 - קורט אגוז מוסקט: רושטי עם תרד מוקפץ וביצת עין, פולנטה עם אספרגוס ופטריות
 - רבע כוס שומשום: סלט כרוב לבן שקדים ושומשום קלוי
 - שערות חלבה: עוגה בחושה עם שמן זית וחלווה
+
+## Products a picker named that are not members (for the next proposal)
+
+- pear "3 אגסים": 1255683 מיקס אגסים
