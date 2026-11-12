@@ -6890,7 +6890,7 @@
        "pricingType": "unitaskg",
        "isPack": true,
        "isHalf": false,
-       "showPriceBy": "כ-1.5 ק\"ג במארז "
+       "showPriceBy": "כ-1.4 ק\"ג במארז "
       },
       "variant": "מיקס",
       "provides": {
@@ -6905,7 +6905,7 @@
        "pricingType": "unitaskg",
        "isPack": true,
        "isHalf": false,
-       "showPriceBy": " כ-1.2 ק\"ג במארז"
+       "showPriceBy": " כ-1.1 ק\"ג במארז"
       },
       "variant": "תמר",
       "provides": {
@@ -6920,7 +6920,7 @@
        "pricingType": "unitaskg",
        "isPack": true,
        "isHalf": true,
-       "showPriceBy": "כ-1.1 ק\"ג במארז"
+       "showPriceBy": "כ-1.5 ק\"ג במארז"
       },
       "variant": "כתום",
       "provides": {
@@ -6965,7 +6965,7 @@
        "pricingType": "unitaskg",
        "isPack": true,
        "isHalf": true,
-       "showPriceBy": " כ-1.1 ק\"ג במארז"
+       "showPriceBy": " כ-1.3 ק\"ג במארז"
       },
       "variant": "וויטני",
       "provides": {
@@ -6996,7 +6996,7 @@
        "pricingType": "unitaskg",
        "isPack": true,
        "isHalf": false,
-       "showPriceBy": " כ-1.2 ק\"ג במארז"
+       "showPriceBy": " כ-1.1 ק\"ג במארז"
       },
       "variant": "רגיל",
       "provides": {
@@ -7021,7 +7021,7 @@
        "pricingType": "unitaskg",
        "isPack": true,
        "isHalf": false,
-       "showPriceBy": "כ-1.5 ק\"ג במארז "
+       "showPriceBy": "כ-1.4 ק\"ג במארז "
       },
       "variant": "רגיל",
       "provides": {
@@ -7061,7 +7061,7 @@
        "pricingType": "both",
        "isPack": false,
        "isHalf": false,
-       "showPriceBy": "כ-700 גרם ליחידה"
+       "showPriceBy": "כ-800 גרם ליחידה"
       },
       "variant": "ערמונים",
       "provides": "by-weight"
@@ -7073,7 +7073,7 @@
        "pricingType": "unitaskg",
        "isPack": false,
        "isHalf": false,
-       "showPriceBy": "כ-1.3 ק\"ג ליחידה"
+       "showPriceBy": "כ-1.8 ק\"ג ליחידה"
       },
       "variant": "אישית",
       "provides": {
@@ -7088,7 +7088,7 @@
        "pricingType": "unitaskg",
        "isPack": false,
        "isHalf": false,
-       "showPriceBy": "כ-1.4 ק\"ג ליחידה"
+       "showPriceBy": "כ-1 ק\"ג ליחידה"
       },
       "variant": "יפנית",
       "provides": {
@@ -7119,7 +7119,7 @@
        "pricingType": "unitaskg",
        "isPack": false,
        "isHalf": false,
-       "showPriceBy": "כ-1.4 ק\"ג ליחידה"
+       "showPriceBy": "כ-1 ק\"ג ליחידה"
       },
       "variant": "רגיל",
       "provides": {
@@ -8240,7 +8240,7 @@
        "pricingType": "unitaskg",
        "isPack": false,
        "isHalf": false,
-       "showPriceBy": "כ-1 ק\"ג ליחידה"
+       "showPriceBy": "כ-1.5 ק\"ג ליחידה"
       },
       "variant": "רגיל",
       "provides": {
@@ -8796,7 +8796,7 @@
        "pricingType": "unitaskg",
        "isPack": false,
        "isHalf": false,
-       "showPriceBy": "כ-600 גרם ליחידה"
+       "showPriceBy": "כ-1.2 ק\"ג ליחידה"
       },
       "variant": "רגיל",
       "provides": {
@@ -9003,6 +9003,18 @@
        "showPriceBy": ""
       },
       "variant": "יונתן",
+      "provides": "by-weight"
+     },
+     {
+      "id": "1274973",
+      "name": "תפוח עץ קרימסון סנו",
+      "sale": {
+       "pricingType": "both",
+       "isPack": false,
+       "isHalf": false,
+       "showPriceBy": ""
+      },
+      "variant": "קרימסון סנו",
       "provides": "by-weight"
      }
     ],
@@ -9237,7 +9249,7 @@
        "pricingType": "unitaskg",
        "isPack": true,
        "isHalf": false,
-       "showPriceBy": "כ-1.5 ק\"ג במארז"
+       "showPriceBy": "כ-1.3 ק\"ג במארז"
       },
       "variant": "אדורה",
       "provides": {
@@ -9262,7 +9274,7 @@
        "pricingType": "unitaskg",
        "isPack": true,
        "isHalf": false,
-       "showPriceBy": "כ-1.3 ק\"ג במארז"
+       "showPriceBy": "כ-1.2 ק\"ג במארז"
       },
       "variant": "אוטום קריספ",
       "provides": {
@@ -9287,7 +9299,7 @@
        "pricingType": "unitaskg",
        "isPack": true,
        "isHalf": false,
-       "showPriceBy": "כ-1.5 ק\"ג במארז"
+       "showPriceBy": "כ-1.3 ק\"ג במארז"
       },
       "variant": "קטן",
       "provides": {
@@ -18007,8 +18019,8 @@
    "critic": true
   },
   "[\"1 פפאיה כתומה\",\"papaya\",\"1count\",\"all\",0]#519": {
-   "h": "90xu4cwt7s.x051t8e933",
-   "at": "2026-11-03T21:01:38.588Z",
+   "h": "156nvskcm6c.afd0b3l0yi",
+   "at": "2026-11-12T18:56:51.707Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -18363,24 +18375,24 @@
    "std": 2
   },
   "[\"סלסלת עגבניות שרי\",\"cherry-tomato\",\"1package\",\"all\",0]#2574": {
-   "h": "1daer01vglf.no6i5rfwjm",
-   "at": "2026-11-03T21:01:38.588Z",
+   "h": "1xhnp4bzmbx.4x46txfzxq",
+   "at": "2026-11-12T18:56:51.707Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"סלסלת עגבניות שרי\",\"cherry-tomato\",\"1package\",\"all\",0]#2558": {
-   "h": "1gw2tt0mbe3.25cdixqly1h",
-   "at": "2026-11-03T21:01:38.588Z",
+   "h": "1na9zhrtczc.1gl0ztrf0tf",
+   "at": "2026-11-12T18:56:51.707Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"סלסלת עגבניות שרי\",\"cherry-tomato\",\"1package\",\"all\",0]#2298": {
-   "h": "1z5vqcrtkz2.iddz9kh1c4",
-   "at": "2026-11-03T21:01:38.588Z",
+   "h": "s54gbb7n33.26eawlp94dy",
+   "at": "2026-11-12T18:56:51.707Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -18388,7 +18400,7 @@
   },
   "[\"סלסלת עגבניות שרי\",\"cherry-tomato\",\"1package\",\"all\",0]#3015": {
    "h": "vrofxl6je.1y22qqeznwe",
-   "at": "2026-11-03T21:01:38.588Z",
+   "at": "2026-11-12T18:56:51.707Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -18396,15 +18408,15 @@
   },
   "[\"סלסלת עגבניות שרי\",\"cherry-tomato\",\"1package\",\"all\",0]#2560": {
    "h": "bak7p92eu9.iaaifqyhui",
-   "at": "2026-11-03T21:01:38.588Z",
+   "at": "2026-11-12T18:56:51.707Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"סלסלת עגבניות שרי\",\"cherry-tomato\",\"1package\",\"all\",0]#22512": {
-   "h": "1pbyole8eg.21x4tyz821v",
-   "at": "2026-11-03T21:01:38.588Z",
+   "h": "14x9mghltor.2eylav3rz2f",
+   "at": "2026-11-12T18:56:51.707Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -19479,24 +19491,24 @@
    "critic": true
   },
   "[\"1 כוס עגבניות שרי חצויות\",\"cherry-tomato\",\"1package\",\"all\",0]#2574": {
-   "h": "e2no2xyn0g.10tzivlnzdz",
-   "at": "2026-11-03T21:01:38.588Z",
+   "h": "3eldldctn5.23w14rnxb2n",
+   "at": "2026-11-12T18:56:51.707Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"1 כוס עגבניות שרי חצויות\",\"cherry-tomato\",\"1package\",\"all\",0]#2558": {
-   "h": "183ubjzx0fa.1a5u6su7tjx",
-   "at": "2026-11-03T21:01:38.588Z",
+   "h": "19cqhkiw8bq.138d9fgovuv",
+   "at": "2026-11-12T18:56:51.707Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"1 כוס עגבניות שרי חצויות\",\"cherry-tomato\",\"1package\",\"all\",0]#2298": {
-   "h": "c08zkcqtlo.vgzl7its7x",
-   "at": "2026-11-03T21:01:38.588Z",
+   "h": "1ll5pq3wow.bfzgov4dp5",
+   "at": "2026-11-12T18:56:51.707Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -19504,7 +19516,7 @@
   },
   "[\"1 כוס עגבניות שרי חצויות\",\"cherry-tomato\",\"1package\",\"all\",0]#3015": {
    "h": "ay46h8n8wv.wcg35qbv9k",
-   "at": "2026-11-03T21:01:38.588Z",
+   "at": "2026-11-12T18:56:51.707Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -19512,15 +19524,15 @@
   },
   "[\"1 כוס עגבניות שרי חצויות\",\"cherry-tomato\",\"1package\",\"all\",0]#2560": {
    "h": "1pocpeivotw.3o768boqeh",
-   "at": "2026-11-03T21:01:38.588Z",
+   "at": "2026-11-12T18:56:51.707Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"1 כוס עגבניות שרי חצויות\",\"cherry-tomato\",\"1package\",\"all\",0]#22512": {
-   "h": "20y35ydiny.5l98fe4hwv",
-   "at": "2026-11-03T21:01:38.588Z",
+   "h": "25b99gl6bgl.2ejjin44eby",
+   "at": "2026-11-12T18:56:51.707Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -19690,8 +19702,8 @@
    "critic": true
   },
   "[\"עגבניות שרי תמר\",\"cherry-tomato-tamar\",\"1package\",\"all\",0]#2558": {
-   "h": "12csncysrpe.yg2iwecnl0",
-   "at": "2026-10-22T15:18:22.432Z",
+   "h": "2b0cszkvc33.22oxlb8r41e",
+   "at": "2026-11-12T18:56:51.707Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -19734,8 +19746,8 @@
    "std": 2
   },
   "[\"20 עגבניות שרי מיקס\",\"cherry-tomato-mix\",\"1package\",\"all\",0]#2574": {
-   "h": "14xq84roqi7.ikn9f3bico",
-   "at": "2026-10-22T15:18:22.432Z",
+   "h": "1uxsohu2afp.u51zb4rt52",
+   "at": "2026-11-12T18:56:51.707Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -20826,8 +20838,8 @@
    "critic": true
   },
   "[\"2 דלעת יפנית\",\"pumpkin-japanese\",\"2count\",\"all\",0]#3013": {
-   "h": "50unmzgrhm.24kubk31wg0",
-   "at": "2026-11-03T21:01:38.588Z",
+   "h": "20cd7wv3pv6.duqfrdtyda",
+   "at": "2026-11-12T18:56:51.707Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -21097,8 +21109,8 @@
    "why": "critic: 150 גרם נקראו כאריזה, משקל האריזה לא ידוע"
   },
   "[\"1 כוס ענבים שחורים\",\"grapes-black\",\"1package\",\"all\",0]#2586": {
-   "h": "1qzmcey7jtw.1g3aomr0pkw",
-   "at": "2026-11-03T21:01:38.588Z",
+   "h": "idyx8fbtco.832av1vcra",
+   "at": "2026-11-12T18:56:51.707Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -21283,7 +21295,7 @@
   },
   "[\"כ-600 גרם דלעת\",\"pumpkin\",\"600g\",\"all\",0]#615": {
    "h": "23k0e6jagma.1iaoaj8axi",
-   "at": "2026-11-03T21:01:38.588Z",
+   "at": "2026-11-12T18:56:51.707Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -22983,7 +22995,7 @@
   },
   "[\"3 תפוחים קלופים וחתוכים לקוביות\",\"apple\",\"3count\",\"all\",0]#444": {
    "h": "102n9ngtd6e.n82z8wevb3",
-   "at": "2026-10-14T23:15:34.565Z",
+   "at": "2026-11-12T18:56:51.707Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -22991,7 +23003,7 @@
   },
   "[\"3 תפוחים קלופים וחתוכים לקוביות\",\"apple\",\"3count\",\"all\",0]#446": {
    "h": "1ze62t8lfpp.1jiai8bihga",
-   "at": "2026-10-14T23:15:34.565Z",
+   "at": "2026-11-12T18:56:51.707Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -22999,7 +23011,7 @@
   },
   "[\"3 תפוחים קלופים וחתוכים לקוביות\",\"apple\",\"3count\",\"all\",0]#557": {
    "h": "3v4bm5fbhf.2equ9o5g4jq",
-   "at": "2026-10-14T23:15:34.565Z",
+   "at": "2026-11-12T18:56:51.707Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -23007,7 +23019,7 @@
   },
   "[\"3 תפוחים קלופים וחתוכים לקוביות\",\"apple\",\"3count\",\"all\",0]#719561": {
    "h": "wzq1utdyeb.1iowdzugf82",
-   "at": "2026-10-14T23:15:34.565Z",
+   "at": "2026-11-12T18:56:51.707Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -23015,7 +23027,7 @@
   },
   "[\"3 תפוחים קלופים וחתוכים לקוביות\",\"apple\",\"3count\",\"all\",0]#533": {
    "h": "13nxd3uvrk1.jonxxr40sd",
-   "at": "2026-10-14T23:15:34.565Z",
+   "at": "2026-11-12T18:56:51.707Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -23023,7 +23035,7 @@
   },
   "[\"3 תפוחים קלופים וחתוכים לקוביות\",\"apple\",\"3count\",\"all\",0]#514693": {
    "h": "1owuqt3vvy8.1ctpr76zm1l",
-   "at": "2026-10-14T23:15:34.565Z",
+   "at": "2026-11-12T18:56:51.707Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -23031,7 +23043,7 @@
   },
   "[\"3 תפוחים קלופים וחתוכים לקוביות\",\"apple\",\"3count\",\"all\",0]#601491": {
    "h": "1dhbf0pwxez.1l1wdihcd2u",
-   "at": "2026-10-14T23:15:34.565Z",
+   "at": "2026-11-12T18:56:51.707Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -23763,8 +23775,8 @@
    "critic": true
   },
   "[\"ענבים ירוקים\",\"grapes-green\",\"1package\",\"all\",0]#31651": {
-   "h": "1sbkoupay42.1rnrst18aru",
-   "at": "2026-11-03T21:01:38.588Z",
+   "h": "1h6m224f3k4.aevfgznzq9",
+   "at": "2026-11-12T18:56:51.707Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -24278,7 +24290,7 @@
   },
   "[\"150 גרם דלעת\",\"pumpkin\",\"150g\",\"all\",0]#615": {
    "h": "1f484k73pfc.1ptyrll6ado",
-   "at": "2026-11-03T21:01:38.588Z",
+   "at": "2026-11-12T18:56:51.707Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -24754,8 +24766,8 @@
    "critic": true
   },
   "[\"פירות יער, ענבים בצבעים, קיווי, משמשים, נקטרינות\",\"grapes-mix\",\"to-taste\",\"all\",0]#1229171": {
-   "h": "2eq1xynmuda.suqludiwen",
-   "at": "2026-11-03T21:01:38.588Z",
+   "h": "rx0rafifg5.1d3p7i67yez",
+   "at": "2026-11-12T18:56:51.707Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -24763,7 +24775,7 @@
   },
   "[\"פירות יער, ענבים בצבעים, קיווי, משמשים, נקטרינות\",\"grapes-mix\",\"to-taste\",\"all\",0]#1229187": {
    "h": "18gtocgu2z0.j0vfhqo8ea",
-   "at": "2026-11-03T21:01:38.588Z",
+   "at": "2026-11-12T18:56:51.707Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -26689,11 +26701,11 @@
   },
   "[\"חצי כרובית סגולה\",\"cauliflower\",\"0.5count\",\"all\",1]#248405": {
    "h": "1zoxgxhnxzm.20k2uhyhwsy",
-   "at": "2026-11-03T21:01:38.588Z",
-   "strikes": 2,
+   "at": "2026-11-12T18:56:51.707Z",
+   "strikes": 3,
    "std": 2,
    "picker": false,
-   "why": "picker: not named (כרובית לבנה שלמה כתחליף סביר לסגולה; פרחים חתוכים ומוקפאת הם צורה אחרת, כרוב אינו כרובית)",
+   "why": "picker: not named (כרובית לבנה כתחליף סביר לסגולה בטאבולה; פרחים חתוכים ומוקפא לא)",
    "critic": true
   },
   "[\"1 שמנת לבישול 15%\",\"cream-cooking-15\",\"250ml\",\"all\",0]#1971": {
@@ -27550,11 +27562,11 @@
   },
   "[\"2 ראשי כרובית\",\"cauliflower\",\"2count\",\"all\",0]#248405": {
    "h": "8jajzedhor.28iqiel1c09",
-   "at": "2026-11-03T21:01:38.588Z",
-   "strikes": 2,
+   "at": "2026-11-12T18:56:51.707Z",
+   "strikes": 3,
    "std": 2,
    "picker": false,
-   "why": "picker: not named (ראש כרובית שלם; פרחים, מוקפאת וכרוב לא)",
+   "why": "picker: not named (ראש כרובית טרי; פרחים חתוכים, מוקפא וכרוב לא)",
    "critic": true
   },
   "[\"בצל סגול\",\"red-onion\",\"1count\",\"all\",0]#1259127": {
@@ -27913,11 +27925,11 @@
   },
   "[\"חצי כרובית לבנה\",\"cauliflower\",\"1count\",\"all\",0]#248405": {
    "h": "57eotuk637.pbu3ohrw3c",
-   "at": "2026-11-03T21:01:38.588Z",
-   "strikes": 3,
+   "at": "2026-11-12T18:56:51.707Z",
+   "strikes": 4,
    "std": 2,
    "picker": false,
-   "why": "picker: not named (כרובית לבנה שלמה; פרחים חתוכים ומוקפאת צורה אחרת)",
+   "why": "picker: not named (כרובית שלמה לטאבולה; מוקפא ופרחים חתוכים לא)",
    "critic": false
   },
   "[\"מיץ סחוט מלימון אחד\",\"lemon\",\"1count\",\"all\",0]#222974": {
@@ -28552,24 +28564,24 @@
    "critic": true
   },
   "[\"כ-600 גרם דלעת\",\"pumpkin\",\"600g\",\"all\",0]#617": {
-   "h": "24u23mqlobs.20bv7wqewqh",
-   "at": "2026-11-03T21:01:38.588Z",
+   "h": "ixnmou74h0.10vbat5ee7b",
+   "at": "2026-11-12T18:56:51.707Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"כ-600 גרם דלעת\",\"pumpkin\",\"600g\",\"all\",0]#3007": {
-   "h": "2439h78t8pn.nf9ktomeq9",
-   "at": "2026-11-03T21:01:38.588Z",
+   "h": "12j8fu65yel.1kw609gl4tx",
+   "at": "2026-11-12T18:56:51.707Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"כ-600 גרם דלעת\",\"pumpkin\",\"600g\",\"all\",0]#3013": {
-   "h": "2arnx93sj91.1qchvo0sz1r",
-   "at": "2026-11-03T21:01:38.588Z",
+   "h": "6v261090f3.2y4a0vnk19",
+   "at": "2026-11-12T18:56:51.707Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -28835,24 +28847,24 @@
    "std": 2
   },
   "[\"150 גרם דלעת\",\"pumpkin\",\"150g\",\"all\",0]#617": {
-   "h": "15r5es10zqf.z0qppf9kpq",
-   "at": "2026-11-03T21:01:38.588Z",
+   "h": "3qd9f1hvwd.1oezilrvxc5",
+   "at": "2026-11-12T18:56:51.707Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"150 גרם דלעת\",\"pumpkin\",\"150g\",\"all\",0]#3007": {
-   "h": "fq7q05khap.igop9iej7g",
-   "at": "2026-11-03T21:01:38.588Z",
+   "h": "78avwqt19q.1qegg1zv4qj",
+   "at": "2026-11-12T18:56:51.707Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
    "critic": true
   },
   "[\"150 גרם דלעת\",\"pumpkin\",\"150g\",\"all\",0]#3013": {
-   "h": "1f7o2e0w46m.2g7wtgwmfp",
-   "at": "2026-11-03T21:01:38.588Z",
+   "h": "1hc3ugef5v8.2771bl89678",
+   "at": "2026-11-12T18:56:51.707Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -29076,7 +29088,7 @@
   },
   "[\"3 תפוחים קלופים וחתוכים לקוביות\",\"apple\",\"3count\",\"all\",0]#1056028": {
    "h": "1xnz5mjm3pp.7acy5soa7k",
-   "at": "2026-10-14T23:15:34.565Z",
+   "at": "2026-11-12T18:56:51.707Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -29483,8 +29495,8 @@
    "critic": true
   },
   "[\"חצי כרובית סגולה\",\"cauliflower\",\"0.5count\",\"all\",1]#601": {
-   "h": "1gp5io23m2q.w368swa3qi",
-   "at": "2026-11-03T21:01:38.588Z",
+   "h": "12gh4wuzo3s.1lckd3izwo0",
+   "at": "2026-11-12T18:56:51.707Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -29499,17 +29511,17 @@
    "critic": true
   },
   "[\"חצי כרובית לבנה\",\"cauliflower\",\"1count\",\"all\",0]#601": {
-   "h": "7yqt48obqa.819potqzy8",
-   "at": "2026-11-03T21:01:38.588Z",
-   "strikes": 1,
+   "h": "1l8qmgqyich.4unyg0cfct",
+   "at": "2026-11-12T18:56:51.707Z",
+   "strikes": 2,
    "std": 2,
    "picker": true,
    "critic": false,
-   "why": "critic: השורה מבקשת חצי כרובית אך הכמות נקראה 1"
+   "why": "critic: השורה מבקשת חצי כרובית, הכמות נקראה כ-1 יחידה"
   },
   "[\"2 ראשי כרובית\",\"cauliflower\",\"2count\",\"all\",0]#601": {
-   "h": "zgzm82nzor.1sgnxqwq5sv",
-   "at": "2026-11-03T21:01:38.588Z",
+   "h": "1usl3kp31in.2azew4jfv9m",
+   "at": "2026-11-12T18:56:51.707Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -29646,6 +29658,14 @@
   "[\"פירות יער, ענבים בצבעים, קיווי, משמשים, נקטרינות\",\"kiwi\",\"to-taste\",\"all\",0]#692254": {
    "h": "1aay7mlrw0f.bri784b1s8",
    "at": "2026-11-12T03:00:20.648Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
+  },
+  "[\"3 תפוחים קלופים וחתוכים לקוביות\",\"apple\",\"3count\",\"all\",0]#1274973": {
+   "h": "tqmnxsob22.1zma0lx6pyt",
+   "at": "2026-11-12T18:56:51.707Z",
    "strikes": 0,
    "std": 2,
    "picker": true,
@@ -29872,7 +29892,7 @@
  "meta": {
   "catalogSize": 1767,
   "recipeCount": 65,
-  "at": "2026-11-12T03:00:20.648Z"
+  "at": "2026-11-12T18:56:51.707Z"
  },
  "skipped": {}
 }
