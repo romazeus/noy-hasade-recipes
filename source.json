@@ -6678,6 +6678,24 @@
       "override": {
        "provides": "מארז של כ-360 גרם: כמו חציל אחד"
       }
+     },
+     {
+      "id": "686",
+      "name": "חציל מנומר",
+      "sale": {
+       "pricingType": "unitaskg",
+       "isPack": false,
+       "isHalf": false,
+       "showPriceBy": ""
+      },
+      "variant": "מנומר",
+      "provides": {
+       "amount": 1,
+       "unit": "count"
+      },
+      "override": {
+       "provides": "מחיר ליחידה: חציל אחד (כ-340 גרם)"
+      }
      }
     ],
     "rejected": []
@@ -9642,9 +9660,28 @@
     "allowedCategories": [
      35
     ],
-    "members": [],
+    "members": [
+     {
+      "id": "606802",
+      "name": "תאנים ברזילאיות",
+      "sale": {
+       "pricingType": "unit",
+       "isPack": true,
+       "isHalf": false,
+       "showPriceBy": "כ-500 גרם במארז"
+      },
+      "variant": "ברזילאיות",
+      "provides": {
+       "amount": 8,
+       "unit": "count"
+      },
+      "override": {
+       "provides": "מארז של כ-500 גרם: כ-8 תאנים"
+      }
+     }
+    ],
     "rejected": [],
-    "note": "אין תאנים בקטלוג היום"
+    "note": "2026-11-16: תאנים ברזילאיות (מארז כ-500 גרם) הן תאנים טריות"
    },
    "cherry": {
     "label": "דובדבנים",
@@ -22878,7 +22915,7 @@
   },
   "[\"1-2 חצילים יפים ומוצקים של נוי השדה\",\"eggplant\",\"2count\",\"all\",0]#585": {
    "h": "2ebxfkxoe58.4sarrey0sr",
-   "at": "2026-10-11T16:58:10.356Z",
+   "at": "2026-11-16T20:30:04.012Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -22886,7 +22923,7 @@
   },
   "[\"1-2 חצילים יפים ומוצקים של נוי השדה\",\"eggplant\",\"2count\",\"all\",0]#662": {
    "h": "g9bm5eyiw3.1wr0gqadn6n",
-   "at": "2026-10-11T16:58:10.356Z",
+   "at": "2026-11-16T20:30:04.012Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -23333,7 +23370,7 @@
   },
   "[\"2 חצילים בינוניים\",\"eggplant\",\"2count\",\"all\",0]#585": {
    "h": "23y18e95nsf.vss8twoj8r",
-   "at": "2026-10-11T16:58:10.356Z",
+   "at": "2026-11-16T20:30:04.012Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -23341,7 +23378,7 @@
   },
   "[\"2 חצילים בינוניים\",\"eggplant\",\"2count\",\"all\",0]#662": {
    "h": "b5qikr2byj.waxddgcvdo",
-   "at": "2026-10-11T16:58:10.356Z",
+   "at": "2026-11-16T20:30:04.012Z",
    "strikes": 0,
    "picker": true,
    "critic": true,
@@ -26851,8 +26888,8 @@
   },
   "[\"2 חצילים בינוניים\",\"eggplant\",\"2count\",\"all\",0]#867": {
    "h": "i03snxyj1q.1gex534xdj1",
-   "at": "2026-10-11T16:58:10.356Z",
-   "strikes": 1,
+   "at": "2026-11-16T20:30:04.012Z",
+   "strikes": 2,
    "std": 2,
    "picker": true,
    "critic": false,
@@ -27749,8 +27786,8 @@
   },
   "[\"1-2 חצילים יפים ומוצקים של נוי השדה\",\"eggplant\",\"2count\",\"all\",0]#867": {
    "h": "1sjrcrlzd1o.1pshsg5ub92",
-   "at": "2026-10-11T16:58:10.356Z",
-   "strikes": 1,
+   "at": "2026-11-16T20:30:04.012Z",
+   "strikes": 2,
    "std": 2,
    "picker": true,
    "critic": false,
@@ -29670,6 +29707,38 @@
    "std": 2,
    "picker": true,
    "critic": true
+  },
+  "[\"3 תאנים\",\"fig\",\"3count\",\"all\",0]#606802": {
+   "h": "2g06oozr2zt.12tr8ef7ob9",
+   "at": "2026-11-16T20:30:04.012Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
+  },
+  "[\"1-2 חצילים יפים ומוצקים של נוי השדה\",\"eggplant\",\"2count\",\"all\",0]#686": {
+   "h": "1vd9v08ojb4.1ob3ioxc8x8",
+   "at": "2026-11-16T20:30:04.012Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
+  },
+  "[\"תאנים / נקטרינה / אפרסק / תפוח ירוק\",\"fig\",\"to-taste\",\"any\",0]#606802": {
+   "h": "1qul3dl16ej.19vxegdpj4i",
+   "at": "2026-11-16T20:30:04.012Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
+  },
+  "[\"2 חצילים בינוניים\",\"eggplant\",\"2count\",\"all\",0]#686": {
+   "h": "1u7gdn5udkv.1iejnhgjc02",
+   "at": "2026-11-16T20:30:04.012Z",
+   "strikes": 0,
+   "std": 2,
+   "picker": true,
+   "critic": true
   }
  },
  "plants": [
@@ -29890,9 +29959,9 @@
   }
  ],
  "meta": {
-  "catalogSize": 1767,
+  "catalogSize": 1772,
   "recipeCount": 65,
-  "at": "2026-11-12T18:56:51.707Z"
+  "at": "2026-11-16T20:30:04.012Z"
  },
  "skipped": {}
 }

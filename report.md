@@ -1,15 +1,15 @@
-# Recipe links: run of 2026-11-12T18:56:51.707Z
+# Recipe links: run of 2026-11-16T20:30:04.012Z
 
 **Published.**
 
 - live recipes: 65; distinct live lines: 749
-- lines served with products: 671; lines marked not sold or not a shop item: 57
-- verdicts on record: 1545; planted products: 43
+- lines served with products: 672; lines marked not sold or not a shop item: 57
+- verdicts on record: 1549; planted products: 43
 
 ## The judges, proven on planted errors
 
-- r1-picker-01: 21 items, 10 planted; 1 attempt(s); passed
-- r1-critic-01: 35 items, 10 planted; 1 attempt(s); passed
+- r1-picker-01: 13 items, 10 planted; 1 attempt(s); passed
+- r1-critic-01: 14 items, 10 planted; 1 attempt(s); passed
 
 ## Plain text, and why
 
@@ -57,7 +57,7 @@
 - עוגת גבינה ופירות: "100 גרם חמאה ללא מלח מומסת" butter product 1077497 (critic: השורה מבקשת חמאה ללא מלח, המוצר מלוח)
 - … 31 more
 
-### the product is not in the catalogue (21)
+### the product is not in the catalogue (23)
 
 - greek-yogurt product 375216
 - yogurt-plain product 743823
@@ -74,6 +74,8 @@
 - mint product 2476
 - vine-leaves-fresh product 1152727
 - red-onion product 1259127
+- zucchini product 613
+- potato product 2296
 - cauliflower product 270839
 - pear product 491
 - kiwi product 462
@@ -81,7 +83,7 @@
 - nectarine product 2580
 - peach product 499
 
-### no product of the ingredient passed (20)
+### no product of the ingredient passed (19)
 
 - בוראטה ואפרסקים צרובים של קיץ: "אפרסקים או נקטרינות של נוי השדה" peach (499: member-gone)
 - תותים ממולאים בקרם מסקרפונה: "2-3 כפות אבקת סוכר (לפי הטעם)" powdered-sugar (1090025: member-gone)
@@ -98,19 +100,15 @@
 - העוגה הפלאפית: "1 כפית אבקת סוכר" powdered-sugar (1090025: member-gone)
 - סופגניית פבלובה: "2 כפות אבקת סוכר" powdered-sugar (1090025: member-gone)
 - עוגת דבש חגיגית מקושטת בפירות טריים: "100 גרם אבקת סוכר (1 כוס פחות 2 כפות)" powdered-sugar (1090025: member-gone)
-- עוגת דבש חגיגית מקושטת בפירות טריים: "תאנים / נקטרינה / אפרסק / תפוח ירוק" fig (one option of an "any" line: no members)
+- עוגת דבש חגיגית מקושטת בפירות טריים: "תאנים / נקטרינה / אפרסק / תפוח ירוק" nectarine (one option of an "any" line: 2580: member-gone)
 - עוגת גבינה ופירות: "100 גרם אבקת סוכר" powdered-sugar (1090025: member-gone)
 - עוגת גבינה ופירות: "דובדבנים" cherry (no members)
-- פירות מקורמלים עם גלידה וניל: "3 תאנים" fig (no members)
 - פירות מקורמלים עם גלידה וניל: "4 אפרסקים" peach (499: member-gone)
 
-### the critic refused the order (20)
+### the critic refused the order (17)
 
-- מגולגלות חציל במילוי ריקוטה ברוטב עגבניות עשיר: "1-2 חצילים יפים ומוצקים של נוי השדה" eggplant product 867 (critic: חצילונים קטנים למגולגלות של חצילים יפים, וכמות מוטלת בספק)
-- קישואים וזוקיני צלויים עם גבינת גרנה פדנו: "2 קישואים ירוק" zucchini product 613 (critic: השורה מבקשת קישוא ירוק, המוצר קישוא עגול)
 - לביבות תפוחי אדמה עם קרם פטה ותותים: "2 כפיות רוטב בלסמי" balsamic-vinegar product 1386 (critic: רוטב בלסמי אינו חומץ בלסמי, צריך סימון תחליף)
 - לביבות תפוחי אדמה עם קרם פטה ותותים: "2 כפיות רוטב בלסמי" balsamic-vinegar product 1386 (one option of an "any" line: critic: רוטב בלסמי אינו חומץ בלסמי, צריך סימון תחליף)
-- חציל צרוב עם טחינה ירוקה וסלט ירקות ישראלי: "2 חצילים בינוניים" eggplant product 867 (critic: 2 מארזי חצילונים במקום 2 חצילים, כמות לא ברורה)
 - טארט פטריות, מנגולד וגבינות: "120 גרם חמאה קרה חתוכה לקוביות" butter product 274987 (critic: חמאה קרה לקוביות, חמאה רכה למריחה לא מתאימה)
 - שטרודל גבינה ותפוחים עם קצפת ופירות יער: "250 גרם מיקס פירות יער" raspberry-red product 2588 (critic: השורה מבקשת מיקס פירות יער, פטל טרי לבד אינו המצרך ולא מסומן תחליף)
 - שטרודל גבינה ותפוחים עם קצפת ופירות יער: "250 גרם מיקס פירות יער" raspberry-red product 2588 (critic: השורה מבקשת מיקס פירות יער, פטל טרי לבד אינו המצרך ולא מסומן תחליף)
@@ -127,8 +125,10 @@
 - סלט ירוקים ופיצוחים: "1 בקבוק של רוטב רימונים ודבש" honey product 1204967 (critic: דבש אינו תחליף לרוטב רימונים ודבש)
 - סלט ירוקים ופיצוחים: "1 בקבוק של רוטב רימונים ודבש" honey product 814706 (critic: דבש אינו תחליף לרוטב רימונים ודבש)
 
-### judged wrong twice: blocked for good (12)
+### judged wrong twice: blocked for good (14)
 
+- מגולגלות חציל במילוי ריקוטה ברוטב עגבניות עשיר: "1-2 חצילים יפים ומוצקים של נוי השדה" eggplant product 867 (critic: חצילונים קטנים למגולגלות של חצילים יפים, וכמות מוטלת בספק)
+- חציל צרוב עם טחינה ירוקה וסלט ירקות ישראלי: "2 חצילים בינוניים" eggplant product 867 (critic: 2 מארזי חצילונים במקום 2 חצילים, כמות לא ברורה)
 - חומוס ביתי ב-10 דקות עבודה: "חומוס מקופסת שימורים 380 גרם" chickpeas-canned product 830753 (picker: not named (גרגירי חומוס מבושלים משימורים; מוקפא, ממרחי חומוס וחטיפים בחוץ))
 - עוגת גבינה מקושטת בפירות הארץ: "1 וחצי גבינת סימפוניה שמנת טבעית 16%" cream-cheese-16 product 360175 (picker: not named (גבינת שמנת טבעית 16% היחידה; שאר אחוזי שומן או בטעמים))
 - עוגת גבינה מקושטת בפירות הארץ: "1 וחצי גבינת סימפוניה שמנת טבעית 16%" cream-cheese-16 product 1053749 (critic: השורה מבקשת 16%, המוצר 25%)
