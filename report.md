@@ -1,15 +1,13 @@
-# Recipe links: run of 2026-11-16T20:30:04.012Z
+# Recipe links: run of 2026-11-17T22:24:12.245Z
 
 **Published.**
 
 - live recipes: 65; distinct live lines: 749
-- lines served with products: 672; lines marked not sold or not a shop item: 57
+- lines served with products: 680; lines marked not sold or not a shop item: 57
 - verdicts on record: 1549; planted products: 43
 
 ## The judges, proven on planted errors
 
-- r1-picker-01: 13 items, 10 planted; 1 attempt(s); passed
-- r1-critic-01: 14 items, 10 planted; 1 attempt(s); passed
 
 ## Plain text, and why
 
@@ -57,13 +55,11 @@
 - עוגת גבינה ופירות: "100 גרם חמאה ללא מלח מומסת" butter product 1077497 (critic: השורה מבקשת חמאה ללא מלח, המוצר מלוח)
 - … 31 more
 
-### the product is not in the catalogue (23)
+### the product is not in the catalogue (22)
 
-- greek-yogurt product 375216
 - yogurt-plain product 743823
 - black-pepper product 1102540
 - black-pepper-ground product 1102540
-- powdered-sugar product 1090025
 - balsamic-vinegar product 1136437
 - balsamic-cream product 1136442
 - tahini product 1570
@@ -71,39 +67,18 @@
 - rice product 724576
 - chickpeas-canned product 951381
 - breadcrumbs product 936327
+- pine-nuts product 719840
 - mint product 2476
 - vine-leaves-fresh product 1152727
-- red-onion product 1259127
 - zucchini product 613
 - potato product 2296
 - cauliflower product 270839
+- apple product 1274973
 - pear product 491
 - kiwi product 462
 - kiwi product 818336
 - nectarine product 2580
 - peach product 499
-
-### no product of the ingredient passed (19)
-
-- בוראטה ואפרסקים צרובים של קיץ: "אפרסקים או נקטרינות של נוי השדה" peach (499: member-gone)
-- תותים ממולאים בקרם מסקרפונה: "2-3 כפות אבקת סוכר (לפי הטעם)" powdered-sugar (1090025: member-gone)
-- תותים ממולאים בקרם מסקרפונה: "אבקת סוכר לקישוט" powdered-sugar (1090025: member-gone)
-- סופגניות עם קרם ותותים: "אבקת סוכר" powdered-sugar (1090025: member-gone)
-- עוגת גבינה מקושטת בפירות הארץ: "פירות יער, ענבים בצבעים, קיווי, משמשים, נקטרינות" nectarine (2580: member-gone)
-- עלי גפן, פלפלונים ובצלים: "30 עלי גפן טריים" vine-leaves-fresh (1152727: member-gone)
-- רושטי עם תרד מוקפץ וביצת עין: "8 יחידות אנשובי (לא חובה)" anchovies (1135444: rule)
-- עוגת לימון ופטל גבוהה: "אבקת סוכר" powdered-sugar (1090025: member-gone)
-- סלט חסות וגבינת בושה: "1 אפרסק" peach (499: member-gone)
-- סלט חסות וגבינת בושה: "4 דובדבנים" cherry (no members)
-- שטרודל גבינה ותפוחים עם קצפת ופירות יער: "אבקת סוכר לעיטור" powdered-sugar (1090025: member-gone)
-- שטרודל גבינה ותפוחים עם קצפת ופירות יער: "1 כף אבקת סוכר" powdered-sugar (1090025: member-gone)
-- העוגה הפלאפית: "1 כפית אבקת סוכר" powdered-sugar (1090025: member-gone)
-- סופגניית פבלובה: "2 כפות אבקת סוכר" powdered-sugar (1090025: member-gone)
-- עוגת דבש חגיגית מקושטת בפירות טריים: "100 גרם אבקת סוכר (1 כוס פחות 2 כפות)" powdered-sugar (1090025: member-gone)
-- עוגת דבש חגיגית מקושטת בפירות טריים: "תאנים / נקטרינה / אפרסק / תפוח ירוק" nectarine (one option of an "any" line: 2580: member-gone)
-- עוגת גבינה ופירות: "100 גרם אבקת סוכר" powdered-sugar (1090025: member-gone)
-- עוגת גבינה ופירות: "דובדבנים" cherry (no members)
-- פירות מקורמלים עם גלידה וניל: "4 אפרסקים" peach (499: member-gone)
 
 ### the critic refused the order (17)
 
@@ -142,10 +117,11 @@
 - פירות מקורמלים עם גלידה וניל: "3 אגסים" pear product 266369 (critic: 3 אגסים ~0.44 ק"ג אבל הוזמן 1 ק"ג במקום חצי קילו)
 - סלט כרובית עם חמוציות ושקדים: "2 ראשי כרובית" cauliflower product 248405 (picker: not named (ראש כרובית טרי; פרחים חתוכים, מוקפא וכרוב לא))
 
-### a rule error (10)
+### a rule error (11)
 
 - zucchini product 869 (member-name: does not lead with "קישואים")
 - sweet-potato product 1111973 (member-name: does not lead with "בטטה")
+- red-onion product 1259127 (member-by-weight: provides by-weight but is sold as unit)
 - anchovies product 1135444 (member-category: in none of 325)
 - anchovies product 1135455 (member-category: in none of 325)
 - avocado-ripe product 503 (member-name: does not lead with "אבוקדו בשל")
@@ -154,6 +130,20 @@
 - cream-cheese product 1228012 (member-name: does not lead with "גבינת שמנת")
 - pear product 2802 (member-by-weight: is sold by weight (both): provides must be by-weight)
 - pomegranate product 34477 (member-category: in none of 35)
+
+### no product of the ingredient passed (11)
+
+- ניוקי ברוטב תרד קטיפתי עם ברוקולי ולימון: "צנוברים קלויים" pine-nuts (719840: member-gone)
+- בוראטה ואפרסקים צרובים של קיץ: "אפרסקים או נקטרינות של נוי השדה" peach (499: member-gone)
+- עוגת גבינה מקושטת בפירות הארץ: "פירות יער, ענבים בצבעים, קיווי, משמשים, נקטרינות" nectarine (2580: member-gone)
+- עלי גפן, פלפלונים ובצלים: "30 עלי גפן טריים" vine-leaves-fresh (1152727: member-gone)
+- רושטי עם תרד מוקפץ וביצת עין: "8 יחידות אנשובי (לא חובה)" anchovies (1135444: rule)
+- סלט חסות וגבינת בושה: "1 אפרסק" peach (499: member-gone)
+- סלט חסות וגבינת בושה: "4 דובדבנים" cherry (no members)
+- עוגת דבש חגיגית מקושטת בפירות טריים: "תאנים / נקטרינה / אפרסק / תפוח ירוק" nectarine (one option of an "any" line: 2580: member-gone)
+- עוגת גבינה ופירות: "דובדבנים" cherry (no members)
+- בצלים ממולאים בשר ומקורמלים בתנור: "שליש כוס צנוברים" pine-nuts (719840: member-gone)
+- פירות מקורמלים עם גלידה וניל: "4 אפרסקים" peach (499: member-gone)
 
 ## Not sold by the shop
 
