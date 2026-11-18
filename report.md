@@ -1,4 +1,4 @@
-# Recipe links: run of 2026-11-17T22:24:12.245Z
+# Recipe links: run of 2026-11-18T21:57:49.895Z
 
 **Published.**
 
@@ -8,6 +8,8 @@
 
 ## The judges, proven on planted errors
 
+- r1-picker-01: 21 items, 10 planted; 1 attempt(s); passed
+- r1-critic-01: 32 items, 10 planted; 1 attempt(s); passed
 
 ## Plain text, and why
 
@@ -110,14 +112,14 @@
 - טאבולה כרובית: "חצי כרובית לבנה" cauliflower product 248405 (picker: not named (כרובית שלמה לטאבולה; מוקפא ופרחים חתוכים לא))
 - טאבולה כרובית: "חצי כרובית לבנה" cauliflower product 601 (critic: השורה מבקשת חצי כרובית, הכמות נקראה כ-1 יחידה)
 - טאבולה כרובית: "חצי כרובית לבנה" cauliflower product 248405 (picker: not named (כרובית שלמה לטאבולה; מוקפא ופרחים חתוכים לא))
-- טאבולה כרובית: "חצי כרובית סגולה" cauliflower product 248405 (picker: not named (כרובית לבנה כתחליף סביר לסגולה בטאבולה; פרחים חתוכים ומוקפא לא))
+- טאבולה כרובית: "חצי כרובית סגולה" cauliflower product 248405 (picker: not named (כרובית שלמה כתחליף לכרובית סגולה; 9 פרחים חתוכים מראש, 12 קפואה לא לטאבולה))
 - טאבולה כרובית: "2 כפות גדושות יוגורט" yogurt-plain product 936686 (picker: not named (יוגורט טבעי לא מתוק; בטעמים, קראנץ', שתיה וקולגן בחוץ))
 - קבב דג ברמונדי ישראלי על אפונה וקישואים: "150 גרם אפונה" peas-frozen product 1777 (critic: אפונה משומרת, ככל הנראה המנה צריכה אפונה טרייה או קפואה, לא בטוח)
 - קבב דג ברמונדי ישראלי על אפונה וקישואים: "150 גרם אפונה" peas-frozen product 1183546 (critic: אפונה של יכין היא שימורים, צורה אחרת)
 - פירות מקורמלים עם גלידה וניל: "3 אגסים" pear product 266369 (critic: 3 אגסים ~0.44 ק"ג אבל הוזמן 1 ק"ג במקום חצי קילו)
-- סלט כרובית עם חמוציות ושקדים: "2 ראשי כרובית" cauliflower product 248405 (picker: not named (ראש כרובית טרי; פרחים חתוכים, מוקפא וכרוב לא))
+- סלט כרובית עם חמוציות ושקדים: "2 ראשי כרובית" cauliflower product 248405 (picker: not named (ראש כרובית שלם; 3 פרחים חתוכים מראש, 18 קפואה, השאר כרוב))
 
-### a rule error (11)
+### a rule error (12)
 
 - zucchini product 869 (member-name: does not lead with "קישואים")
 - sweet-potato product 1111973 (member-name: does not lead with "בטטה")
@@ -128,6 +130,7 @@
 - avocado-ripe product 2984 (member-name: does not lead with "אבוקדו בשל")
 - cream-cheese product 948478 (member-name: does not lead with "גבינת שמנת")
 - cream-cheese product 1228012 (member-name: does not lead with "גבינת שמנת")
+- pumpkin product 3007 (member-provides: provides 1700 g; the shop prints 1100)
 - pear product 2802 (member-by-weight: is sold by weight (both): provides must be by-weight)
 - pomegranate product 34477 (member-category: in none of 35)
 
@@ -183,3 +186,7 @@
 - קורט אגוז מוסקט: רושטי עם תרד מוקפץ וביצת עין, פולנטה עם אספרגוס ופטריות
 - רבע כוס שומשום: סלט כרוב לבן שקדים ושומשום קלוי
 - שערות חלבה: עוגה בחושה עם שמן זית וחלווה
+
+## Products a picker named that are not members (for the next proposal)
+
+- pear "3 אגסים": 1255683 מיקס אגסים
